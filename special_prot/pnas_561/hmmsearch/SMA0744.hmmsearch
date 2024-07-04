@@ -1,0 +1,14 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+groEL2|SMA0744       -            545 Cpn60_TCP1           PF00118.22   491    2e-102  329.3  21.4   1   1  4.5e-102  4.5e-102  328.2  21.4     1   489    23   523    23   525 0.94 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMA0744.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMA0744.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMA0744.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 11:55:14 2019
+# [ok]

@@ -1,0 +1,31 @@
+
+1. SMc01113
+hypothetical protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMc01113
+Annotation:  NC_003047.1 (441865..442371)
+ID: 1232041
+
+2. Smed_0042
+hypothetical protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_0042
+Annotation:  NC_009636.1 (43610..44116)
+ID: 5320869
+
+3. SM2011_c01113
+hypothetical protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_c01113
+Annotation:  NC_020528.1 (441866..442372)
+This record was discontinued.
+ID: 14804629
+
+4. RHE_CH00374
+hypothetical protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH00374
+Annotation:  NC_007761.1 (386150..386665, complement)
+This record was discontinued.
+ID: 3891144
+
+5. NEWENTRY
+Record to support submission of GeneRIFs for a gene not in Gene (Ensifer meliloti; Rhizobium meliloti.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.). [Sinorhizobium meliloti]
+ID: 2827899
+

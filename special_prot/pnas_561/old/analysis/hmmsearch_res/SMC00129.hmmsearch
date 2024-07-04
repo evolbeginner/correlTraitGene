@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+feuQ|SMC00129        -            461 HAMP                 PF00672.23    69   2.2e-07   17.4   0.1   1   3       0.1       0.1   -0.7   1.0     5    18    18    31    11    38 0.50 -
+feuQ|SMC00129        -            461 HAMP                 PF00672.23    69   2.2e-07   17.4   0.1   2   3   2.2e-07   2.2e-07   17.4   0.1     4    66   176   238   173   241 0.84 -
+feuQ|SMC00129        -            461 HAMP                 PF00672.23    69   2.2e-07   17.4   0.1   3   3      0.53      0.53   -3.0   0.1    27    37   316   326   305   337 0.74 -
+feuQ|SMC00129        -            461 HATPase_c            PF02518.24   111     3e-16   46.3   0.0   1   1   5.3e-16   5.3e-16   45.5   0.0     4   109   348   459   345   461 0.82 -
+feuQ|SMC00129        -            461 HATPase_c_2          PF13581.4    125   4.7e-07   16.0   1.1   1   3      0.35      0.35   -2.9   0.0    30    50   133   153   121   176 0.61 -
+feuQ|SMC00129        -            461 HATPase_c_2          PF13581.4    125   4.7e-07   16.0   1.1   2   3      0.46      0.46   -3.3   0.1    13    49   241   278   235   299 0.64 -
+feuQ|SMC00129        -            461 HATPase_c_2          PF13581.4    125   4.7e-07   16.0   1.1   3   3   8.3e-07   8.3e-07   15.2   0.0    31   112   349   437   315   450 0.76 -
+feuQ|SMC00129        -            461 HATPase_c_5          PF14501.4    101     8e-08   18.4   0.1   1   1   1.1e-06   1.1e-06   14.8   0.1     1    89   345   445   345   449 0.67 -
+feuQ|SMC00129        -            461 HisKA                PF00512.23    64   3.1e-07   16.7   1.1   1   2      0.87      0.87   -3.9   0.0    32    45   200   213   194   218 0.67 -
+feuQ|SMC00129        -            461 HisKA                PF00512.23    64   3.1e-07   16.7   1.1   2   2   8.1e-07   8.1e-07   15.4   0.5     6    58   250   296   246   326 0.69 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC00129.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC00129.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC00129.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:18:28 2018
+# [ok]

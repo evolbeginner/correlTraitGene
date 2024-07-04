@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+thiD|SMB20962        -            266 HK                   PF02110.13   246   3.8e-07   15.8   3.5   1   1   5.9e-07   5.9e-07   15.2   3.5    55   225    75   247    31   259 0.75 -
+thiD|SMB20962        -            266 PfkB                 PF00294.22   302   4.1e-14   38.6   3.6   1   1   5.1e-14   5.1e-14   38.3   3.6   144   285    83   237    34   246 0.78 -
+thiD|SMB20962        -            266 Phos_pyr_kin         PF08543.10   246   1.1e-99  318.8   4.1   1   1   1.3e-99   1.3e-99  318.7   4.1     1   246    12   258    12   258 0.98 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMB20962.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMB20962.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMB20962.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:10:35 2018
+# [ok]

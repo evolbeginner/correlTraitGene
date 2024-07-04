@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+actR|SMC02584        -            194 Glyco_trans_4_2      PF13477.4    139     7e-06   12.3   0.0   1   2   1.8e-05   1.8e-05   11.0   0.0     3    53    25    77    23    93 0.81 -
+actR|SMC02584        -            194 Glyco_trans_4_2      PF13477.4    139     7e-06   12.3   0.0   2   2      0.22      0.22   -2.2   0.0    57    75   173   193   153   193 0.54 -
+actR|SMC02584        -            194 HTH_23               PF13384.4     50   1.3e-07   17.7   1.3   1   1   2.4e-07   2.4e-07   16.8   1.3    11    40   159   190   149   192 0.77 -
+actR|SMC02584        -            194 HTH_28               PF13518.4     52   1.5e-07   17.8   0.3   1   1   4.6e-07   4.6e-07   16.2   0.3    12    35   166   190   157   192 0.85 -
+actR|SMC02584        -            194 HTH_29               PF13551.4     63   3.7e-07   16.5   1.0   1   2     0.034     0.034    0.5   0.0    37    52    55    70    51    79 0.72 -
+actR|SMC02584        -            194 HTH_29               PF13551.4     63   3.7e-07   16.5   1.0   2   2   3.4e-06   3.4e-06   13.4   0.4    13    33   167   188   155   190 0.79 -
+actR|SMC02584        -            194 HTH_30               PF13556.4     59   1.1e-08   21.1   1.1   1   2      0.37      0.37   -3.0   0.0    31    42    36    47    34    53 0.72 -
+actR|SMC02584        -            194 HTH_30               PF13556.4     59   1.1e-08   21.1   1.1   2   2   1.6e-08   1.6e-08   20.6   0.3     6    30   161   185   158   190 0.90 -
+actR|SMC02584        -            194 HTH_8                PF02954.17    42   4.3e-09   22.4   0.2   1   1     1e-08     1e-08   21.2   0.2     9    37   158   186   157   190 0.83 -
+actR|SMC02584        -            194 HTH_Tnp_ISL3         PF13542.4     52   1.7e-06   13.7   0.2   1   1   3.3e-06   3.3e-06   12.8   0.2    27    50   165   190   157   192 0.82 -
+actR|SMC02584        -            194 MarR_2               PF12802.5     62   4.1e-06   13.0   0.3   1   2     0.036     0.036    0.3   0.0    38    53    35    50    31    57 0.79 -
+actR|SMC02584        -            194 MarR_2               PF12802.5     62   4.1e-06   13.0   0.3   2   2   3.8e-05   3.8e-05    9.9   0.1     9    44   129   190   127   190 0.92 -
+actR|SMC02584        -            194 OKR_DC_1_N           PF03709.13   111   6.8e-06   12.6   0.0   1   2   9.8e-05   9.8e-05    8.9   0.0     4    43    33    72    31    95 0.78 -
+actR|SMC02584        -            194 OKR_DC_1_N           PF03709.13   111   6.8e-06   12.6   0.0   2   2     0.022     0.022    1.3   0.0    84   105   157   178   147   182 0.88 -
+actR|SMC02584        -            194 Response_reg         PF00072.22   112   5.4e-26   77.3   0.1   1   1   7.7e-26   7.7e-26   76.8   0.1     2   111    26   134    25   135 0.98 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC02584.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC02584.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC02584.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 11:57:31 2018
+# [ok]

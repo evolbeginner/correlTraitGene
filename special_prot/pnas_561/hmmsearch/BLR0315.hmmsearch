@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nosZ|BLR0315         -            650 COX2                 PF00116.18   120   1.6e-10   27.2   0.3   1   1   5.5e-10   5.5e-10   25.5   0.2    60   113   586   639   568   643 0.87 -
+nosZ|BLR0315         -            650 Cupredoxin_1         PF13473.4    104   6.7e-11   28.6   0.1   1   1     2e-10     2e-10   27.0   0.0    23   104   556   645   538   645 0.88 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/BLR0315.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/BLR0315.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/BLR0315.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 15:56:58 2019
+# [ok]

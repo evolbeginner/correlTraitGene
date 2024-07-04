@@ -1,0 +1,52 @@
+
+1. glgB2
+1,4-alpha-glucan-branching protein [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b21447, SMb21447
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (1376853..1378658)
+ID: 1237608
+
+2. Smed_4408
+malto-oligosyltrehalose trehalohydrolase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4408
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (900951..902756, complement)
+ID: 5318121
+
+3. glgB2
+4-alpha-D-{(1-&gt;4)-alpha-D-glucano}trehalosetrehalohydrolase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b21447
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1376860..1378665)
+This record was discontinued.
+ID: 14756920
+
+4. SPAB_01739
+hypothetical protein [Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7]
+Other Aliases: SPAB_01739
+Annotation:  NC_010102.1 (1481087..1482871)
+This record was discontinued.
+ID: 5780231
+
+5. SARI_01411
+hypothetical protein [Salmonella enterica subsp. arizonae serovar 62:z4,z23:- str. RSK2980]
+Other Aliases: SARI_01411
+Annotation:  NC_010067.1 (1369109..1370893)
+This record was discontinued.
+ID: 5763570
+
+6. RHE_PF00263
+1,4-alpha-glucan branching enzyme [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00263
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (280757..282550, complement)
+This record was discontinued.
+ID: 3895837
+
+7. RHE_CH03279
+1,4-alpha-glucan branching enzyme [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH03279
+Annotation:  NC_007761.1 (3442276..3444264)
+This record was discontinued.
+ID: 3891442
+

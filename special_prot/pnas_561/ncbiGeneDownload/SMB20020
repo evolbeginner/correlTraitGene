@@ -1,0 +1,38 @@
+
+1. pdh
+pyruvate dehydrogenase E1 component, subunits alpha and beta [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b20020, SMb20020
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (27345..29423, complement)
+ID: 1236436
+
+2. Smed_4110
+transketolase domain-containing protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4110
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (574417..576495)
+ID: 5318545
+
+3. pdh
+Pyruvate dehydrogenase (acetyl-transferring) [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b20020
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (27345..29444, complement)
+This record was discontinued.
+ID: 14755333
+
+4. Mmwyl1_3123
+transketolase domain-containing protein [Marinomonas sp. MWYL1]
+Other Aliases: Mmwyl1_3123
+Annotation:  NC_009654.1 (3538681..3540786, complement)
+This record was discontinued.
+ID: 5368083
+
+5. Pden_1604
+transketolase, central region [Paracoccus denitrificans PD1222]
+Other Aliases: Pden_1604
+Chromosome: 1
+Annotation: Chromosome 1 NC_008686.1 (1585243..1587324, complement)
+This record was discontinued.
+ID: 4580211
+

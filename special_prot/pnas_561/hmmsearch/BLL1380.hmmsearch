@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tlpA|BLL1380         -            221 AhpC-TSA             PF00578.19   124     1e-23   69.9   0.0   1   1   1.6e-23   1.6e-23   69.3   0.0     4   119    74   189    73   191 0.94 -
+tlpA|BLL1380         -            221 Redoxin              PF08534.8    148   6.2e-28   83.5   0.0   1   1   1.1e-27   1.1e-27   82.8   0.0     5   144    74   206    70   210 0.91 -
+tlpA|BLL1380         -            221 Thioredoxin          PF00085.18   104   1.5e-11   30.5   0.0   1   1   2.8e-11   2.8e-11   29.6   0.0    19    62    96   140    87   152 0.87 -
+tlpA|BLL1380         -            221 Thioredoxin_8        PF13905.4     95   4.8e-17   48.4   0.0   1   1   7.1e-17   7.1e-17   47.9   0.0     1    93    95   189    95   191 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/BLL1380.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/BLL1380.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/BLL1380.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 15:34:09 2019
+# [ok]

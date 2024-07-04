@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+sucD|SMC02481        -            300 CoA_binding          PF02629.17    96     3e-27   81.5   2.2   1   2   4.4e-27   4.4e-27   81.0   0.7     1    96     6   105     6   105 0.96 -
+sucD|SMC02481        -            300 CoA_binding          PF02629.17    96     3e-27   81.5   2.2   2   2       0.2       0.2   -1.2   0.0    40    44   190   194   151   234 0.59 -
+sucD|SMC02481        -            300 CoA_binding_2        PF13380.4    116   3.1e-07   17.2   0.1   1   2   9.8e-07   9.8e-07   15.6   0.0    30   114    37   134    10   136 0.78 -
+sucD|SMC02481        -            300 CoA_binding_2        PF13380.4    116   3.1e-07   17.2   0.1   2   2      0.25      0.25   -1.9   0.0    79   100   206   230   189   234 0.62 -
+sucD|SMC02481        -            300 Glyco_trans_1_4      PF13692.4    134   7.4e-06   12.7   0.1   1   2    0.0016    0.0016    5.1   0.1    71   106    72   107    39   129 0.83 -
+sucD|SMC02481        -            300 Glyco_trans_1_4      PF13692.4    134   7.4e-06   12.7   0.1   2   2    0.0012    0.0012    5.6   0.0     2    90   208   297   207   299 0.76 -
+sucD|SMC02481        -            300 Ligase_CoA           PF00549.17   153   1.1e-23   69.9   0.7   1   1     2e-23     2e-23   69.1   0.7     1   151   157   280   157   282 0.94 -
+sucD|SMC02481        -            300 Succ_CoA_lig         PF13607.4    138   1.6e-11   30.4   0.1   1   1   2.7e-11   2.7e-11   29.7   0.1     1   105   151   260   151   285 0.84 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC02481.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC02481.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC02481.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:06:46 2018
+# [ok]

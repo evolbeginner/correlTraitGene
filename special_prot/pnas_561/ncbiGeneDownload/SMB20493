@@ -1,0 +1,37 @@
+
+1. BPSS1256
+short-chain type dehydrogenase/reductase [Burkholderia pseudomallei K96243]
+Other Aliases: BPSS1256
+Chromosome: 2
+Annotation: Chromosome 2 NC_006351.1 (1700846..1701589)
+ID: 3095634
+
+2. YE2069
+short chain dehydrogenease [Yersinia enterocolitica subsp. enterocolitica 8081]
+Other Aliases: YE2069
+Annotation:  NC_008800.1 (2266718..2267458, complement)
+ID: 4713642
+
+3. SM_b20493
+short-chain dehydrogenase [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b20493, SMb20493
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (510584..511318, complement)
+ID: 1236806
+
+4. SM2011_b20493
+Short chain alcohol dehydrogenase/reductase involved in D-fucose,succinate,monomethyl-succinate,leucine and lysine utilization [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b20493
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (510585..511319, complement)
+This record was discontinued.
+ID: 14755878
+
+5. RHE_PF00144
+3-oxoacyl-ACP reductase [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00144
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (151711..152451, complement)
+This record was discontinued.
+ID: 3896279
+

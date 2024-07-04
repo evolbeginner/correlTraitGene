@@ -1,0 +1,34 @@
+
+1. SMc04044
+2-component receiver domain-containing protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMc04044
+Annotation:  NC_003047.1 (3047905..3048267)
+ID: 1234503
+
+2. Smed_2719
+response regulator receiver protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_2719
+Annotation:  NC_009636.1 (2833438..2833800)
+ID: 5323588
+
+3. cpdR1
+Single domain response regulator,mediates the coordination of cell-cycle progression [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_c04044
+Annotation:  NC_020528.1 (3047333..3047842)
+This record was discontinued.
+ID: 14807813
+
+4. Xaut_2816
+response regulator receiver protein [Xanthobacter autotrophicus Py2]
+Other Aliases: Xaut_2816
+Annotation:  NC_009720.1 (3137282..3137644, complement)
+This record was discontinued.
+ID: 5420695
+
+5. RHE_CH03575
+two-component response regulator protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH03575
+Annotation:  NC_007761.1 (3770009..3770371)
+This record was discontinued.
+ID: 3894265
+

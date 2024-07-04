@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+lpsL|SMC02640        -            341 3Beta_HSD            PF01073.17   282   2.4e-15   42.3   0.0   1   1   3.2e-15   3.2e-15   41.9   0.0     1   228     4   229     4   239 0.80 -
+lpsL|SMC02640        -            341 Epimerase            PF01370.19   241   6.8e-54  168.9   0.0   1   1     9e-54     9e-54  168.5   0.0     2   225     4   231     3   242 0.94 -
+lpsL|SMC02640        -            341 GDP_Man_Dehyd        PF16363.3    332   4.6e-54  170.0   0.0   1   1   5.4e-54   5.4e-54  169.8   0.0     1   331     4   325     4   326 0.84 -
+lpsL|SMC02640        -            341 KR                   PF08659.8    180     4e-10   26.0   0.0   1   1   7.1e-10   7.1e-10   25.2   0.0     3   154     3   144     2   167 0.88 -
+lpsL|SMC02640        -            341 NAD_binding_4        PF07993.10   257   1.2e-12   33.6   0.0   1   1   6.5e-11   6.5e-11   27.9   0.0    86   208    75   184    63   222 0.84 -
+lpsL|SMC02640        -            341 Polysacc_synt_2      PF02719.13   294   6.8e-15   41.0   0.0   1   1   6.4e-14   6.4e-14   37.8   0.0     2   211     4   226     3   239 0.81 -
+lpsL|SMC02640        -            341 RmlD_sub_bind        PF04321.15   287   5.7e-16   44.5   0.0   1   1   1.4e-15   1.4e-15   43.2   0.0     1   153     1   184     1   208 0.89 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMC02640.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMC02640.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMC02640.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 16:00:33 2019
+# [ok]

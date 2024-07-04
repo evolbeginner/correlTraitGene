@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+cbrA|SMC00776        -           1134 HATPase_c            PF02518.24   111   3.6e-21   62.1   0.0   1   1   8.1e-21   8.1e-21   61.0   0.0     2   109  1018  1128  1017  1130 0.91 -
+cbrA|SMC00776        -           1134 HisKA                PF00512.23    64   1.3e-20   59.5   0.0   1   1   3.9e-20   3.9e-20   58.0   0.0     2    64   903   971   902   971 0.94 -
+cbrA|SMC00776        -           1134 PAS                  PF00989.23   113   3.4e-18   52.0   0.0   1   1   1.6e-11   1.6e-11   30.5   0.0     2    62   769   825   768   879 0.88 -
+cbrA|SMC00776        -           1134 PAS_4                PF08448.8    110   1.7e-14   40.3   0.5   1   1   5.4e-10   5.4e-10   25.8   0.0     2    57   775   830   774   852 0.94 -
+cbrA|SMC00776        -           1134 PAS_8                PF13188.5     67   7.9e-17   47.3   0.4   1   2     4e-06     4e-06   13.1   0.0     6    42   648   684   645   698 0.80 -
+cbrA|SMC00776        -           1134 PAS_8                PF13188.5     67   7.9e-17   47.3   0.4   2   2     1e-08     1e-08   21.4   0.0     3    51   770   819   769   835 0.83 -
+cbrA|SMC00776        -           1134 PAS_9                PF13426.5    102   9.2e-18   50.7   0.0   1   2     6e-05     6e-05    9.6   0.0    13    89   664   733   653   740 0.70 -
+cbrA|SMC00776        -           1134 PAS_9                PF13426.5    102   9.2e-18   50.7   0.0   2   2   1.6e-09   1.6e-09   24.3   0.0     2   102   779   881   778   881 0.90 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMC00776.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMC00776.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMC00776.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 15:04:51 2019
+# [ok]

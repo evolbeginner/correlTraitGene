@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+exoB|SMB20942        -            328 3Beta_HSD            PF01073.17   282   1.6e-19   56.0   0.0   1   1   5.1e-18   5.1e-18   51.1   0.0     1   159     7   154     7   158 0.83 -
+exoB|SMB20942        -            328 Epimerase            PF01370.19   241   1.4e-55  174.5   0.0   1   1   1.8e-55   1.8e-55  174.1   0.0     1   241     6   254     6   254 0.93 -
+exoB|SMB20942        -            328 GDP_Man_Dehyd        PF16363.3    332   9.1e-60  188.8   0.0   1   1   1.3e-59   1.3e-59  188.3   0.0     1   329     7   314     7   317 0.85 -
+exoB|SMB20942        -            328 NAD_binding_4        PF07993.10   257   4.3e-12   31.8   0.0   1   1   1.1e-11   1.1e-11   30.4   0.0    89   215    70   182    58   198 0.84 -
+exoB|SMB20942        -            328 Polysacc_synt_2      PF02719.13   294   1.2e-18   53.4   0.0   1   1   1.9e-17   1.9e-17   49.4   0.0     1   170     6   172     6   177 0.77 -
+exoB|SMB20942        -            328 RmlD_sub_bind        PF04321.15   287   6.1e-19   54.2   0.0   1   1   8.6e-19   8.6e-19   53.7   0.0     2   147     5   169     4   186 0.92 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMB20942.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMB20942.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMB20942.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 14:39:47 2019
+# [ok]

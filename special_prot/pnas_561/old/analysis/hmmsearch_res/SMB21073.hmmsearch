@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+exoF2|SMB21073       -            455 Poly_export          PF02563.14    82   2.4e-17   49.3   0.0   1   3   3.9e-16   3.9e-16   45.4   0.0     4    81    37   122    35   123 0.84 -
+exoF2|SMB21073       -            455 Poly_export          PF02563.14    82   2.4e-17   49.3   0.0   2   3      0.39      0.39   -2.7   0.0    27    51   164   188   143   192 0.65 -
+exoF2|SMB21073       -            455 Poly_export          PF02563.14    82   2.4e-17   49.3   0.0   3   3     0.056     0.056    0.0   0.0     7    19   409   421   404   439 0.85 -
+exoF2|SMB21073       -            455 SLBB                 PF10531.7     58   4.9e-10   25.5   0.0   1   1   1.5e-09   1.5e-09   23.9   0.0     2    46   128   168   127   174 0.87 -
+exoF2|SMB21073       -            455 SlyX                 PF04102.10    67   3.9e-06   13.8   6.4   1   2   3.7e-06   3.7e-06   13.8   2.3     1    47   239   285   239   327 0.90 -
+exoF2|SMB21073       -            455 SlyX                 PF04102.10    67   3.9e-06   13.8   6.4   2   2     0.052     0.052    0.5   0.2    23    50   335   362   321   382 0.59 -
+exoF2|SMB21073       -            455 Tropomyosin_1        PF12718.5    143   1.4e-05   11.4   4.0   1   1   3.7e-05   3.7e-05   10.1   3.3     8   108   228   328   222   362 0.86 -
+exoF2|SMB21073       -            455 Troponin             PF00992.18   134   3.7e-05   10.3   4.3   1   1    0.0015    0.0015    5.1   4.3    55   109   297   351   212   369 0.70 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMB21073.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMB21073.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMB21073.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:07:31 2018
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+phoR|SMC02147        -            420 HATPase_c            PF02518.24   111     5e-25   74.6   1.0   1   2      0.99      0.99   -3.7   0.1    73    86    26    41    24    45 0.67 -
+phoR|SMC02147        -            420 HATPase_c            PF02518.24   111     5e-25   74.6   1.0   2   2   5.9e-25   5.9e-25   74.3   0.1     1   106   311   419   311   420 0.91 -
+phoR|SMC02147        -            420 HATPase_c_2          PF13581.4    125   9.4e-11   28.0   0.1   1   1   1.9e-10   1.9e-10   27.0   0.1    38   110   318   398   311   419 0.81 -
+phoR|SMC02147        -            420 HATPase_c_3          PF13589.4    137     4e-07   16.2   0.0   1   1     7e-07     7e-07   15.4   0.0     9    83   322   394   315   399 0.81 -
+phoR|SMC02147        -            420 HATPase_c_5          PF14501.4    101   4.2e-06   12.9   0.1   1   1   1.4e-05   1.4e-05   11.2   0.1     5    89   315   408   312   418 0.65 -
+phoR|SMC02147        -            420 HisKA                PF00512.23    64   5.1e-23   67.3   0.2   1   1   1.2e-22   1.2e-22   66.1   0.2     1    62   198   263   198   265 0.94 -
+phoR|SMC02147        -            420 PAS                  PF00989.23   113     5e-07   16.0   0.0   1   2   7.8e-06   7.8e-06   12.2   0.0     6    36    89   119    86   125 0.91 -
+phoR|SMC02147        -            420 PAS                  PF00989.23   113     5e-07   16.0   0.0   2   2     0.021     0.021    1.1   0.0    58    94   320   354   307   390 0.74 -
+phoR|SMC02147        -            420 PAS_4                PF08448.8    110   9.9e-08   18.5   0.1   1   1   2.8e-07   2.8e-07   17.1   0.1     1   110    90   194    90   194 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC02147.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC02147.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC02147.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:33:53 2018
+# [ok]

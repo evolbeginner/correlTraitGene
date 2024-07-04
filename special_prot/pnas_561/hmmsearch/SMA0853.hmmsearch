@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nodE|SMA0853         -            402 ketoacyl-synt        PF00109.24   253   6.4e-58  182.4   3.5   1   1   6.4e-58   6.4e-58  182.4   3.5     2   253     3   239     2   239 0.94 -
+nodE|SMA0853         -            402 Ketoacyl-synt_C      PF02801.20   118   1.3e-38  117.9   2.8   1   1   2.6e-38   2.6e-38  116.9   2.8     1   117   247   359   247   360 0.94 -
+nodE|SMA0853         -            402 Thiolase_N           PF00108.21   260   1.5e-11   30.2   5.8   1   1   8.8e-11   8.8e-11   27.7   1.1    64   112   143   189   126   191 0.82 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMA0853.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMA0853.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMA0853.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 15:43:11 2019
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+pdhAb|SMC01031       -            460 Biotin_lipoyl        PF00364.20    73   5.7e-24   70.1   2.0   1   1   5.7e-24   5.7e-24   70.1   2.0     2    73     4    77     3    77 0.98 -
+pdhAb|SMC01031       -            460 Transketolase_C      PF02780.18   124   4.7e-45  138.7   0.4   1   1   1.1e-44   1.1e-44  137.5   0.1     1   124   328   450   328   450 0.99 -
+pdhAb|SMC01031       -            460 Transket_pyr         PF02779.22   178   1.2e-55  174.1   1.4   1   1   1.7e-55   1.7e-55  173.6   1.4     2   176   137   312   136   314 0.98 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMC01031.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMC01031.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMC01031.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 11:52:02 2019
+# [ok]

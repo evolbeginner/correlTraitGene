@@ -1,0 +1,40 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+fixP1|SMA1213        -            289 CCP_MauG             PF03150.12   150   0.00021    8.1   5.2   1   2    0.0016    0.0016    5.3   0.7    21    37   120   136   110   215 0.69 -
+fixP1|SMA1213        -            289 CCP_MauG             PF03150.12   150   0.00021    8.1   5.2   2   2    0.0021    0.0021    4.9   0.3    23    35   217   229   202   261 0.70 -
+fixP1|SMA1213        -            289 Cytochrome_C7        PF14522.4     73   2.9e-07   16.8   0.0   1   2   0.00029   0.00029    7.2   0.0    47    56   120   129    82   146 0.70 -
+fixP1|SMA1213        -            289 Cytochrome_C7        PF14522.4     73   2.9e-07   16.8   0.0   2   2   0.00023   0.00023    7.4   0.0    13    23   215   225   190   252 0.71 -
+fixP1|SMA1213        -            289 Cytochrome_CBB3      PF13442.4     67   1.2e-31   95.2   1.4   1   3      0.67      0.67   -3.3   0.0    41    51    24    34    16    47 0.73 -
+fixP1|SMA1213        -            289 Cytochrome_CBB3      PF13442.4     67   1.2e-31   95.2   1.4   2   3   1.1e-17   1.1e-17   50.5   0.1     3    67   112   194   110   194 0.83 -
+fixP1|SMA1213        -            289 Cytochrome_CBB3      PF13442.4     67   1.2e-31   95.2   1.4   3   3   2.1e-15   2.1e-15   43.2   0.1     3    67   207   282   205   282 0.84 -
+fixP1|SMA1213        -            289 Cytochrom_C          PF00034.19    92   1.1e-24   73.8   0.4   1   2   5.5e-13   5.5e-13   36.2   0.0     2    91   113   197   112   198 0.93 -
+fixP1|SMA1213        -            289 Cytochrom_C          PF00034.19    92   1.1e-24   73.8   0.4   2   2   4.4e-12   4.4e-12   33.3   0.2     2    43   208   249   207   286 0.76 -
+fixP1|SMA1213        -            289 Cytochrom_C1         PF02167.13   219   7.3e-07   15.2   0.0   1   2     0.015     0.015    1.1   0.0    12    31   109   128   102   175 0.87 -
+fixP1|SMA1213        -            289 Cytochrom_C1         PF02167.13   219   7.3e-07   15.2   0.0   2   2   7.4e-06   7.4e-06   11.9   0.0    15    39   207   231   196   259 0.83 -
+fixP1|SMA1213        -            289 Cytochrom_c3_2       PF14537.4     80   8.3e-07   15.8   0.1   1   2    0.0012    0.0012    5.6   0.0     6    15   120   129   107   138 0.76 -
+fixP1|SMA1213        -            289 Cytochrom_c3_2       PF14537.4     80   8.3e-07   15.8   0.1   2   2   0.00024   0.00024    7.9   0.0    18    39   207   228   199   245 0.78 -
+fixP1|SMA1213        -            289 Cytochrom_C550       PF14495.4    136   1.7e-10   27.0   0.0   1   2   1.8e-05   1.8e-05   10.7   0.0    21    46   107   132    89   151 0.80 -
+fixP1|SMA1213        -            289 Cytochrom_C550       PF14495.4    136   1.7e-10   27.0   0.0   2   2   1.8e-06   1.8e-06   14.0   0.0    25    42   206   223   181   259 0.83 -
+fixP1|SMA1213        -            289 DnaJ_CXXCXGXG        PF00684.17    67   1.6e-06   14.8   0.9   1   2   0.00023   0.00023    7.8   0.2    14    24   120   130   106   138 0.61 -
+fixP1|SMA1213        -            289 DnaJ_CXXCXGXG        PF00684.17    67   1.6e-06   14.8   0.9   2   2    0.0017    0.0017    5.1   0.0    57    65   215   223   187   237 0.67 -
+fixP1|SMA1213        -            289 DUF1924              PF09086.9     96   2.3e-06   14.3   1.0   1   2    0.0025    0.0025    4.5   0.1    22    36   116   130   105   136 0.75 -
+fixP1|SMA1213        -            289 DUF1924              PF09086.9     96   2.3e-06   14.3   1.0   2   2   0.00019   0.00019    8.1   0.1    26    39   215   228   201   234 0.71 -
+fixP1|SMA1213        -            289 FixP_N               PF14715.4     48   6.2e-31   92.3   5.9   1   1   9.6e-31   9.6e-31   91.7   5.9     1    47    13    59    13    60 0.97 -
+fixP1|SMA1213        -            289 GSu_C4xC__C2xCH      PF09698.8     36     3e-06   14.3   2.3   1   2   0.00038   0.00038    7.6   0.5     6    27   125   151   120   157 0.73 -
+fixP1|SMA1213        -            289 GSu_C4xC__C2xCH      PF09698.8     36     3e-06   14.3   2.3   2   2    0.0015    0.0015    5.6   0.1    29    36   215   222   204   242 0.87 -
+fixP1|SMA1213        -            289 Paired_CXXCH_1       PF09699.8     42   3.8e-06   12.9   0.9   1   2    0.0024    0.0024    4.0   0.1     9    38   123   128   116   139 0.70 -
+fixP1|SMA1213        -            289 Paired_CXXCH_1       PF09699.8     42   3.8e-06   12.9   0.9   2   2   0.00024   0.00024    7.2   0.1     6    17   215   226   203   238 0.73 -
+fixP1|SMA1213        -            289 PSCyt1               PF07635.9     59   5.9e-06   13.1   2.1   1   3    0.0034    0.0034    4.3   0.1     1    11   123   135   123   160 0.79 -
+fixP1|SMA1213        -            289 PSCyt1               PF07635.9     59   5.9e-06   13.1   2.1   2   3      0.17      0.17   -1.1   0.0    51    57   171   177   167   179 0.78 -
+fixP1|SMA1213        -            289 PSCyt1               PF07635.9     59   5.9e-06   13.1   2.1   3   3   0.00046   0.00046    7.1   0.0     1    18   218   234   218   264 0.68 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA1213.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA1213.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA1213.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:30:50 2018
+# [ok]

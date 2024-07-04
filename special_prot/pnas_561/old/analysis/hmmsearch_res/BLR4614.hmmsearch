@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ndvB|BLR4614         -            889 Chitin_synth_2       PF03142.13   527   3.7e-06   11.8   0.1   1   3     5e-05     5e-05    8.1   0.0    27    62   419   454   399   457 0.78 -
+ndvB|BLR4614         -            889 Chitin_synth_2       PF03142.13   527   3.7e-06   11.8   0.1   2   3     0.026     0.026   -0.9   0.1   202   228   504   530   493   535 0.85 -
+ndvB|BLR4614         -            889 Chitin_synth_2       PF03142.13   527   3.7e-06   11.8   0.1   3   3     0.029     0.029   -1.0   0.0   353   371   626   644   617   649 0.83 -
+ndvB|BLR4614         -            889 Glycos_transf_2      PF00535.24   170   7.4e-29   86.9   0.0   1   1   1.7e-28   1.7e-28   85.7   0.0     1   166   420   589   420   591 0.89 -
+ndvB|BLR4614         -            889 Glyco_hydro_17       PF00332.16   309   3.2e-06   12.8   0.0   1   1   5.8e-06   5.8e-06   12.0   0.0   228   305   219   294   195   297 0.90 -
+ndvB|BLR4614         -            889 Glyco_tranf_2_3      PF13641.4    231   4.3e-34  104.5   0.0   1   1   7.7e-34   7.7e-34  103.7   0.0     1   231   417   646   417   646 0.88 -
+ndvB|BLR4614         -            889 Glyco_transf_21      PF13506.4    173   8.3e-21   60.4   0.1   1   1   2.2e-20   2.2e-20   59.0   0.1    18   172   489   644   476   645 0.87 -
+ndvB|BLR4614         -            889 Glyco_trans_2_3      PF13632.4    197   1.4e-27   83.0   0.4   1   2      0.38      0.38   -3.3   0.8   169   171   352   354   297   383 0.55 -
+ndvB|BLR4614         -            889 Glyco_trans_2_3      PF13632.4    197   1.4e-27   83.0   0.4   2   2   1.4e-27   1.4e-27   83.0   0.4     1   183   506   704   506   736 0.73 -
+ndvB|BLR4614         -            889 PrgI                 PF12666.5     90         1   -3.8  19.7   1   3    0.0013    0.0013    5.8   3.7    24    70   347   390   330   396 0.78 -
+ndvB|BLR4614         -            889 PrgI                 PF12666.5     90         1   -3.8  19.7   2   3      0.44      0.44   -2.3   1.0    35    43   700   708   677   756 0.50 -
+ndvB|BLR4614         -            889 PrgI                 PF12666.5     90         1   -3.8  19.7   3   3     0.039     0.039    1.0   1.0    26    63   795   837   790   858 0.62 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLR4614.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLR4614.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLR4614.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:50:35 2018
+# [ok]

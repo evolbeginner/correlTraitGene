@@ -1,0 +1,31 @@
+
+1. fixG
+FixG iron sulfur membrane protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMa1211
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (665557..667131, complement)
+ID: 1235697
+
+2. Smed_5931
+cytochrome c oxidase cbb3 type accessory protein FixG [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_5931
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (894148..895722, complement)
+ID: 5320233
+
+3. fixG
+FixG iron sulfur membrane protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a1211
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (665224..666798, complement)
+This record was discontinued.
+ID: 14746385
+
+4. RHE_PD00292
+ferredoxin oxidase [Rhizobium etli CFN 42]
+Other Aliases: RHE_PD00292
+Genomic context: Plasmid symbiotic plasmid p42d
+Annotation:  NC_004041.2 (307456..309030, complement)
+This record was discontinued.
+ID: 1005010
+

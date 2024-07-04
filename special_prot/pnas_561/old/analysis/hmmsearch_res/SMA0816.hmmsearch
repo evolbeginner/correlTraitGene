@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+fixX|SMA0816         -             98 ETF_QO               PF05187.11   104   1.7e-11   30.5   0.2   1   1     2e-11     2e-11   30.3   0.2    46   100    42    92    26    96 0.88 -
+fixX|SMA0816         -             98 Fer4                 PF00037.25    24   0.00031    7.0   9.4   1   2     0.021     0.021    1.2   0.3    16    22    44    50    43    52 0.77 -
+fixX|SMA0816         -             98 Fer4                 PF00037.25    24   0.00031    7.0   9.4   2   2   7.3e-05   7.3e-05    8.9   3.9     2    19    60    77    59    79 0.82 -
+fixX|SMA0816         -             98 Fer4_10              PF13237.4     56   7.5e-05    9.1   8.0   1   1   0.00016   0.00016    8.1   8.1    17    55    44    76    43    77 0.87 -
+fixX|SMA0816         -             98 Fer4_2               PF12797.5     22   3.7e-05   10.2   8.5   1   2     0.039     0.039    0.7   0.2    17    22    43    48    43    48 0.80 -
+fixX|SMA0816         -             98 Fer4_2               PF12797.5     22   3.7e-05   10.2   8.5   2   2   8.9e-06   8.9e-06   12.1   3.1     7    20    63    76    58    78 0.82 -
+fixX|SMA0816         -             98 Fer4_4               PF12800.5     17   5.3e-05   10.1   5.9   1   2     0.051     0.051    0.8   0.1    11    16    43    48    41    54 0.77 -
+fixX|SMA0816         -             98 Fer4_4               PF12800.5     17   5.3e-05   10.1   5.9   2   2   3.9e-05   3.9e-05   10.6   2.2     2    16    64    78    63    83 0.88 -
+fixX|SMA0816         -             98 Fer4_7               PF12838.5     52   4.9e-06   13.4   6.6   1   1   9.7e-06   9.7e-06   12.5   6.6    10    49    44    77    43    80 0.89 -
+fixX|SMA0816         -             98 Fer4_9               PF13187.4     51   1.3e-05   11.7   6.6   1   1   2.1e-05   2.1e-05   11.0   6.6    10    48    44    78    43    80 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA0816.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA0816.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA0816.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:37:08 2018
+# [ok]

@@ -1,0 +1,30 @@
+
+Call:
+phyloglm(formula = trait ~ predictor, data = dat, phy = tre, 
+    boot = 100)
+       AIC     logLik Pen.logLik 
+     255.6     -124.8     -120.9 
+
+Method: logistic_MPLE
+Mean tip height: 0.3112999
+Parameter estimate(s):
+alpha: 174.0735 
+      bootstrap mean: 69.27226 (on log scale, then back transformed)
+      so possible downward bias.
+      bootstrap 95% CI: (3.719018,175.3036)
+
+Coefficients:
+            Estimate   StdErr  z.value lowerbootCI upperbootCI   p.value    
+(Intercept) -3.21108  0.70759 -4.53807    -4.85211     -2.6437 5.677e-06 ***
+predictor    0.58824  0.12557  4.68474     0.49138      0.9038 2.803e-06 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Note: Wald-type p-values for coefficients, conditional on alpha=174.0735
+      Parametric bootstrap results based on 100 fitted replicates
+
+(Intercept)   predictor 
+ -3.2110775   0.5882401 
+            (Intercept)   predictor
+(Intercept)  0.50067772 -0.08658688
+predictor   -0.08658688  0.01576664

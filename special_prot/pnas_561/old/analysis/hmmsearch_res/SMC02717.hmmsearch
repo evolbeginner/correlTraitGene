@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+leuA1|SMC02717       -            569 HMGL-like            PF00682.17   264   1.2e-77  247.2   0.0   1   1   1.8e-77   1.8e-77  246.6   0.0     2   262    41   318    40   319 0.98 -
+leuA1|SMC02717       -            569 LeuA_dimer           PF08502.8    133   3.5e-33  100.6   0.0   1   1   6.4e-33   6.4e-33   99.7   0.0     4   133   434   564   431   564 0.94 -
+leuA1|SMC02717       -            569 Sigma_reg_N          PF13800.4     90     1e-05   12.1   0.0   1   2   3.1e-05   3.1e-05   10.5   0.0    33    64   203   234   195   242 0.84 -
+leuA1|SMC02717       -            569 Sigma_reg_N          PF13800.4     90     1e-05   12.1   0.0   2   2      0.52      0.52   -3.0   0.0    23    60   499   537   496   546 0.76 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC02717.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC02717.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC02717.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:34:52 2018
+# [ok]

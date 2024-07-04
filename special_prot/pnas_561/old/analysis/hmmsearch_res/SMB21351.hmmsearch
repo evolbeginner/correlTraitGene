@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+dctM|SMB21351        -            427 ATP-synt_J           PF04911.10    51   7.6e-07   15.0   0.2   1   1   2.7e-06   2.7e-06   13.2   0.2     7    25   394   412   392   418 0.87 -
+dctM|SMB21351        -            427 CitMHS               PF03600.14   293         1   -8.0  59.6   1   2         1         1   -8.7  43.8    13   260    26   333     3   336 0.58 -
+dctM|SMB21351        -            427 CitMHS               PF03600.14   293         1   -8.0  59.6   2   2     0.019     0.019    0.2  31.7    15   160   245   414   223   425 0.72 -
+dctM|SMB21351        -            427 CPP1-like            PF11833.6    198   4.3e-07   15.9   0.6   1   3      0.13      0.13   -2.0   0.1   100   133    31    63    25   117 0.61 -
+dctM|SMB21351        -            427 CPP1-like            PF11833.6    198   4.3e-07   15.9   0.6   2   3   4.3e-07   4.3e-07   15.9   0.6    81   170   141   239   110   257 0.81 -
+dctM|SMB21351        -            427 CPP1-like            PF11833.6    198   4.3e-07   15.9   0.6   3   3     0.044     0.044   -0.5   5.1   111   195   235   322   233   330 0.61 -
+dctM|SMB21351        -            427 DctM                 PF06808.10   416  2.8e-111  358.3  54.3   1   1  3.2e-111  3.2e-111  358.1  54.3     1   416     7   417     7   417 0.98 -
+dctM|SMB21351        -            427 DcuC                 PF03606.13   465      0.15   -3.6  51.2   1   3       0.3       0.3   -4.5   5.0   116   188     3    77     1    82 0.73 -
+dctM|SMB21351        -            427 DcuC                 PF03606.13   465      0.15   -3.6  51.2   2   3      0.12      0.12   -3.2   8.8   122   221    98   196    67   200 0.77 -
+dctM|SMB21351        -            427 DcuC                 PF03606.13   465      0.15   -3.6  51.2   3   3   6.2e-07   6.2e-07   14.2  23.4   260   462   219   414   207   416 0.80 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMB21351.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMB21351.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMB21351.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:27:10 2018
+# [ok]

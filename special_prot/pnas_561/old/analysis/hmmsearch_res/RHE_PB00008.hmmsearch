@@ -1,0 +1,37 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+rmrA|RHE_PB00008     -            394 Atg14                PF10186.7    324   0.00012    7.3   5.4   1   2    0.0011    0.0011    4.1   0.6    63   107   130   174    83   202 0.68 -
+rmrA|RHE_PB00008     -            394 Atg14                PF10186.7    324   0.00012    7.3   5.4   2   2   0.00054   0.00054    5.2   1.8    57   120   197   258   169   263 0.76 -
+rmrA|RHE_PB00008     -            394 Biotin_lipoyl        PF00364.20    73     9e-11   27.8   0.1   1   2   9.8e-08   9.8e-08   18.1   0.1    40    73    90   124    81   124 0.90 -
+rmrA|RHE_PB00008     -            394 Biotin_lipoyl        PF00364.20    73     9e-11   27.8   0.1   2   2   0.00023   0.00023    7.3   0.0    44    71   259   286   256   288 0.92 -
+rmrA|RHE_PB00008     -            394 Biotin_lipoyl_2      PF13533.4     50   1.5e-23   68.8  11.7   1   3     1e-20     1e-20   59.7   1.2     3    50    94   141    92   141 0.96 -
+rmrA|RHE_PB00008     -            394 Biotin_lipoyl_2      PF13533.4     50   1.5e-23   68.8  11.7   2   3     0.013     0.013    1.7   1.3    35    50   226   242   216   242 0.80 -
+rmrA|RHE_PB00008     -            394 Biotin_lipoyl_2      PF13533.4     50   1.5e-23   68.8  11.7   3   3   1.2e-05   1.2e-05   11.5   0.0     4    31   259   286   254   290 0.91 -
+rmrA|RHE_PB00008     -            394 CENP-Q               PF13094.4    155   5.5e-05    9.6   5.5   1   2     0.049     0.049    0.0   0.4    28    67   135   174   121   192 0.64 -
+rmrA|RHE_PB00008     -            394 CENP-Q               PF13094.4    155   5.5e-05    9.6   5.5   2   2   1.5e-05   1.5e-05   11.4   0.6    37    72   217   252   195   259 0.87 -
+rmrA|RHE_PB00008     -            394 DUF3584              PF12128.6   1200   2.5e-05    8.0  12.3   1   1   3.2e-05   3.2e-05    7.6  12.3   589   724   121   255   111   268 0.84 -
+rmrA|RHE_PB00008     -            394 DUF3869              PF12985.5    106    0.0014    5.3  12.2   1   2   0.00023   0.00023    7.8   6.6    13    98   137   220   129   228 0.85 -
+rmrA|RHE_PB00008     -            394 DUF3869              PF12985.5    106    0.0014    5.3  12.2   2   2     0.086     0.086   -0.4   0.3    46    46   277   277   224   320 0.47 -
+rmrA|RHE_PB00008     -            394 Fez1                 PF06818.13   198   6.4e-06   12.9   3.0   1   1   9.4e-06   9.4e-06   12.3   3.0    39   150   125   240   117   254 0.71 -
+rmrA|RHE_PB00008     -            394 HlyD                 PF00529.18    80     0.019    1.2  25.8   1   1     0.058     0.058   -0.4  25.8    12    59   146   367    54   380 0.73 -
+rmrA|RHE_PB00008     -            394 HlyD_3               PF13437.4    106   6.6e-26   77.4   8.0   1   2   1.5e-07   1.5e-07   18.4   1.3     5    92    99   189    95   203 0.74 -
+rmrA|RHE_PB00008     -            394 HlyD_3               PF13437.4    106   6.6e-26   77.4   8.0   2   2   2.9e-21   2.9e-21   62.5   0.4     1    82   259   339   259   387 0.82 -
+rmrA|RHE_PB00008     -            394 HlyD_D23             PF16576.3    214   1.4e-27   82.4  10.6   1   2   7.6e-26   7.6e-26   76.8   9.1    19   187    93   336    85   340 0.76 -
+rmrA|RHE_PB00008     -            394 HlyD_D23             PF16576.3    214   1.4e-27   82.4  10.6   2   2     0.082     0.082   -1.8   0.0   104   132   355   383   351   386 0.78 -
+rmrA|RHE_PB00008     -            394 Parvo_NS1            PF01057.15   272   8.5e-06   11.1   0.8   1   1   1.3e-05   1.3e-05   10.5   0.8    50   103   148   202   129   212 0.72 -
+rmrA|RHE_PB00008     -            394 Peptidase_M23        PF01551.20    96     5e-06   13.0   0.3   1   2    0.0012    0.0012    5.3   0.0    52    76   104   128    77   137 0.85 -
+rmrA|RHE_PB00008     -            394 Peptidase_M23        PF01551.20    96     5e-06   13.0   0.3   2   2    0.0019    0.0019    4.8   0.2    14    63   258   314   244   317 0.74 -
+rmrA|RHE_PB00008     -            394 PTS_EIIA_1           PF00358.18   127   6.2e-06   12.2   0.1   1   2   0.00025   0.00025    7.0   0.0    81   111   102   132    92   145 0.81 -
+rmrA|RHE_PB00008     -            394 PTS_EIIA_1           PF00358.18   127   6.2e-06   12.2   0.1   2   2     0.015     0.015    1.3   0.0    41   101   261   286   249   294 0.60 -
+rmrA|RHE_PB00008     -            394 RskA                 PF10099.7    180    0.0007    6.1  22.5   1   1         1         1   -4.5  22.5    18    86    29   196     7   316 0.67 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/RHE_PB00008.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/RHE_PB00008.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/RHE_PB00008.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:03:01 2018
+# [ok]

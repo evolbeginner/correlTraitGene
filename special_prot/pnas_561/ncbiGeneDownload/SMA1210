@@ -1,0 +1,31 @@
+
+1. fixH
+nitrogen fixation protein FixH [Sinorhizobium meliloti 1021]
+Other Aliases: SMa1210
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (665057..665560, complement)
+ID: 1235696
+
+2. Smed_5930
+FixH family protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_5930
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (893648..894151, complement)
+ID: 5320232
+
+3. fixH
+FixH nitrogen fixation protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a1210
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (664724..665227, complement)
+This record was discontinued.
+ID: 14746384
+
+4. RHE_PD00291
+cation pump membrane (nitrogen fixation)protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_PD00291
+Genomic context: Plasmid symbiotic plasmid p42d
+Annotation:  NC_004041.2 (306974..307459, complement)
+This record was discontinued.
+ID: 1005011
+

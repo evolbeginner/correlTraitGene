@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+pmtA|BLR0681         -            199 Methyltransf_11      PF08241.10    95   6.2e-08   19.5   0.0   1   1   8.8e-08   8.8e-08   19.1   0.0     2    54    60   112    59   156 0.93 -
+pmtA|BLR0681         -            199 Methyltransf_12      PF08242.10    99   9.7e-06   12.6   0.0   1   1   1.4e-05   1.4e-05   12.1   0.0     1    53    59   112    59   156 0.86 -
+pmtA|BLR0681         -            199 Methyltransf_25      PF13649.4     97   3.1e-10   27.0   0.0   1   1   4.5e-10   4.5e-10   26.5   0.0     1    96    58   155    58   155 0.82 -
+pmtA|BLR0681         -            199 Methyltransf_31      PF13847.4    152   1.5e-05   11.0   0.0   1   1   2.2e-05   2.2e-05   10.5   0.0     3    38    54    89    52   114 0.92 -
+pmtA|BLR0681         -            199 MTS                  PF05175.12   169   1.2e-05   11.1   0.0   1   1   1.5e-05   1.5e-05   10.7   0.0    22   107    45   133    33   159 0.65 -
+pmtA|BLR0681         -            199 PCMT                 PF01135.17   210   1.7e-06   14.0   0.0   1   1   2.4e-06   2.4e-06   13.5   0.0    42   112    24    93    15   108 0.76 -
+pmtA|BLR0681         -            199 RrnaAD               PF00398.18   265     9e-12   30.7   0.0   1   1   1.2e-11   1.2e-11   30.2   0.0    26    87    50   111    39   119 0.90 -
+pmtA|BLR0681         -            199 TrkA_N               PF02254.16   116   2.9e-06   13.8   0.0   1   1   4.2e-06   4.2e-06   13.3   0.0     5    51    64   111    63   142 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLR0681.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLR0681.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLR0681.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:14:00 2018
+# [ok]

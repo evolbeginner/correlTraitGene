@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+atvA|RHE_CH03485     -            460 Abhydrolase_1        PF00561.18   256   6.3e-08   18.6   0.3   1   2      0.39      0.39   -3.6   0.1    83    96   135   148   135   149 0.92 -
+atvA|RHE_CH03485     -            460 Abhydrolase_1        PF00561.18   256   6.3e-08   18.6   0.3   2   2   1.2e-07   1.2e-07   17.7   0.0     7    86   273   345   270   373 0.88 -
+atvA|RHE_CH03485     -            460 Hydrolase_4          PF12146.6    239   3.9e-07   15.6   0.0   1   2   0.00026   0.00026    6.4   0.0    57   103   103   152    46   212 0.80 -
+atvA|RHE_CH03485     -            460 Hydrolase_4          PF12146.6    239   3.9e-07   15.6   0.0   2   2   0.00015   0.00015    7.2   0.0    56    94   312   350   285   386 0.83 -
+atvA|RHE_CH03485     -            460 VirJ                 PF06057.9    192   1.9e-90  288.0   0.8   1   2   2.4e-05   2.4e-05   10.4   0.1     5    38    51    84    48    90 0.90 -
+atvA|RHE_CH03485     -            460 VirJ                 PF06057.9    192   1.9e-90  288.0   0.8   2   2   8.1e-87   8.1e-87  276.2   0.1     2   191   266   457   265   458 0.98 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/RHE_CH03485.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/RHE_CH03485.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/RHE_CH03485.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:29:30 2018
+# [ok]

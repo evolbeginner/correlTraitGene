@@ -1,0 +1,33 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+actP|SMA1013         -            826 DUF4149              PF13664.4    102   0.00026    7.6   7.5   1   3      0.41      0.41   -2.7   0.1    19    19   267   267   248   305 0.51 -
+actP|SMA1013         -            826 DUF4149              PF13664.4    102   0.00026    7.6   7.5   2   3    0.0091    0.0091    2.7   0.1    61    91   421   451   399   454 0.79 -
+actP|SMA1013         -            826 DUF4149              PF13664.4    102   0.00026    7.6   7.5   3   3   0.00033   0.00033    7.3   0.9    25    91   759   816   746   820 0.86 -
+actP|SMA1013         -            826 DUF59                PF01883.17    74   1.5e-06   14.6   0.4   1   2    0.0019    0.0019    4.7   0.1    54    72    30    48    21    50 0.80 -
+actP|SMA1013         -            826 DUF59                PF01883.17    74   1.5e-06   14.6   0.4   2   2   0.00041   0.00041    6.9   0.0    54    73    97   116    88   117 0.84 -
+actP|SMA1013         -            826 E1-E2_ATPase         PF00122.18   221   1.3e-72  229.8   4.4   1   2     0.044     0.044   -0.8   0.0   123   187   148   222   126   225 0.57 -
+actP|SMA1013         -            826 E1-E2_ATPase         PF00122.18   221   1.3e-72  229.8   4.4   2   2   2.4e-72   2.4e-72  229.0   2.9     1   221   281   503   281   503 0.99 -
+actP|SMA1013         -            826 HAD                  PF12710.5    188   1.9e-10   27.6   0.8   1   2      0.75      0.75   -3.7   0.0     5    16   348   359   348   367 0.83 -
+actP|SMA1013         -            826 HAD                  PF12710.5    188   1.9e-10   27.6   0.8   2   2   6.7e-10   6.7e-10   25.8   0.2    87   187   648   721   623   722 0.73 -
+actP|SMA1013         -            826 HAD_2                PF13419.4    178   1.2e-05   11.7   0.0   1   1   3.9e-05   3.9e-05   10.0   0.0    85   132   649   696   641   730 0.80 -
+actP|SMA1013         -            826 HMA                  PF00403.24    62   9.6e-37  111.6   0.6   1   2     1e-18     1e-18   53.9   0.0     3    62    20    78    18    78 0.91 -
+actP|SMA1013         -            826 HMA                  PF00403.24    62   9.6e-37  111.6   0.6   2   2   3.1e-19   3.1e-19   55.6   0.2     2    62    86   145    85   145 0.92 -
+actP|SMA1013         -            826 Hydrolase            PF00702.24   210   1.5e-49  155.2   2.8   1   3      0.34      0.34   -2.7   0.0   119   156   106   143    51   161 0.69 -
+actP|SMA1013         -            826 Hydrolase            PF00702.24   210   1.5e-49  155.2   2.8   2   3      0.46      0.46   -3.2   0.0     8    23   348   363   348   382 0.76 -
+actP|SMA1013         -            826 Hydrolase            PF00702.24   210   1.5e-49  155.2   2.8   3   3   1.5e-49   1.5e-49  155.2   2.8     2   210   509   725   508   725 0.91 -
+actP|SMA1013         -            826 Hydrolase_3          PF08282.10   255   2.1e-13   36.7   1.9   1   3      0.27      0.27   -3.0   0.0     5    20   348   363   348   365 0.84 -
+actP|SMA1013         -            826 Hydrolase_3          PF08282.10   255   2.1e-13   36.7   1.9   2   3   4.1e-05   4.1e-05    9.5   0.0    16    58   644   686   630   689 0.89 -
+actP|SMA1013         -            826 Hydrolase_3          PF08282.10   255   2.1e-13   36.7   1.9   3   3   3.9e-10   3.9e-10   26.0   0.1   197   255   699   757   694   757 0.89 -
+actP|SMA1013         -            826 YscJ_FliF            PF01514.15   194   9.2e-06   11.6   0.1   1   2   0.00077   0.00077    5.3   0.0   111   137    32    58    27    77 0.82 -
+actP|SMA1013         -            826 YscJ_FliF            PF01514.15   194   9.2e-06   11.6   0.1   2   2    0.0025    0.0025    3.7   0.1   111   136    99   124    95   140 0.79 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA1013.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA1013.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA1013.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:40:43 2018
+# [ok]

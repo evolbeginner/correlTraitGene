@@ -1,0 +1,30 @@
+
+1. Smed_5135
+tripartite ATP-independent periplasmic transporter DctQ [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_5135
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (88129..88698)
+ID: 5319437
+
+2. SMa0155
+hypothetical protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMa0155
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (86647..87216, complement)
+ID: 1235307
+
+3. matQ
+Malonate TRAP-type transporter,small permease component [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a0155
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (86314..86883, complement)
+This record was discontinued.
+ID: 14745589
+
+4. Mlg_2787
+tripartite ATP-independent periplasmic transporter DctQ [Alkalilimnicola ehrlichii MLHE-1]
+Other Aliases: Mlg_2787
+Annotation:  NC_008340.1 (3170088..3170708, complement)
+This record was discontinued.
+ID: 4269721
+

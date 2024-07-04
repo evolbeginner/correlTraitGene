@@ -1,0 +1,37 @@
+
+1. nodD1
+NodD1 nod-box dependent transcriptional activator [Sinorhizobium meliloti 1021]
+Other Aliases: SMa0870
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (481810..482736)
+ID: 1235512
+
+2. YE1863
+LysR family transcriptional regulator [Yersinia enterocolitica subsp. enterocolitica 8081]
+Other Aliases: YE1863
+Annotation:  NC_008800.1 (2042930..2043850)
+ID: 4715975
+
+3. Smed_6183
+LysR family transcriptional regulator [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_6183
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (1105936..1106871, complement)
+ID: 5320485
+
+4. nodD1
+NodD1 nod-box dependent transcriptional activator [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a0870
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (481410..482437)
+This record was discontinued.
+ID: 14746145
+
+5. Rleg2_5035
+LysR family transcriptional regulator [Rhizobium leguminosarum bv. trifolii WSM2304]
+Other Aliases: Rleg2_5035
+Genomic context: Plasmid pRLG201
+Annotation:  NC_011368.1 (683316..684248, complement)
+This record was discontinued.
+ID: 6978129
+

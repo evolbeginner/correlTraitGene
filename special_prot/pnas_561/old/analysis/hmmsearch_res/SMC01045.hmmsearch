@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ntrX|SMC01045        -            454 AAA                  PF00004.27   132   1.8e-08   21.1   0.0   1   1   4.8e-08   4.8e-08   19.7   0.0     2   122   167   295   166   304 0.71 -
+ntrX|SMC01045        -            454 AAA_16               PF13191.4    170   1.3e-07   18.3   0.5   1   3      0.14      0.14   -1.3   0.1   130   169    42    81     7    82 0.63 -
+ntrX|SMC01045        -            454 AAA_16               PF13191.4    170   1.3e-07   18.3   0.5   2   3   5.9e-07   5.9e-07   16.2   0.0     4    62   144   196   141   260 0.73 -
+ntrX|SMC01045        -            454 AAA_16               PF13191.4    170   1.3e-07   18.3   0.5   3   3       0.7       0.7   -3.6   0.0    56    86   395   425   390   429 0.77 -
+ntrX|SMC01045        -            454 AAA_2                PF07724.12   171   9.3e-08   18.5   0.0   1   2     0.056     0.056   -0.3   0.0    36    82    31    75    11    92 0.78 -
+ntrX|SMC01045        -            454 AAA_2                PF07724.12   171   9.3e-08   18.5   0.0   2   2   7.6e-07   7.6e-07   15.6   0.0     4   118   164   271   162   301 0.74 -
+ntrX|SMC01045        -            454 AAA_5                PF07728.12   138   1.7e-10   27.3   0.1   1   2      0.57      0.57   -3.6   0.0    69    80    65    76    62    82 0.81 -
+ntrX|SMC01045        -            454 AAA_5                PF07728.12   138   1.7e-10   27.3   0.1   2   2   5.2e-10   5.2e-10   25.7   0.0     2   106   166   272   165   300 0.81 -
+ntrX|SMC01045        -            454 FleQ                 PF06490.9    109   2.7e-06   14.0   0.0   1   1   6.8e-06   6.8e-06   12.7   0.0     2    81     5    88     4   113 0.77 -
+ntrX|SMC01045        -            454 HTH_8                PF02954.17    42   7.1e-16   44.1   0.1   1   1   1.9e-15   1.9e-15   42.8   0.1     2    40   412   450   411   452 0.96 -
+ntrX|SMC01045        -            454 MCM                  PF00493.21   331   8.6e-07   14.4   0.0   1   2    0.0044    0.0044    2.2   0.0    63   104   143   185   121   204 0.72 -
+ntrX|SMC01045        -            454 MCM                  PF00493.21   331   8.6e-07   14.4   0.0   2   2   1.9e-05   1.9e-05    9.9   0.0   114   149   224   259   214   263 0.91 -
+ntrX|SMC01045        -            454 Mg_chelatase         PF01078.19   207   3.4e-10   25.8   0.1   1   2   0.00012   0.00012    7.6   0.0    12    43   153   184   145   192 0.82 -
+ntrX|SMC01045        -            454 Mg_chelatase         PF01078.19   207   3.4e-10   25.8   0.1   2   2   3.2e-07   3.2e-07   16.1   0.0    89   128   210   253   193   283 0.79 -
+ntrX|SMC01045        -            454 Response_reg         PF00072.22   112   1.9e-31   94.8   0.1   1   1   5.6e-31   5.6e-31   93.3   0.1     1   109     5   114     5   117 0.97 -
+ntrX|SMC01045        -            454 Sigma54_activat      PF00158.24   168   1.5e-56  176.9   0.0   1   1   2.2e-56   2.2e-56  176.3   0.0     1   167   142   305   142   306 0.97 -
+ntrX|SMC01045        -            454 Sigma54_activ_2      PF14532.4    138   6.9e-26   77.2   0.0   1   1   1.4e-25   1.4e-25   76.2   0.0     1   138   143   310   143   310 0.95 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC01045.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC01045.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC01045.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:33:48 2018
+# [ok]

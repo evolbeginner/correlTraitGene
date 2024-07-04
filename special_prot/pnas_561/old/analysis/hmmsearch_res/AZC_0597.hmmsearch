@@ -1,0 +1,40 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+hypF|AZC_0597        -            763 Acylphosphatase      PF00708.16    85   2.3e-22   65.5   0.0   1   1   5.2e-22   5.2e-22   64.4   0.0     2    83     9    89     8    91 0.88 -
+hypF|AZC_0597        -            763 DZR                  PF12773.5     49   8.9e-08   18.4   2.3   1   2    0.0001    0.0001    8.7   0.1    10    35   105   136    93   144 0.80 -
+hypF|AZC_0597        -            763 DZR                  PF12773.5     49   8.9e-08   18.4   2.3   2   2   7.1e-05   7.1e-05    9.1   0.3    14    36   159   187   148   198 0.73 -
+hypF|AZC_0597        -            763 Lar_restr_allev      PF14354.4     62   3.6e-05   10.4   3.6   1   2   7.5e-05   7.5e-05    9.4   0.2     2    36   106   137   105   153 0.87 -
+hypF|AZC_0597        -            763 Lar_restr_allev      PF14354.4     62   3.6e-05   10.4   3.6   2   2     0.024     0.024    1.4   0.3     6    47   160   199   156   209 0.56 -
+hypF|AZC_0597        -            763 Peptidase_M22        PF00814.23   271   1.5e-09   24.0   2.2   1   2   1.6e-05   1.6e-05   10.8   0.5    70   113   466   513   438   515 0.85 -
+hypF|AZC_0597        -            763 Peptidase_M22        PF00814.23   271   1.5e-09   24.0   2.2   2   2   5.4e-06   5.4e-06   12.4   0.0   134   258   599   736   583   738 0.72 -
+hypF|AZC_0597        -            763 Sua5_yciO_yrdC       PF01300.16   179   2.3e-55  173.0   0.0   1   1   4.5e-55   4.5e-55  172.1   0.0     2   179   206   380   205   380 0.99 -
+hypF|AZC_0597        -            763 zf-HC2               PF13490.4     35         1  -12.5  26.1   1   7    0.0034    0.0034    4.0   1.3    28    35   107   114   107   114 0.95 -
+hypF|AZC_0597        -            763 zf-HC2               PF13490.4     35         1  -12.5  26.1   2   7     0.048     0.048    0.3   0.6    31    35   160   164   157   164 0.86 -
+hypF|AZC_0597        -            763 zf-HC2               PF13490.4     35         1  -12.5  26.1   3   7      0.67      0.67   -3.4   0.5     6    24   253   271   251   271 0.76 -
+hypF|AZC_0597        -            763 zf-HC2               PF13490.4     35         1  -12.5  26.1   4   7      0.21      0.21   -1.8   0.0    10    18   283   291   279   292 0.63 -
+hypF|AZC_0597        -            763 zf-HC2               PF13490.4     35         1  -12.5  26.1   5   7      0.74      0.74   -3.5   0.1     2    17   338   353   338   355 0.80 -
+hypF|AZC_0597        -            763 zf-HC2               PF13490.4     35         1  -12.5  26.1   6   7      0.69      0.69   -3.4   0.1    23    30   559   566   558   566 0.79 -
+hypF|AZC_0597        -            763 zf-HC2               PF13490.4     35         1  -12.5  26.1   7   7      0.15      0.15   -1.3   0.0     5    26   662   683   661   683 0.88 -
+hypF|AZC_0597        -            763 zf-HYPF              PF07503.10    34   1.2e-36  110.5  18.6   1   2   2.6e-19   2.6e-19   55.1   3.2     1    34   109   142   109   142 0.97 -
+hypF|AZC_0597        -            763 zf-HYPF              PF07503.10    34   1.2e-36  110.5  18.6   2   2   3.8e-21   3.8e-21   60.9   7.5     1    32   159   190   159   191 0.97 -
+hypF|AZC_0597        -            763 zf-RING_4            PF14570.4     48   0.00088    5.3  10.8   1   3    0.0021    0.0021    4.1   0.1    38    46   108   116   103   118 0.86 -
+hypF|AZC_0597        -            763 zf-RING_4            PF14570.4     48   0.00088    5.3  10.8   2   3   8.6e-05   8.6e-05    8.6   0.5    38    48   158   168   147   168 0.86 -
+hypF|AZC_0597        -            763 zf-RING_4            PF14570.4     48   0.00088    5.3  10.8   3   3         1         1   -5.0   1.2    39    43   181   185   178   185 0.83 -
+hypF|AZC_0597        -            763 zinc-ribbons_6       PF07191.10    67   7.6e-05    9.0   2.7   1   1   0.00074   0.00074    5.8   2.7     2    38   109   166   108   194 0.81 -
+hypF|AZC_0597        -            763 zinc_ribbon_9        PF14369.4     35    0.0035    3.9   9.8   1   3    0.0022    0.0022    4.6   0.1    12    29    99   115    98   117 0.64 -
+hypF|AZC_0597        -            763 zinc_ribbon_9        PF14369.4     35    0.0035    3.9   9.8   2   3     0.015     0.015    2.0   0.6    20    28   156   164   131   167 0.74 -
+hypF|AZC_0597        -            763 zinc_ribbon_9        PF14369.4     35    0.0035    3.9   9.8   3   3     0.021     0.021    1.5   0.3    19    28   178   186   168   188 0.72 -
+hypF|AZC_0597        -            763 Zn-ribbon_8          PF09723.8     40   4.2e-07   16.4   8.3   1   3    0.0032    0.0032    4.0   0.1    24    35   105   116    98   118 0.74 -
+hypF|AZC_0597        -            763 Zn-ribbon_8          PF09723.8     40   4.2e-07   16.4   8.3   2   3   0.00016   0.00016    8.1   0.8     4    33   127   164   125   167 0.75 -
+hypF|AZC_0597        -            763 Zn-ribbon_8          PF09723.8     40   4.2e-07   16.4   8.3   3   3   4.1e-05   4.1e-05   10.0   1.9     8    35   160   188   155   190 0.76 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/AZC_0597.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/AZC_0597.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/AZC_0597.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:44:36 2018
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+oac2|AZC_1832        -            297 3Beta_HSD            PF01073.17   282   2.6e-10   25.8   0.0   1   1   3.6e-10   3.6e-10   25.3   0.0    53   211    34   179     6   196 0.85 -
+oac2|AZC_1832        -            297 Epimerase            PF01370.19   241   1.8e-25   75.9   0.2   1   1   3.4e-25   3.4e-25   75.0   0.1     1   204     3   177     3   207 0.90 -
+oac2|AZC_1832        -            297 GDP_Man_Dehyd        PF16363.3    332     4e-17   48.6   0.0   1   1   5.2e-17   5.2e-17   48.2   0.0    58   171    34   143     7   174 0.91 -
+oac2|AZC_1832        -            297 NAD_binding_4        PF07993.10   257   2.7e-09   22.6   0.1   1   1   1.3e-08   1.3e-08   20.4   0.1    85   208    49   153    42   199 0.77 -
+oac2|AZC_1832        -            297 Polysacc_synt_2      PF02719.13   294   3.8e-13   35.3   1.1   1   1     2e-12     2e-12   32.9   0.9    59   170    33   157    13   161 0.84 -
+oac2|AZC_1832        -            297 RmlD_sub_bind        PF04321.15   287  1.9e-120  387.3   0.7   1   1  2.2e-120  2.2e-120  387.2   0.7     1   285     1   288     1   290 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/AZC_1832.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/AZC_1832.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/AZC_1832.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 14:27:00 2019
+# [ok]

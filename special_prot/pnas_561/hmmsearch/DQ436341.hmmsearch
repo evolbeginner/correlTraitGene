@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+trxL|DQ436341        -            103 AhpC-TSA             PF00578.19   124   8.9e-10   24.8   0.1   1   1   1.1e-09   1.1e-09   24.6   0.1    23    76    14    66     3    96 0.85 -
+trxL|DQ436341        -            103 Thioredoxin          PF00085.18   104   3.6e-35  106.4   0.5   1   1   3.8e-35   3.8e-35  106.3   0.5     5   103     6   101     1   102 0.94 -
+trxL|DQ436341        -            103 Thioredoxin_8        PF13905.4     95   4.2e-11   29.4   0.0   1   1   9.3e-11   9.3e-11   28.3   0.0     2    57    19    72    18    88 0.78 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/DQ436341.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/DQ436341.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/DQ436341.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 12:32:55 2019
+# [ok]

@@ -1,0 +1,31 @@
+
+1. nifX
+NifX iron-molybdenum cluster-binding protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMa0831
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (459663..460163)
+ID: 1235489
+
+2. Smed_6221
+nitrogen fixation protein NifX [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_6221
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (1140378..1140875, complement)
+ID: 5320523
+
+3. nifX
+NifX iron-molybdenum cluster-binding protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a0831
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (459303..459849)
+This record was discontinued.
+ID: 14746114
+
+4. RHE_PD00197
+iron-molybdenum cofactor processing protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_PD00197
+Genomic context: Plasmid symbiotic plasmid p42d
+Annotation:  NC_004041.2 (213384..213878, complement)
+This record was discontinued.
+ID: 1005071
+

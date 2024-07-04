@@ -1,0 +1,37 @@
+
+1. SM_b21519
+two-component sensor histidine kinase [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b21519, SMb21519
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (1443139..1444611)
+ID: 1237681
+
+2. Smed_4345
+putative signal transduction histidine kinase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4345
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (841848..843248, complement)
+ID: 5319215
+
+3. emmB
+Putative three-component sensor histidine kinase,involved in exopolysaccharide production,motility and membrane stress response [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b21519
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1443162..1444617)
+This record was discontinued.
+ID: 14757014
+
+4. Meso_0795
+histidine kinase [Chelativorans sp. BNC1]
+Other Aliases: Meso_0795
+Annotation:  NC_008254.1 (884253..885737)
+This record was discontinued.
+ID: 4181055
+
+5. RHE_CH01735
+two-component sensor histidine kinase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH01735
+Annotation:  NC_007761.1 (1818621..1820009, complement)
+This record was discontinued.
+ID: 3891192
+

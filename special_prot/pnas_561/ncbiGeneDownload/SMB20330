@@ -1,0 +1,54 @@
+
+1. thuB
+trehalosemaltose utilization protein, function [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b20330, SMb20330
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (333286..334383)
+ID: 1236647
+
+2. Smed_3807
+oxidoreductase domain-containing protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_3807
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (259774..260856, complement)
+ID: 5318105
+
+3. thuB
+Putative oxidoreductase involved in trehalose catabolism [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b20330
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (333287..334384)
+This record was discontinued.
+ID: 14755680
+
+4. Pden_4437
+oxidoreductase domain-containing protein [Paracoccus denitrificans PD1222]
+Other Aliases: Pden_4437
+Chromosome: 2
+Annotation: Chromosome 2 NC_008687.1 (1645344..1646393, complement)
+This record was discontinued.
+ID: 4582987
+
+5. thuBf
+myo-inositol 2-dehydrogenase [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00205
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (215808..216845, complement)
+This record was discontinued.
+ID: 3896334
+
+6. RHE_PF00564
+oxidoreductase [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00564
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (630574..631620, complement)
+This record was discontinued.
+ID: 3896032
+
+7. thuBch
+myo-inositol 2-dehydrogenase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH03255
+Annotation:  NC_007761.1 (3423421..3424464, complement)
+This record was discontinued.
+ID: 3891457
+

@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+arcA|RHECIAT_CH0000128 -            409 Amidinotransf        PF02274.15   287   8.7e-99  316.4   0.0   1   1     1e-98     1e-98  316.2   0.0     1   287    18   405    18   405 0.99 -
+arcA|RHECIAT_CH0000128 -            409 PAD_porph            PF04371.13   319   1.2e-05   10.8   0.3   1   1   0.00014   0.00014    7.3   0.3   132   316   217   401   205   403 0.52 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/RHECIAT_CH0000128.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/RHECIAT_CH0000128.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/RHECIAT_CH0000128.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:47:09 2018
+# [ok]

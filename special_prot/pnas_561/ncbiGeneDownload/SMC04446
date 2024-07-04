@@ -1,0 +1,34 @@
+
+1. chvG
+histidine kinase sensory transmembrane protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMc04446, exoS
+Annotation:  NC_003047.1 (49252..51039, complement)
+ID: 1231668
+
+2. Smed_3251
+integral membrane sensor signal transduction histidine kinase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_3251
+Annotation:  NC_009636.1 (3431549..3433285, complement)
+ID: 5324130
+
+3. chvG,exoS
+Signal transduction histidine kinase,regulator of succinoglycan synthesis [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_c04446
+Annotation:  NC_020528.1 (49252..51102, complement)
+This record was discontinued.
+ID: 14804146
+
+4. Plav_0112
+integral membrane sensor signal transduction histidine kinase [Parvibaculum lavamentivorans DS-1]
+Other Aliases: Plav_0112
+Annotation:  NC_009719.1 (124320..126167)
+This record was discontinued.
+ID: 5454332
+
+5. chvG
+two-component sensor histidine kinase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH00035
+Annotation:  NC_007761.1 (36985..38820, complement)
+This record was discontinued.
+ID: 3893217
+

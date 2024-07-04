@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+exoB|BLR7578         -            330 3Beta_HSD            PF01073.17   282   6.3e-19   54.1   0.0   1   1   9.5e-17   9.5e-17   46.9   0.0     1   158     8   153     8   158 0.77 -
+exoB|BLR7578         -            330 Epimerase            PF01370.19   241   1.2e-62  197.6   0.0   1   1   1.5e-62   1.5e-62  197.3   0.0     1   241     7   253     7   253 0.94 -
+exoB|BLR7578         -            330 GDP_Man_Dehyd        PF16363.3    332   8.2e-56  175.8   0.0   1   1   2.2e-55   2.2e-55  174.4   0.0     1   323     8   307     8   316 0.81 -
+exoB|BLR7578         -            330 NAD_binding_10       PF13460.4    184   2.2e-12   33.4   0.0   1   1   4.4e-12   4.4e-12   32.4   0.0     1   108    11   129    11   162 0.68 -
+exoB|BLR7578         -            330 NAD_binding_4        PF07993.10   257   1.8e-09   23.2   0.1   1   1   1.2e-08   1.2e-08   20.5   0.0    86   225    67   193    49   207 0.78 -
+exoB|BLR7578         -            330 Polysacc_synt_2      PF02719.13   294   7.5e-17   47.4   0.1   1   1   5.6e-15   5.6e-15   41.3   0.1     1   156     7   161     7   177 0.81 -
+exoB|BLR7578         -            330 RmlD_sub_bind        PF04321.15   287   4.9e-18   51.3   0.1   1   1   2.3e-17   2.3e-17   49.1   0.0     2   138     6   156     5   162 0.94 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/BLR7578.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/BLR7578.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/BLR7578.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 13:20:23 2019
+# [ok]

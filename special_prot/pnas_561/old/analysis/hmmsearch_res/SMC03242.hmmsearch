@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+typA|SMC03242        -            608 AIG1                 PF04548.14   212   7.1e-07   14.9   0.0   1   1   1.6e-06   1.6e-06   13.7   0.0    32    70    49    87    35   102 0.82 -
+typA|SMC03242        -            608 EFG_C                PF00679.22    89   2.5e-25   74.7   0.0   1   1   4.9e-25   4.9e-25   73.8   0.0     1    85   395   479   395   483 0.97 -
+typA|SMC03242        -            608 EFG_II               PF14492.4     75   1.7e-07   17.6   0.3   1   2   3.7e-07   3.7e-07   16.5   0.0    22    66   331   375   320   383 0.85 -
+typA|SMC03242        -            608 EFG_II               PF14492.4     75   1.7e-07   17.6   0.3   2   2      0.91      0.91   -4.0   0.0    53    66   409   422   406   426 0.73 -
+typA|SMC03242        -            608 FeoB_N               PF02421.16   156   7.4e-06   11.8   0.0   1   2     0.048     0.048   -0.6   0.0     2    22     5    25     4    38 0.85 -
+typA|SMC03242        -            608 FeoB_N               PF02421.16   156   7.4e-06   11.8   0.0   2   2   7.5e-05   7.5e-05    8.5   0.0    32   121    51   134    41   151 0.73 -
+typA|SMC03242        -            608 GTP_EFTU             PF00009.25   194   2.2e-63  199.5   0.0   1   1   3.2e-63   3.2e-63  198.9   0.0     2   193     2   194     1   195 0.95 -
+typA|SMC03242        -            608 GTP_EFTU_D2          PF03144.23    74   5.7e-19   54.7   3.3   1   3   8.7e-19   8.7e-19   54.1   0.3     1    74   217   288   217   288 0.91 -
+typA|SMC03242        -            608 GTP_EFTU_D2          PF03144.23    74   5.7e-19   54.7   3.3   2   3      0.23      0.23   -1.8   0.1    37    58   395   416   386   422 0.79 -
+typA|SMC03242        -            608 GTP_EFTU_D2          PF03144.23    74   5.7e-19   54.7   3.3   3   3      0.21      0.21   -1.6   0.0    50    66   515   531   498   546 0.77 -
+typA|SMC03242        -            608 GTP_EFTU_D4          PF14578.4     86   3.4e-06   13.3   1.4   1   2   7.5e-06   7.5e-06   12.2   0.4    19    69   219   276   213   284 0.80 -
+typA|SMC03242        -            608 GTP_EFTU_D4          PF14578.4     86   3.4e-06   13.3   1.4   2   2       0.4       0.4   -2.9   0.0    40    59   513   534   503   542 0.63 -
+typA|SMC03242        -            608 MMR_HSR1             PF01926.21   114   1.4e-10   27.6   0.1   1   1   2.8e-10   2.8e-10   26.6   0.1     2   101     6   114     5   127 0.73 -
+typA|SMC03242        -            608 Septin               PF00735.16   281   9.2e-08   17.7   0.1   1   1   1.4e-07   1.4e-07   17.0   0.1     6    76     5    79     3    91 0.74 -
+typA|SMC03242        -            608 SRPRB                PF09439.8    181   9.3e-06   11.3   0.0   1   1   2.5e-05   2.5e-05    9.9   0.0     5    68     5    85     2   143 0.71 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC03242.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC03242.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC03242.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:36:36 2018
+# [ok]

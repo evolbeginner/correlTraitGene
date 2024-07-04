@@ -1,0 +1,2 @@
+#!/bin/bash
+ruby ~/project/Rhizobiales/scripts/searchBlast/searchInBatch.rb --outdir hmmsearch --indir allProt/ --hmmsearch --cpu 8 --force --add_cmd '--cut_ga'

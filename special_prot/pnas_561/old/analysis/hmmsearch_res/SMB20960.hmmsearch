@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+exoN|SMB20960        -            301 IspD                 PF01128.17   221   2.4e-07   16.8   0.0   1   1   4.1e-07   4.1e-07   16.0   0.0     3    55    10    64     8    84 0.85 -
+exoN|SMB20960        -            301 NTP_transferase      PF00483.21   248   6.6e-26   77.5   0.0   1   1   9.2e-26   9.2e-26   77.0   0.0     1   242     9   269     9   273 0.81 -
+exoN|SMB20960        -            301 NTP_transf_3         PF12804.5    160   2.5e-10   27.1   0.1   1   1   4.4e-10   4.4e-10   26.3   0.1     2    99    11   140    10   167 0.69 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMB20960.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMB20960.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMB20960.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:55:51 2018
+# [ok]

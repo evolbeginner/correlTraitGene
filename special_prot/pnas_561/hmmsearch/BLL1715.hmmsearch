@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nodV|BLL1715         -            889 DUF4118              PF13493.4    107   1.8e-18   52.6  13.3   1   1   3.5e-18   3.5e-18   51.7  13.3     5   105    18   116    14   118 0.93 -
+nodV|BLL1715         -            889 HATPase_c            PF02518.24   111   1.3e-22   66.8   0.1   1   1   2.5e-22   2.5e-22   65.8   0.1     1   110   774   884   774   885 0.87 -
+nodV|BLL1715         -            889 HisKA                PF00512.23    64   2.9e-12   32.8   0.3   1   1   1.8e-11   1.8e-11   30.3   0.0     2    62   663   730   662   732 0.88 -
+nodV|BLL1715         -            889 PAS                  PF00989.23   113     1e-58  182.5   1.4   1   3   3.2e-24   3.2e-24   71.4   0.0     2   113   135   245   134   245 0.98 -
+nodV|BLL1715         -            889 PAS                  PF00989.23   113     1e-58  182.5   1.4   2   3   2.8e-17   2.8e-17   49.0   0.0     2   113   261   371   260   371 0.97 -
+nodV|BLL1715         -            889 PAS                  PF00989.23   113     1e-58  182.5   1.4   3   3   2.9e-18   2.9e-18   52.2   0.1     4   113   389   500   386   500 0.96 -
+nodV|BLL1715         -            889 PAS_3                PF08447.10    89   1.3e-49  152.8   0.0   1   3   9.4e-13   9.4e-13   34.6   0.0    12    79   167   234   157   242 0.88 -
+nodV|BLL1715         -            889 PAS_3                PF08447.10    89   1.3e-49  152.8   0.0   2   3   9.3e-16   9.3e-16   44.3   0.0     2    86   283   365   282   368 0.92 -
+nodV|BLL1715         -            889 PAS_3                PF08447.10    89   1.3e-49  152.8   0.0   3   3   2.3e-18   2.3e-18   52.6   0.0     2    89   410   497   409   497 0.97 -
+nodV|BLL1715         -            889 PAS_9                PF13426.5    102   6.1e-23   67.4   0.0   1   3   4.5e-12   4.5e-12   32.5   0.0     2   102   145   247   144   247 0.81 -
+nodV|BLL1715         -            889 PAS_9                PF13426.5    102   6.1e-23   67.4   0.0   2   3   6.3e-05   6.3e-05    9.5   0.0    37   102   303   373   280   373 0.84 -
+nodV|BLL1715         -            889 PAS_9                PF13426.5    102   6.1e-23   67.4   0.0   3   3   3.3e-07   3.3e-07   16.9   0.0    42   102   575   636   535   636 0.76 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/BLL1715.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/BLL1715.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/BLL1715.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 11:48:47 2019
+# [ok]

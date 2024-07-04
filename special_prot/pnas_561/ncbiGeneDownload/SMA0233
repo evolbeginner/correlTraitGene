@@ -1,0 +1,38 @@
+
+1. otsA
+OtsA trehalose-6-phosphate synthase [Sinorhizobium meliloti 1021]
+Other Aliases: SMa0233
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (129300..130691, complement)
+ID: 1235350
+
+2. Smed_5911
+alpha,alpha-trehalose-phosphate synthase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_5911
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (876240..877643)
+ID: 5320213
+
+3. otsA
+OtsA trehalose-6-phosphate synthase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a0233
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (128965..130373, complement)
+This record was discontinued.
+ID: 14745646
+
+4. otsAa
+trehalose-6-phosphate synthase [Rhizobium etli CFN 42]
+Other Aliases: RHE_PA00087
+Genomic context: Plasmid p42a
+Annotation:  NC_007762.1 (96241..97719)
+This record was discontinued.
+ID: 3894819
+
+5. otsAch
+trehalose-6-phosphate synthase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH00476
+Annotation:  NC_007761.1 (488495..489901, complement)
+This record was discontinued.
+ID: 3892819
+

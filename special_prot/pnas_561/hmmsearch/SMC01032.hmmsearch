@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+pdhB|SMC01032        -            447 2-oxoacid_dh         PF00198.21   233   1.3e-84  269.4   0.2   1   1   1.6e-84   1.6e-84  269.1   0.2     3   232   216   446   214   447 0.98 -
+pdhB|SMC01032        -            447 Biotin_lipoyl        PF00364.20    73   1.6e-26   78.3   4.1   1   1     3e-26     3e-26   77.4   4.1     2    73     4    77     3    77 0.98 -
+pdhB|SMC01032        -            447 Biotin_lipoyl_2      PF13533.4     50   1.5e-11   30.3   0.0   1   1     4e-11     4e-11   29.0   0.0    10    38    16    44     4    61 0.85 -
+pdhB|SMC01032        -            447 E3_binding           PF02817.15    36   1.9e-21   62.5   0.2   1   1   6.9e-21   6.9e-21   60.7   0.2     1    36   141   176   141   176 0.97 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMC01032.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMC01032.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMC01032.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 12:21:25 2019
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+exoX|SMB20947        -             98 CRPA                 PF05745.9    150   6.1e-06   12.5   0.0   1   1   6.9e-06   6.9e-06   12.3   0.0    66   137     6    76     2    85 0.74 -
+exoX|SMB20947        -             98 DctM                 PF06808.10   416   1.8e-07   16.4   0.2   1   1   1.9e-07   1.9e-07   16.3   0.2   155   205    14    71    10    89 0.70 -
+exoX|SMB20947        -             98 DUF1049              PF06305.9     64   2.1e-06   13.8   0.6   1   2     0.026     0.026    0.7   0.4    28    40    10    22     6    34 0.76 -
+exoX|SMB20947        -             98 DUF1049              PF06305.9     64   2.1e-06   13.8   0.6   2   2   2.1e-06   2.1e-06   13.8   0.6    20    54    35    69    23    78 0.85 -
+exoX|SMB20947        -             98 DUF2681              PF10883.6     87     2e-05   11.2   3.0   1   2      0.09      0.09   -0.4   0.2     7    21    10    24     6    34 0.64 -
+exoX|SMB20947        -             98 DUF2681              PF10883.6     87     2e-05   11.2   3.0   2   2   1.1e-05   1.1e-05   12.1   0.4     7    52    37    81    27    95 0.69 -
+exoX|SMB20947        -             98 LPG_synthase_TM      PF03706.11   301   1.7e-07   17.1   0.3   1   1   1.7e-07   1.7e-07   17.1   0.3   118   182     7    71     1    94 0.81 -
+exoX|SMB20947        -             98 SyrA                 PF11089.6     38   4.8e-22   64.2   9.9   1   1   7.1e-22   7.1e-22   63.6   9.9     1    38    18    55    18    55 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMB20947.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMB20947.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMB20947.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:27:19 2018
+# [ok]

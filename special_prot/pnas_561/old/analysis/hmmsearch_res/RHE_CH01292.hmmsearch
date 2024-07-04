@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+cycL|RHE_CH01292     -            151 CcmH                 PF03918.12   142     2e-57  178.7   0.0   1   1   2.3e-57   2.3e-57  178.5   0.0     2   142     9   149     7   149 0.98 -
+cycL|RHE_CH01292     -            151 HTH_32               PF13565.4     73   1.6e-06   15.0   0.2   1   2      0.16      0.16   -1.0   0.0    25    37    35    47    24    73 0.68 -
+cycL|RHE_CH01292     -            151 HTH_32               PF13565.4     73   1.6e-06   15.0   0.2   2   2   6.1e-06   6.1e-06   13.1   0.0    12    41   117   149   114   151 0.83 -
+cycL|RHE_CH01292     -            151 zf-dskA_traR         PF01258.15    36   7.7e-06   12.1   0.2   1   1   1.3e-05   1.3e-05   11.4   0.2    12    32    30    50    29    52 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/RHE_CH01292.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/RHE_CH01292.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/RHE_CH01292.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 11:55:32 2018
+# [ok]

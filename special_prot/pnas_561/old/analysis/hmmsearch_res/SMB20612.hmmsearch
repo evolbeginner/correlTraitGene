@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+dctB|SMB20612        -            621 dCache_1             PF02743.16   249   9.1e-14   37.9   0.0   1   1     2e-13     2e-13   36.8   0.0    15   195    65   231    57   298 0.83 -
+dctB|SMB20612        -            621 Gram_pos_anchor      PF00746.19    38     0.017    1.6  12.2   1   2     0.004     0.004    3.6   3.5    19    38    27    46    25    46 0.76 -
+dctB|SMB20612        -            621 Gram_pos_anchor      PF00746.19    38     0.017    1.6  12.2   2   2     0.011     0.011    2.2   1.4    19    36   321   340   312   341 0.70 -
+dctB|SMB20612        -            621 HATPase_c            PF02518.24   111   1.3e-25   76.4   0.0   1   1   2.4e-25   2.4e-25   75.5   0.0     2   109   516   620   515   621 0.93 -
+dctB|SMB20612        -            621 HATPase_c_2          PF13581.4    125   2.8e-09   23.2   0.2   1   2      0.22      0.22   -2.3   0.0    60    81   369   391   349   405 0.62 -
+dctB|SMB20612        -            621 HATPase_c_2          PF13581.4    125   2.8e-09   23.2   0.2   2   2   9.7e-09   9.7e-09   21.5   0.0    42   113   530   602   503   617 0.78 -
+dctB|SMB20612        -            621 HATPase_c_3          PF13589.4    137   1.7e-06   14.1   0.0   1   1   3.4e-06   3.4e-06   13.1   0.0     2    63   519   583   518   603 0.74 -
+dctB|SMB20612        -            621 HATPase_c_5          PF14501.4    101   4.4e-10   25.7   0.0   1   1   7.8e-10   7.8e-10   24.9   0.0     6    89   520   607   516   619 0.79 -
+dctB|SMB20612        -            621 HisKA                PF00512.23    64   1.1e-14   40.5   2.4   1   2      0.33      0.33   -2.6   0.5    33    36   352   355   330   399 0.54 -
+dctB|SMB20612        -            621 HisKA                PF00512.23    64   1.1e-14   40.5   2.4   2   2   1.2e-14   1.2e-14   40.5   0.1     2    62   406   471   405   472 0.96 -
+dctB|SMB20612        -            621 RskA                 PF10099.7    180    0.0018    4.7  19.3   1   2   5.9e-05   5.9e-05    9.6   5.5    24    84     9    88     2   141 0.65 -
+dctB|SMB20612        -            621 RskA                 PF10099.7    180    0.0018    4.7  19.3   2   2     0.043     0.043    0.3   5.8    35    85   313   393   286   433 0.59 -
+dctB|SMB20612        -            621 SNAP                 PF14938.4    282   5.5e-06   12.1   0.4   1   1   8.2e-06   8.2e-06   11.5   0.4    79   131   409   460   375   476 0.78 -
+dctB|SMB20612        -            621 Spectrin             PF00435.19   105   1.6e-05   11.7   3.7   1   2   4.7e-05   4.7e-05   10.1   2.2    17    70   346   400   345   405 0.82 -
+dctB|SMB20612        -            621 Spectrin             PF00435.19   105   1.6e-05   11.7   3.7   2   2      0.08      0.08   -0.2   0.0    48    86   422   461   415   474 0.73 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMB20612.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMB20612.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMB20612.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:14:41 2018
+# [ok]

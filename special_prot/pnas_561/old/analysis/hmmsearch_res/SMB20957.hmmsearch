@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+exoA|SMB20957        -            330 Glycos_transf_2      PF00535.24   170   1.1e-32   99.4   0.0   1   1   1.5e-32   1.5e-32   98.9   0.0     2   169    13   180    12   181 0.95 -
+exoA|SMB20957        -            330 Glyco_tranf_2_2      PF10111.7    276   5.4e-12   31.8   0.0   1   1   1.9e-11   1.9e-11   30.0   0.0     3   223    14   226    12   242 0.73 -
+exoA|SMB20957        -            330 Glyco_tranf_2_3      PF13641.4    231   8.6e-12   31.5   0.0   1   1   1.5e-11   1.5e-11   30.8   0.0     4   204    12   208     9   230 0.78 -
+exoA|SMB20957        -            330 Glyco_tranf_2_4      PF13704.4     96   2.5e-07   17.5   0.0   1   1   5.1e-07   5.1e-07   16.5   0.0    20    80    40   100    19   102 0.67 -
+exoA|SMB20957        -            330 Glyco_transf_21      PF13506.4    173   3.3e-08   19.4   0.0   1   1   5.4e-08   5.4e-08   18.7   0.0    22   149    81   212    62   230 0.80 -
+exoA|SMB20957        -            330 Glyco_trans_2_3      PF13632.4    197     5e-09   22.5   3.4   1   1   8.2e-09   8.2e-09   21.8   3.4    73   156   166   246    98   320 0.65 -
+exoA|SMB20957        -            330 NTP_transf_3         PF12804.5    160   2.2e-06   14.3   0.3   1   2   3.7e-05   3.7e-05   10.3   0.0    26   125    23   130    14   203 0.67 -
+exoA|SMB20957        -            330 NTP_transf_3         PF12804.5    160   2.2e-06   14.3   0.3   2   2     0.013     0.013    2.0   0.0    49    86   278   315   232   319 0.72 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMB20957.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMB20957.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMB20957.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:20:41 2018
+# [ok]

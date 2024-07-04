@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+leuD|SMC03795        -            201 Aconitase_2_N        PF06434.11   204   3.3e-06   13.0   0.0   1   1   0.00011   0.00011    8.0   0.0    95   125    97   127    40   151 0.77 -
+leuD|SMC03795        -            201 Aconitase_C          PF00694.17   131   7.5e-42  129.0   0.0   1   1     1e-41     1e-41  128.6   0.0     1   130     1   123     1   124 0.95 -
+leuD|SMC03795        -            201 DUF5122              PF17164.2     36   2.1e-06   14.3   0.2   1   2   5.3e-05   5.3e-05    9.8   0.1    24    36    46    58    36    58 0.90 -
+leuD|SMC03795        -            201 DUF5122              PF17164.2     36   2.1e-06   14.3   0.2   2   2     0.018     0.018    1.7   0.0     5    11    69    75    69    83 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC03795.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC03795.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC03795.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:37:38 2018
+# [ok]

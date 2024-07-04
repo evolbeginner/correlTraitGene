@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+fixJ|BLL2759         -            205 DUF3071              PF11268.6    166   7.4e-06   12.3   0.3   1   1   9.9e-06   9.9e-06   11.9   0.3    31    92   109   183    93   198 0.72 -
+fixJ|BLL2759         -            205 FleQ                 PF06490.9    109   8.6e-09   22.1   0.0   1   1   1.3e-08   1.3e-08   21.5   0.0     2   107     7   119     6   121 0.92 -
+fixJ|BLL2759         -            205 GerE                 PF00196.17    57   1.4e-26   78.2   0.1   1   1   2.2e-26   2.2e-26   77.5   0.1     2    57   142   197   141   197 0.98 -
+fixJ|BLL2759         -            205 HTH_38               PF13936.4     44   7.1e-06   12.1   0.1   1   1   1.3e-05   1.3e-05   11.3   0.1     5    37   143   174   142   175 0.91 -
+fixJ|BLL2759         -            205 HTH_Tnp_1            PF01527.18    75   4.4e-06   13.3   0.4   1   2     0.035     0.035    0.8   0.2    11    32   115   135   113   144 0.83 -
+fixJ|BLL2759         -            205 HTH_Tnp_1            PF01527.18    75   4.4e-06   13.3   0.4   2   2   3.6e-05   3.6e-05   10.4   0.0    13    63   147   196   142   203 0.85 -
+fixJ|BLL2759         -            205 Response_reg         PF00072.22   112   8.9e-34  102.3   0.0   1   1   1.3e-33   1.3e-33  101.8   0.0     1   112     7   117     7   117 0.98 -
+fixJ|BLL2759         -            205 Sigma70_ECF          PF07638.9    185   3.6e-06   13.1   0.1   1   1     5e-06     5e-06   12.7   0.1   128   180   135   186   108   191 0.80 -
+fixJ|BLL2759         -            205 Sigma70_r4_2         PF08281.10    54   1.1e-09   24.2   0.1   1   1   2.1e-09   2.1e-09   23.3   0.1     2    51   134   182   133   185 0.89 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLL2759.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLL2759.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLL2759.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:26:33 2018
+# [ok]

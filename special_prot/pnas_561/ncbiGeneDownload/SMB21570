@@ -1,0 +1,38 @@
+
+1. stcD2
+NADH-dependent oxidase [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b21570, SMb21570
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (1108027..1110063, complement)
+ID: 1237341
+
+2. Smed_4887
+NADH:flavin oxidoreductase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4887
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (1396401..1398509, complement)
+ID: 5318049
+
+3. BPSS0550
+NADH:flavin oxidoreductase/NADH oxidase [Burkholderia pseudomallei K96243]
+Other Aliases: BPSS0550
+Chromosome: 2
+Annotation: Chromosome 2 NC_006351.1 (750829..752892)
+ID: 3095620
+
+4. stcD
+N-methylproline demethylase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b21570
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1108033..1110069, complement)
+This record was discontinued.
+ID: 14756585
+
+5. stcD
+2,4-dienoyl-CoA reductase [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00407
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (459114..461150, complement)
+This record was discontinued.
+ID: 3895960
+

@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+fixK1|SMA1225        -            211 cNMP_binding         PF00027.27    88   8.1e-18   50.6   0.0   1   1   1.5e-17   1.5e-17   49.8   0.0     3    82    30   107    28   111 0.94 -
+fixK1|SMA1225        -            211 Crp                  PF00325.18    32   5.4e-22   63.5   0.1   1   1     1e-21     1e-21   62.7   0.1     1    32   159   190   159   190 0.99 -
+fixK1|SMA1225        -            211 HTH_11               PF08279.10    55   9.9e-07   15.0   0.2   1   1   2.1e-06   2.1e-06   13.9   0.2    13    41   158   186   155   193 0.88 -
+fixK1|SMA1225        -            211 HTH_20               PF12840.5     61   3.1e-06   13.5   0.2   1   2     0.042     0.042    0.3   0.0    31    45    58    73    54    74 0.79 -
+fixK1|SMA1225        -            211 HTH_20               PF12840.5     61   3.1e-06   13.5   0.2   2   2   2.9e-05   2.9e-05   10.5   0.1    22    58   158   194   144   197 0.92 -
+fixK1|SMA1225        -            211 HTH_23               PF13384.4     50   7.3e-07   15.3   0.0   1   1   2.1e-06   2.1e-06   13.8   0.0    18    49   161   192   160   193 0.87 -
+fixK1|SMA1225        -            211 HTH_24               PF13412.4     48   4.8e-06   12.4   0.0   1   1   8.5e-06   8.5e-06   11.6   0.0    18    47   161   190   160   191 0.91 -
+fixK1|SMA1225        -            211 HTH_36               PF13730.4     55   3.3e-06   13.3   0.0   1   1   5.7e-06   5.7e-06   12.6   0.0    26    55   160   190   142   190 0.82 -
+fixK1|SMA1225        -            211 HTH_Crp_2            PF13545.4     68   8.7e-26   76.1   1.1   1   1   1.7e-25   1.7e-25   75.2   1.1     1    67   138   208   138   209 0.91 -
+fixK1|SMA1225        -            211 HTH_Tnp_ISL3         PF13542.4     52   1.7e-06   13.7   0.0   1   1     4e-06     4e-06   12.5   0.0    25    49   158   182   151   184 0.86 -
+fixK1|SMA1225        -            211 MarR                 PF01047.20    59   1.3e-07   17.8   0.0   1   1   2.8e-07   2.8e-07   16.7   0.0    17    47   160   190   158   194 0.93 -
+fixK1|SMA1225        -            211 MarR_2               PF12802.5     62   1.9e-09   23.6   0.3   1   1   4.9e-09   4.9e-09   22.3   0.3    20    56   153   195   132   199 0.83 -
+fixK1|SMA1225        -            211 Sigma54_DBD          PF04552.11   160     4e-06   12.8   0.0   1   1   6.7e-06   6.7e-06   12.1   0.0    25    72   137   183   104   194 0.76 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA1225.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA1225.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA1225.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 11:57:04 2018
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+fixI2|SMA0621        -            755 DUF4342              PF14242.4     81    0.0042    3.4  10.7   1   3   0.00033   0.00033    7.0   0.0    36    57   181   201   179   214 0.77 -
+fixI2|SMA0621        -            755 DUF4342              PF14242.4     81    0.0042    3.4  10.7   2   3      0.21      0.21   -2.1   1.3    45    64   395   414   392   424 0.54 -
+fixI2|SMA0621        -            755 DUF4342              PF14242.4     81    0.0042    3.4  10.7   3   3     0.037     0.037    0.4   1.7    39    69   699   729   669   739 0.73 -
+fixI2|SMA0621        -            755 E1-E2_ATPase         PF00122.18   221   7.1e-54  168.5   5.6   1   2     1e-53     1e-53  168.0   0.7     3   221   220   439   218   439 0.99 -
+fixI2|SMA0621        -            755 E1-E2_ATPase         PF00122.18   221   7.1e-54  168.5   5.6   2   2    0.0048    0.0048    2.3   0.4   186   217   710   741   654   743 0.64 -
+fixI2|SMA0621        -            755 HAD                  PF12710.5    188     2e-07   17.8   0.1   1   1   8.4e-07   8.4e-07   15.7   0.1    85   187   564   642   544   643 0.79 -
+fixI2|SMA0621        -            755 HAD_2                PF13419.4    178   1.4e-05   11.4   0.0   1   1   4.6e-05   4.6e-05    9.7   0.0    80   171   565   645   559   650 0.82 -
+fixI2|SMA0621        -            755 HMA                  PF00403.24    62   6.6e-13   35.3   0.0   1   2   5.3e-12   5.3e-12   32.4   0.0     4    61    43   100    40   101 0.93 -
+fixI2|SMA0621        -            755 HMA                  PF00403.24    62   6.6e-13   35.3   0.0   2   2     0.088     0.088   -0.4   0.0    31    57   539   566   537   580 0.70 -
+fixI2|SMA0621        -            755 Hydrolase            PF00702.24   210   4.2e-44  137.5   0.3   1   1   1.1e-43   1.1e-43  136.1   0.3     1   209   444   645   444   646 0.93 -
+fixI2|SMA0621        -            755 Hydrolase_3          PF08282.10   255   7.8e-08   18.4   0.0   1   2     0.023     0.023    0.5   0.0    15    57   564   606   561   610 0.89 -
+fixI2|SMA0621        -            755 Hydrolase_3          PF08282.10   255   7.8e-08   18.4   0.0   2   2   6.9e-07   6.9e-07   15.3   0.0   192   242   619   665   612   674 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA0621.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA0621.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA0621.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:06:32 2018
+# [ok]

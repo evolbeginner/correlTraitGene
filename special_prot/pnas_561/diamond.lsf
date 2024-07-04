@@ -1,0 +1,2 @@
+#!/bin/bash
+ruby ~/project/Rhizobiales/scripts/searchBlast/searchInBatch.rb --outdir kegg/ --indir allProt --cpu 12 --thread 1 --force --kegg --diamond

@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+hupI|HUPI            -             69 PHD_4                PF16866.3     68   9.1e-08   18.5   1.1   1   1   1.5e-07   1.5e-07   17.8   1.1    25    67    13    57     5    58 0.82 -
+hupI|HUPI            -             69 Rubredoxin           PF00301.18    47   2.4e-26   77.9   3.5   1   1   2.8e-26   2.8e-26   77.6   3.5     2    47    19    64    18    64 0.98 -
+hupI|HUPI            -             69 zf-RanBP             PF00641.16    30   2.1e-06   13.3   3.1   1   2    0.0012    0.0012    4.5   0.1    17    27    17    27    16    28 0.88 -
+hupI|HUPI            -             69 zf-RanBP             PF00641.16    30   2.1e-06   13.3   3.1   2   2   4.8e-05   4.8e-05    9.0   0.9    17    29    50    62    49    63 0.76 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/HUPI.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/HUPI.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/HUPI.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:24:17 2018
+# [ok]

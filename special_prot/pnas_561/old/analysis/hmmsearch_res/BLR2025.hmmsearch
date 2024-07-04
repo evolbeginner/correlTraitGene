@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nodA|BLR2025         -            210 Acetyltransf_1       PF00583.23   117   4.4e-06   13.2   0.0   1   1   7.9e-06   7.9e-06   12.4   0.0    14    81    48   119    29   131 0.72 -
+nodA|BLR2025         -            210 Acetyltransf_9       PF13527.5    128   1.1e-06   15.0   0.0   1   1   1.6e-06   1.6e-06   14.5   0.0     5    94    28   119    26   153 0.77 -
+nodA|BLR2025         -            210 NodA                 PF02474.13   195  5.5e-107  341.9   0.0   1   1  6.2e-107  6.2e-107  341.7   0.0     1   195    15   210    15   210 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLR2025.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLR2025.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLR2025.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:45:44 2018
+# [ok]

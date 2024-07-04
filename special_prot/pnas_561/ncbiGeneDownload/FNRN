@@ -1,0 +1,67 @@
+
+1. fnrN
+transcriptional activator, Crp family [Agrobacterium fabrum str. C58]
+Other Aliases: Atu1602, AGR_C_2948
+Chromosome: circular
+Annotation: Chromosome circular NC_003062.2 (1583538..1584263)
+ID: 1133640
+
+2. fnrN
+putative transcriptional activator [Rhizobium sp. IRBG74]
+Other Aliases: BN877_I1567
+Annotation: Chromosome I NC_022535.1 (1517502..1518227)
+This record was discontinued.
+ID: 17145226
+
+3. fnrN
+transcriptional activator FnrN [Rhizobium etli bv. mimosae str. Mim1]
+Other Aliases: REMIM1_CH02501
+Annotation:  NC_021905.1 (2485404..2486123)
+This record was discontinued.
+ID: 16457947
+
+4. fnrN
+transcriptional activator ORF-240 [Sinorhizobium fredii HH103]
+Other Aliases: SFHH103_01739
+Annotation:  NC_016812.1 (1862660..1863400)
+This record was discontinued.
+ID: 11813865
+
+5. fnrN
+transcriptional activator Crp family [Agrobacterium vitis S4]
+Other Aliases: Avi_2026
+Chromosome: 1
+Annotation: Chromosome 1 NC_011989.1 (1664764..1665489, complement)
+This record was discontinued.
+ID: 7386848
+
+6. fnrN
+transcriptional activator Crp family [Agrobacterium vitis S4]
+Other Aliases: Avi_7621
+Genomic context: Plasmid pAtS4e
+Annotation:  NC_011981.1 (559070..559768)
+This record was discontinued.
+ID: 7380271
+
+7. fnrN
+FNR family transcriptional regulator [Rhizobium leguminosarum bv. viciae 3841]
+Other Aliases: RL2818
+Annotation:  NC_008380.1 (2978475..2979197)
+This record was discontinued.
+ID: 4402187
+
+8. fnrNch
+Crp/Fnr family transcriptional regulator [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH02479
+Annotation:  NC_007761.1 (2590396..2591115)
+This record was discontinued.
+ID: 3892082
+
+9. RHE_PD00216
+oxygen-dependent transcriptional regulator protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_PD00216
+Genomic context: Plasmid symbiotic plasmid p42d
+Annotation:  NC_004041.2 (231727..232443)
+This record was discontinued.
+ID: 1005324
+

@@ -1,0 +1,38 @@
+
+1. fixC
+oxidoreductase FixC [Sinorhizobium meliloti 1021]
+Other Aliases: SMa0817
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (448049..449356, complement)
+ID: 1235481
+
+2. Smed_6230
+FAD dependent oxidoreductase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_6230
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (1151173..1152480)
+ID: 5320532
+
+3. fixC
+FixC oxidoreductase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a0817
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (447709..449016, complement)
+This record was discontinued.
+ID: 14746099
+
+4. etf
+electrotransfer ubiquinone oxidoreductase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH01308
+Annotation:  NC_007761.1 (1364081..1365745)
+This record was discontinued.
+ID: 3891619
+
+5. RHE_PD00226
+electron transfer flavoprotein-quinone oxidoreductase [Rhizobium etli CFN 42]
+Other Aliases: RHE_PD00226
+Genomic context: Plasmid symbiotic plasmid p42d
+Annotation:  NC_004041.2 (241287..242594)
+This record was discontinued.
+ID: 1005054
+

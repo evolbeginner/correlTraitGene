@@ -1,0 +1,31 @@
+
+1. fixS1
+FixS1 nitrogen fixation protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMa1208
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (662623..662790, complement)
+ID: 1235694
+
+2. Smed_5928
+cytochrome oxidase maturation protein, cbb3-type [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_5928
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (891175..891381, complement)
+ID: 5320230
+
+3. fixS1
+FixS1 nitrogen fixation protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a1208
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (662290..662457, complement)
+This record was discontinued.
+ID: 14746382
+
+4. RHE_PD00289
+precursor of a membrane (nitrogen fixation)protein coupled to cation pump [Rhizobium etli CFN 42]
+Other Aliases: RHE_PD00289
+Genomic context: Plasmid symbiotic plasmid p42d
+Annotation:  NC_004041.2 (304552..304710, complement)
+This record was discontinued.
+ID: 1005013
+

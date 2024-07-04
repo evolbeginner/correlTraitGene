@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nifH|SMA0825         -            297 AAA_10               PF12846.5    362     5e-06   11.7   0.0   1   1   7.3e-06   7.3e-06   11.1   0.0    24    68     7    53     2    74 0.84 -
+nifH|SMA0825         -            297 AAA_24               PF13479.4    197   2.1e-06   13.7   0.0   1   1   3.4e-06   3.4e-06   13.1   0.0     4    35     6    44     4    79 0.86 -
+nifH|SMA0825         -            297 AAA_31               PF13614.4    177   4.5e-13   35.6   0.1   1   1   1.1e-12   1.1e-12   34.4   0.1     4    73     7    73     4    82 0.79 -
+nifH|SMA0825         -            297 ArgK                 PF03308.14   267   9.2e-07   14.2   0.1   1   2   2.1e-06   2.1e-06   13.0   0.0    32    71     7    46     3    54 0.91 -
+nifH|SMA0825         -            297 ArgK                 PF03308.14   267   9.2e-07   14.2   0.1   2   2      0.21      0.21   -3.4   0.0    14    29   240   255   219   282 0.58 -
+nifH|SMA0825         -            297 ArsA_ATPase          PF02374.13   306   1.5e-11   30.2   0.0   1   2   3.6e-11   3.6e-11   28.9   0.1     2    60     5    64     4    77 0.88 -
+nifH|SMA0825         -            297 ArsA_ATPase          PF02374.13   306   1.5e-11   30.2   0.0   2   2      0.14      0.14   -2.6   0.0   205   234   143   172   139   206 0.66 -
+nifH|SMA0825         -            297 CbiA                 PF01656.21   128     2e-13   36.8   0.0   1   1   3.4e-13   3.4e-13   36.0   0.0     5   127    10   227     7   228 0.85 -
+nifH|SMA0825         -            297 CBP_BcsQ             PF06564.10   234   7.5e-07   15.0   0.6   1   2   0.00068   0.00068    5.3   0.1     4    51     7    54     4    72 0.76 -
+nifH|SMA0825         -            297 CBP_BcsQ             PF06564.10   234   7.5e-07   15.0   0.6   2   2   0.00012   0.00012    7.8   0.1   189   231   204   246   183   248 0.82 -
+nifH|SMA0825         -            297 DNA_ligase_A_N       PF04675.12   173   7.2e-07   15.9   0.0   1   1   1.1e-06   1.1e-06   15.2   0.0    47   132   180   281   174   295 0.83 -
+nifH|SMA0825         -            297 Fer4_NifH            PF00142.16   271  1.2e-136  440.5   0.8   1   1  1.4e-136  1.4e-136  440.3   0.8     1   271     5   276     5   276 0.99 -
+nifH|SMA0825         -            297 MipZ                 PF09140.9    262   2.7e-07   16.2   0.0   1   1   5.8e-07   5.8e-07   15.1   0.0     9    60    12    62     7    83 0.74 -
+nifH|SMA0825         -            297 ParA                 PF10609.7    246   2.7e-09   22.9   0.2   1   2   5.7e-08   5.7e-08   18.6   0.1    11    56    11    56     6    87 0.87 -
+nifH|SMA0825         -            297 ParA                 PF10609.7    246   2.7e-09   22.9   0.2   2   2     0.006     0.006    2.1   0.0   192   245   195   248   180   249 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA0825.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA0825.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA0825.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 11:59:26 2018
+# [ok]

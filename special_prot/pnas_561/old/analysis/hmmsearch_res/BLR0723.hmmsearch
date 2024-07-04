@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+rpoN2|BLR0723        -            537 HTH_20               PF12840.5     61   2.4e-06   13.9   2.0   1   5      0.33      0.33   -2.6   0.0    11    20   101   114   100   133 0.62 -
+rpoN2|BLR0723        -            537 HTH_20               PF12840.5     61   2.4e-06   13.9   2.0   2   5   8.2e-05   8.2e-05    9.0   0.0     5    50   172   223   168   225 0.87 -
+rpoN2|BLR0723        -            537 HTH_20               PF12840.5     61   2.4e-06   13.9   2.0   3   5     0.011     0.011    2.2   0.3    14    52   219   266   217   272 0.80 -
+rpoN2|BLR0723        -            537 HTH_20               PF12840.5     61   2.4e-06   13.9   2.0   4   5      0.19      0.19   -1.8   0.0    18    43   398   420   396   420 0.83 -
+rpoN2|BLR0723        -            537 HTH_20               PF12840.5     61   2.4e-06   13.9   2.0   5   5      0.05      0.05    0.1   0.0    40    50   456   467   445   470 0.76 -
+rpoN2|BLR0723        -            537 Sigma54_AID          PF00309.18    46   4.7e-23   67.2   7.0   1   1   1.1e-22   1.1e-22   66.0   7.0     1    45     6    50     6    51 0.97 -
+rpoN2|BLR0723        -            537 Sigma54_CBD          PF04963.11   179   8.8e-58  181.2   0.0   1   1   2.1e-57   2.1e-57  180.0   0.0     2   179   152   339   151   339 0.96 -
+rpoN2|BLR0723        -            537 Sigma54_DBD          PF04552.11   160   4.4e-76  240.2   1.1   1   1   7.5e-76   7.5e-76  239.4   1.1     2   160   354   513   353   513 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLR0723.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLR0723.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLR0723.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:26:15 2018
+# [ok]

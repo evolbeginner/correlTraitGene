@@ -1,0 +1,561 @@
+gcvP	NGR_C15470	YP_002826068.1	glycine dehydrogenase	Sinorhizobium fredii NGR234
+ddhB	SMB21417	NP_437784.1	CDP-glucose 4,6-dehydratase (plasmid)	Sinorhizobium meliloti 1021
+cycJ	SMC02362	NP_385124.1	cytochrome c-type biogenesis protein CcmE	Sinorhizobium meliloti 1021
+iolE	SMC00433	NP_384458.1	myo-inositol catabolism protein	Sinorhizobium meliloti 1021
+ilvC	SMC04346	NP_386174.1	ketol-acid reductoisomerase	Sinorhizobium meliloti 1021
+hfq	SMC01048	NP_385570.2	RNA-binding protein Hfq	Sinorhizobium meliloti 1021
+sdhB	SMC02466	NP_387175.1	succinate dehydrogenase iron-sulfur subunit	Sinorhizobium meliloti 1021
+tig	SMC02050	NP_385652.1	trigger factor	Sinorhizobium meliloti 1021
+prsD	RL3658	WP_003542141.1	type I secretion system permease/ATPase	Rhizobium leguminosarum
+rpoH1	SMC00646	NP_386832.1	RNA polymerase factor sigma-32	Sinorhizobium meliloti 1021
+ppiB	SMC01208	NP_385690.1	peptidyl-prolyl cis-trans isomerase B protein	Sinorhizobium meliloti 1021
+phoR	SMC02147	NP_384614.1	phosphate regulon sensor histidine kinase transmembrane protein	Sinorhizobium meliloti 1021
+ilvD2	SMC04045	NP_386934.1	dihydroxy-acid dehydratase	Sinorhizobium meliloti 1021
+metH	SMC03112	NP_387087.1	B12-dependent methionine synthase	Sinorhizobium meliloti 1021
+catC	SMB20007	NP_436550.1	catalase C protein (plasmid)	Sinorhizobium meliloti 1021
+rkpU	SMC02274	NP_384684.2	capsule polysaccharide exporter protein	Sinorhizobium meliloti 1021
+SMa0719	SMA0719	NP_435628.1	short-chain alcohol dehydrogenase (plasmid)	Sinorhizobium meliloti 1021
+degP1	SMC02365	NP_385127.1	protease precursor protein	Sinorhizobium meliloti 1021
+ntrB	SMC01042	NP_385564.1	nitrogen regulation protein	Sinorhizobium meliloti 1021
+pyc	SMC03895	NP_387384.1	pyruvate carboxylase	Sinorhizobium meliloti 1021
+fixL	BLL2760	NP_769400.1	two-component oxygen-sensor histidine kinase	Bradyrhizobium diazoefficiens USDA 110
+nodF	SMA0852	NP_435711.1	acyl carrier protein (plasmid)	Sinorhizobium meliloti 1021
+phoD	SMB21176	NP_437382.1	phosphate uptake ABC transporter substrate-binding protein precursor (plasmid)	Sinorhizobium meliloti 1021
+pssE	RL3655	WP_011653120.1	glucuronosyltransferase	Rhizobium leguminosarum
+rkpG	SMC02272	NP_384682.1	acyl-transferase transferase	Sinorhizobium meliloti 1021
+rhcR	BLR1819	NP_768459.1	type III secretion system protein	Bradyrhizobium diazoefficiens USDA 110
+lpxXL	SMC04268	NP_386043.1	lipid A biosynthesis lauroyl acyltransferase	Sinorhizobium meliloti 1021
+tpiA	SMC01023	NP_385544.1	triosephosphate isomerase	Sinorhizobium meliloti 1021
+groES3	SMA0125	NP_435311.1	co-chaperonin GroES (plasmid)	Sinorhizobium meliloti 1021
+nodD1	BLL2023	NP_768663.1	transcriptional regulator	Bradyrhizobium diazoefficiens USDA 110
+leuA1	SMC02717	NP_386485.3	2-isopropylmalate synthase	Sinorhizobium meliloti 1021
+pyrE	SMC02165	NP_384587.1	orotate phosphoribosyltransferase	Sinorhizobium meliloti 1021
+hprK	SMC02752	NP_384148.1	hypothetical protein SMc02752	Sinorhizobium meliloti 1021
+regS	BLL0905	NP_767545.1	two-component sensor histidine kinase	Bradyrhizobium diazoefficiens USDA 110
+sitD	SMC02506	NP_387135.1	iron transport system membrane ABC transporter protein	Sinorhizobium meliloti 1021
+fixT2	SMA0760	NP_435653.1	FixT2 anti-kinase (plasmid)	Sinorhizobium meliloti 1021
+acdS	BLR0241	NP_766881.1	1-aminocyclopropane-1-carboxylate deaminase	Bradyrhizobium diazoefficiens USDA 110
+nodW	BLL1714	NP_768354.1	two component regulator	Bradyrhizobium diazoefficiens USDA 110
+nodA	BLR2025	NP_768665.1	acyltransferase	Bradyrhizobium diazoefficiens USDA 110
+rpoN	SMC01139	NP_384487.1	RNA polymerase factor sigma-54	Sinorhizobium meliloti 1021
+thiO	SMB20616	NP_438068.1	thiamine biosynthesis oxidoreductase (plasmid)	Sinorhizobium meliloti 1021
+cycL	RHE_CH01292	WP_011424631.1	cytochrome c-type biogenesis protein CcmH	Rhizobium etli
+rhcN	BLR1816	NP_768456.1	RhcN protein	Bradyrhizobium diazoefficiens USDA 110
+exoY	SMB20946	NP_437609.1	galactosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+fixJ	SMA1227	NP_435915.1	response regulator FixJ (plasmid)	Sinorhizobium meliloti 1021
+fixH	SMA1210	NP_435906.1	nitrogen fixation protein FixH (plasmid)	Sinorhizobium meliloti 1021
+nifS	BLR1756	NP_768396.1	nitrogenase metalloclusters biosynthesis protein	Bradyrhizobium diazoefficiens USDA 110
+expA8	SMB21325	NP_437441.1	dTDP-4-dehydrorhamnose 3,5-epimerase (plasmid)	Sinorhizobium meliloti 1021
+ntrP	SMC03949	NP_386523.1	nitrogen regulatory protein	Sinorhizobium meliloti 1021
+nodQ	BLL1475	NP_768115.1	NodQ bifunctional enzyme	Bradyrhizobium diazoefficiens USDA 110
+pssB	RL3751	WP_011653200.1	3'(2'),5'-bisphosphate nucleotidase	Rhizobium leguminosarum
+chvI	SMC02560	NP_384150.1	transcriptional regulator	Sinorhizobium meliloti 1021
+ptsN	RHE_CH00407	WP_011423788.1	MULTISPECIES: PTS IIA-like nitrogen-regulatory protein PtsN	Rhizobium
+fur	BLL0797	NP_767437.1	ferric uptake regulator	Bradyrhizobium diazoefficiens USDA 110
+metZ	RHE_CH00522	WP_011423894.1	O-succinylhomoserine sulfhydrylase	Rhizobium etli
+nodZ	BLR2035	NP_768675.1	NodZ protein	Bradyrhizobium diazoefficiens USDA 110
+rpoC	SMC01316	NP_385455.1	DNA-directed RNA polymerase subunit beta'	Sinorhizobium meliloti 1021
+exoW	SMB21690	NP_437613.1	glucosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+gcvT	NGR_C15490	YP_002826070.1	glycine cleavage system T protein	Sinorhizobium fredii NGR234
+groEL4	SMC01758	NP_385302.1	chaperonin GroEL	Sinorhizobium meliloti 1021
+expG	SMB21317	NP_437433.1	transcriptional activator of exopolysaccharide II synthesis, MarR family protein (plasmid)	Sinorhizobium meliloti 1021
+regR	BLL0904	NP_767544.1	two-component response regulator	Bradyrhizobium diazoefficiens USDA 110
+atvA	RHE_CH03485	WP_011426708.1	virulence factor family protein	Rhizobium etli
+pssC	RL3653	WP_011653118.1	glycosyltransferase family 2 protein	Rhizobium leguminosarum
+nifK	SMA0829	NP_435697.1	NifK nitrogenase molybdenum-iron protein beta chain (plasmid)	Sinorhizobium meliloti 1021
+cycK	BLR3127	NP_769767.1	cytochrome C-type biogenesis protein	Bradyrhizobium diazoefficiens USDA 110
+gmsA	RL1661	WP_011651337.1	undecaprenyl-phosphate glucose phosphotransferase	Rhizobium leguminosarum
+nodG	SMA0854	NP_435713.1	3-ketoacyl-ACP reductase (plasmid)	Sinorhizobium meliloti 1021
+SMb21188	SMB21188	NP_437394.1	acyltransferase (plasmid)	Sinorhizobium meliloti 1021
+y4xP	NGR_A00730	NP_444152.1	cysteine synthase (plasmid)	Sinorhizobium fredii NGR234
+guaB	RHE_CH00794	WP_011424144.1	IMP dehydrogenase	Rhizobium etli
+nodT	RHECIAT_CH0003657	WP_012485054.1	MULTISPECIES: efflux transporter outer membrane subunit	Rhizobium
+nodI	BLR2030	NP_768670.1	nodulation factor exporter subunit NodI	Bradyrhizobium diazoefficiens USDA 110
+phoC	SMB21177	NP_437383.1	phosphate uptake ABC transporter ATP-binding protein (plasmid)	Sinorhizobium meliloti 1021
+stoRf	RHE_PF00499	WP_011428802.1	cyclic nucleotide-binding domain-containing protein	Rhizobium etli
+nodE	SMA0853	NP_435712.1	3-ketoacyl-ACP synthase (plasmid)	Sinorhizobium meliloti 1021
+nesR	SMC04032	NP_386921.1	transcriptional regulator	Sinorhizobium meliloti 1021
+nifA	SMA0815	NP_435689.2	Fis family transcriptional regulator (plasmid)	Sinorhizobium meliloti 1021
+lon	SMC01905	NP_385363.1	ATP-dependent protease LA protein	Sinorhizobium meliloti 1021
+fixO2	SMA0766	NP_435657.1	cbb3-type cytochrome c oxidase subunit II (plasmid)	Sinorhizobium meliloti 1021
+rkpI	SMC02270	NP_384680.1	capsular polysaccharide biosynthesis\export transmembrane protein	Sinorhizobium meliloti 1021
+minE	SMB21522	NP_437892.1	cell division topological specificity factor MinE (plasmid)	Sinorhizobium meliloti 1021
+bacA	SMB20999	NP_437665.1	transporter (plasmid)	Sinorhizobium meliloti 1021
+feuQ	SMC00129	NP_385121.1	sensor histidine kinase	Sinorhizobium meliloti 1021
+rkpZ2	SMB20823	NP_437103.1	cell surface saccharide synthesis protein (plasmid)	Sinorhizobium meliloti 1021
+trpC	BLR4810	NP_771450.1	indole-3-glycerol phosphate synthase	Bradyrhizobium diazoefficiens USDA 110
+fixI2	SMA0621	NP_435571.1	FixI2 E1-E2 type cation ATPase (plasmid)	Sinorhizobium meliloti 1021
+SMb20492	SMB20492	NP_437014.1	short-chain oxidoreductase (plasmid)	Sinorhizobium meliloti 1021
+fixQ2	SMA0767	NP_435658.1	FixQ2 nitrogen fixation protein (plasmid)	Sinorhizobium meliloti 1021
+nifH	SMA0825	NP_435695.1	nitrogenase reductase (plasmid)	Sinorhizobium meliloti 1021
+nosR	BLR0314	NP_766954.1	nitrous oxide reductase expression regulator	Bradyrhizobium diazoefficiens USDA 110
+fixO	BLR2764	NP_769404.1	cbb3-type cytochrome c oxidase subunit II	Bradyrhizobium diazoefficiens USDA 110
+wreM	RHE_CH00755	WP_011424114.1	glycosyltransferase	Rhizobium etli
+cpdR2	SMC00720	NP_386758.1	2-component receiver domain-containing protein	Sinorhizobium meliloti 1021
+emmC	SMB21520	NP_437890.1	two-component response regulator protein (plasmid)	Sinorhizobium meliloti 1021
+modA	BLR8160	NP_774800.1	ABC transporter molybdenum-binding protein	Bradyrhizobium diazoefficiens USDA 110
+nodB	SMA0868	NP_435720.1	NodB chitooligosaccharide deacetylase (plasmid)	Sinorhizobium meliloti 1021
+minC	SMB21524	NP_437894.1	septum formation inhibitor (plasmid)	Sinorhizobium meliloti 1021
+nodJ	SMA0863	NP_435717.1	NodJ ABC transporter permease (plasmid)	Sinorhizobium meliloti 1021
+nolK	BLL1630	NP_768270.1	GDP-fucose synthetase	Bradyrhizobium diazoefficiens USDA 110
+rkpO	NGR_B09480	YP_002823157.1	RkpO, polysaccharide biosynthesis protein (plasmid)	Sinorhizobium fredii NGR234
+SMb20493	SMB20493	NP_437015.1	short-chain dehydrogenase (plasmid)	Sinorhizobium meliloti 1021
+trpB	RHE_CH00021	WP_011423426.1	tryptophan synthase subunit beta	Rhizobium etli
+fliP	SMC03036	NP_384774.1	flagellar biosynthesis protein FliP	Sinorhizobium meliloti 1021
+aoaA	AZC_2635	WP_043879354.1	hypothetical protein	Azorhizobium caulinodans
+iolD	NGR_C25970	YP_002827107.1	myo-inositol catabolism, acetolactate synthase protein IolD	Sinorhizobium fredii NGR234
+dctA	SMB20611	NP_438063.1	C4-dicarboxylate transporter DctA (plasmid)	Sinorhizobium meliloti 1021
+exoF1	SMB20945	NP_437608.1	hypothetical protein SM_b20945 (plasmid)	Sinorhizobium meliloti 1021
+exoM	SMB20958	NP_437623.1	glucosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+lpsC	SMC01222	NP_385675.1	lipopolysaccharide core biosynthesis glycosyl transferase	Sinorhizobium meliloti 1021
+ntrR1	SMC01521	NP_386524.1	nitrogen regulatory protein	Sinorhizobium meliloti 1021
+groES2	SMA0745	NP_435642.1	co-chaperonin GroES (plasmid)	Sinorhizobium meliloti 1021
+SMb21071	SM_B21071	NP_437190.1	UDP-phosphate galactosephosphotransferase (plasmid)	Sinorhizobium meliloti 1021
+ntrY	SMC01044	NP_385566.1	nitrogen regulation transmembrane protein	Sinorhizobium meliloti 1021
+bioS	SMC02061	NP_385641.1	biotin-regulated protein	Sinorhizobium meliloti 1021
+greA	SMC01218	NP_385679.1	transcription elongation factor GreA	Sinorhizobium meliloti 1021
+fixK1	SMA1225	NP_435913.1	transcriptional regulator FixK (plasmid)	Sinorhizobium meliloti 1021
+phoT	SMB21174	NP_437380.1	phosphate uptake ABC transporter permease (plasmid)	Sinorhizobium meliloti 1021
+fixP2	SMA0769	NP_435659.1	FixP2 Diheme c-type cytochrome (plasmid)	Sinorhizobium meliloti 1021
+phaE1	SMC03182	NP_387019.1	pH adaptation potassium efflux system E transmembrane protein	Sinorhizobium meliloti 1021
+fixB	SMA0819	NP_435692.1	FixB electron transfer flavoprotein alpha chain (plasmid)	Sinorhizobium meliloti 1021
+exoZ	BLR2369	NP_769009.1	exopolysaccharide production protein	Bradyrhizobium diazoefficiens USDA 110
+trpD	BLR4809	NP_771449.1	anthranilate phosphoribosyltransferase	Bradyrhizobium diazoefficiens USDA 110
+modB	BLR8161	NP_774801.1	molybdate ABC transporter permease	Bradyrhizobium diazoefficiens USDA 110
+nopX	NGR_A00700	NP_444155.1	nodulation protein NopX (plasmid)	Sinorhizobium fredii NGR234
+syrB2	SMA1586	NP_436109.1	SyrB2 regulator (plasmid)	Sinorhizobium meliloti 1021
+phbB	SMC03878	NP_387367.1	acetoacetyl-CoA reductase	Sinorhizobium meliloti 1021
+nwsB	BLR4774	NP_771414.1	two-component response regulator	Bradyrhizobium diazoefficiens USDA 110
+exoR	SMC02078	NP_385624.1	exopolysaccharide biosynthesis regulatory protein	Sinorhizobium meliloti 1021
+nolV	NGR_A00650	NP_444160.1	nodulation protein RhcL (plasmid)	Sinorhizobium fredii NGR234
+fixT3	SMC03254	NP_387214.1	antikinase	Sinorhizobium meliloti 1021
+tolC	SMC02082	NP_385620.1	outer membrane secretion protein	Sinorhizobium meliloti 1021
+exoP2	SMB21070	NP_437189.1	MPA1 family auxiliary surface saccharide export protein (plasmid)	Sinorhizobium meliloti 1021
+pssA	RL3752	WP_026158830.1	MULTISPECIES: exopolysaccharide biosynthesis protein	Rhizobium
+sitB	SMC02508	NP_387133.1	iron transport ATP-binding ABC transporter protein	Sinorhizobium meliloti 1021
+rkpZ1	SMB20834	NP_437117.1	surface saccharide synthesis protein (plasmid)	Sinorhizobium meliloti 1021
+exoN	SMB20960	NP_437625.1	UDP-glucose pyrophosphorylase (plasmid)	Sinorhizobium meliloti 1021
+ndvB	SMC04382	NP_387392.1	beta-(1,2)-glucan production associated transmembrane protein	Sinorhizobium meliloti 1021
+iolA	SMC00781	NP_384832.1	malonic semialdehyde oxidative decarboxylase	Sinorhizobium meliloti 1021
+noeK	NGR_A00390	NP_443768.1	phosphomanomutase (plasmid)	Sinorhizobium fredii NGR234
+exoQ	SMB20944	NP_437607.1	polysaccharide polymerase, Wzy protein (plasmid)	Sinorhizobium meliloti 1021
+fixP1	SMA1213	NP_435908.1	FixP1 di-heme cytochrome c (plasmid)	Sinorhizobium meliloti 1021
+phaC2	SMC00053	NP_385100.1	monovalent cation/H+ antiporter subunit C	Sinorhizobium meliloti 1021
+noeJ	RHE_CH03244	WP_020922051.1	mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase	Rhizobium etli
+hupJ	AZC_0605	[NiFe]-hydrogenase	assembly, chaperone, HybE	Azorhizobium caulinodans
+noeL	NGR_A00410	NP_443766.1	GDP-mannose 4,6-dehydratase (plasmid)	Sinorhizobium fredii NGR234
+nolW	NGR_A00690	NP_444156.1	type III secretion apparatus outer membrane protein RhcC1 (plasmid)	Sinorhizobium fredii NGR234
+exoL	SMB20956	NP_437621.1	glucosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+nifW	RHE_PD00223	WP_004678534.1	MULTISPECIES: nitrogenase stabilizing/protective protein NifW	Rhizobium
+phaD1	SMC03181	NP_387018.1	monovalent cation/H+ antiporter subunit D	Sinorhizobium meliloti 1021
+exoA	SMB20957	NP_437622.1	glucosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+nodS	BLR2028	NP_768668.1	N-methyl transferase	Bradyrhizobium diazoefficiens USDA 110
+nodH	SMA0851	NP_435710.1	NodH sulfotransferase (plasmid)	Sinorhizobium meliloti 1021
+ilvI	SMC01431	NP_386220.1	acetolactate synthase 3 catalytic subunit	Sinorhizobium meliloti 1021
+phaG1	SMC03184	NP_387021.1	PH adaptation potassium efflux system G transmembrane protein	Sinorhizobium meliloti 1021
+exoP	SMB20961	NP_437626.1	protein tyrosine kinase MPA1 family protein (plasmid)	Sinorhizobium meliloti 1021
+aniA	SMC03880	NP_387369.1	hypothetical protein SMc03880	Sinorhizobium meliloti 1021
+visR	SMC03016	NP_384754.1	transcriptional regulator	Sinorhizobium meliloti 1021
+SMc02486	SMC02486	NP_387155.1	oxidoreductase	Sinorhizobium meliloti 1021
+praR	AZC_0013	WP_012168544.1	XRE family transcriptional regulator	Azorhizobium caulinodans
+lsrB	SMC01225	NP_385672.1	transcriptional regulator	Sinorhizobium meliloti 1021
+exoK	SMB20955	NP_437620.1	endo-beta-1,3-1,4-glycanase (plasmid)	Sinorhizobium meliloti 1021
+iscN	RHE_PD00220	WP_004678546.1	MULTISPECIES: iron-sulfur cluster assembly accessory protein	Rhizobium
+nodN	BLR3959	NP_770599.1	nodulation protein N	Bradyrhizobium diazoefficiens USDA 110
+arcB	RHECIAT_CH0000127	WP_012482188.1	ornithine carbamoyltransferase	Rhizobium etli
+hesB	NGR_C13630	YP_002825896.1	protein HesB, vegetative	Sinorhizobium fredii NGR234
+asnO	SMB20481	NP_437003.1	asparagine synthetase (glutamine amidotransferase) protein (plasmid)	Sinorhizobium meliloti 1021
+lpsE	SMC01220	NP_385677.1	lipopolysaccharide core biosynthesis glycosyl transferase	Sinorhizobium meliloti 1021
+fixR	BLR2036	NP_768676.1	oxidoreductase	Bradyrhizobium diazoefficiens USDA 110
+chvG	SMC04446	NP_384149.1	histidine kinase sensory transmembrane protein	Sinorhizobium meliloti 1021
+phaD2	SMC00054	NP_385101.1	monovalent cation/H+ antiporter subunit D	Sinorhizobium meliloti 1021
+gtrA	SMA0160	NP_435330.1	GntR family transcriptional regulator (plasmid)	Sinorhizobium meliloti 1021
+actR	SMC02584	NP_384171.1	transcriptional regulator	Sinorhizobium meliloti 1021
+queA	SMC01207	NP_385691.1	S-adenosylmethionine--tRNA ribosyltransferase-isomerase	Sinorhizobium meliloti 1021
+cycK	SMC02363	NP_385125.1	cytochrome C-type biogenesis transmembrane protein	Sinorhizobium meliloti 1021
+msbA2	SMB21191	NP_437397.1	surface saccharide ABC transporter ATP-binding/membrane spanning protein (plasmid)	Sinorhizobium meliloti 1021
+nodD1	SMA0870	NP_435722.1	NodD1 nod-box dependent transcriptional activator (plasmid)	Sinorhizobium meliloti 1021
+phaE2	SMC00055	NP_385102.1	monovalent cation/H+ antiporter subunit E	Sinorhizobium meliloti 1021
+pdhB	SMC01032	NP_385553.1	dihydrolipoamide S-acetyltransferase	Sinorhizobium meliloti 1021
+sipF	BLL5062	NP_771702.1	type I signal peptidase	Bradyrhizobium diazoefficiens USDA 110
+exoH	SMB20954	NP_437619.1	succinyltransferase (plasmid)	Sinorhizobium meliloti 1021
+expE5	SMB21310	NP_437426.1	hypothetical protein SM_b21310 (plasmid)	Sinorhizobium meliloti 1021
+otsA	SMA0233	NP_435371.1	OtsA trehalose-6-phosphate synthase (plasmid)	Sinorhizobium meliloti 1021
+nodV	BLL1715	NP_768355.1	two component regulator	Bradyrhizobium diazoefficiens USDA 110
+treY	SM_B20574	NP_438026.1	maltooligosyl trehalose synthase (plasmid)	Sinorhizobium meliloti 1021
+exoI2	SMB21662	NP_437159.1	hypothetical protein SM_b21662 (plasmid)	Sinorhizobium meliloti 1021
+expE2	SMB21313	NP_437429.1	bifunctional glycosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+SMc00717	SMC00717	NP_386761.2	ABC transporter ATP-binding protein	Sinorhizobium meliloti 1021
+hemA	SMC03104	NP_387095.1	5-aminolevulinate synthase	Sinorhizobium meliloti 1021
+nifS	SMC00529	NP_385842.1	pyridoxal-phosphate-dependent aminotransferase	Sinorhizobium meliloti 1021
+phoU	SMC02141	NP_384620.1	phosphate transporter PhoU	Sinorhizobium meliloti 1021
+mcpD	RL2683	WP_041936344.1	methyl-accepting chemotaxis protein	Rhizobium leguminosarum
+exoI	SMB20951	NP_437616.1	hypothetical protein SM_b20951 (plasmid)	Sinorhizobium meliloti 1021
+bluB	SMC00166	NP_385947.1	oxidoreductase NAD protein	Sinorhizobium meliloti 1021
+expE1	SMB21314	NP_437430.1	secreted calcium-binding protein (plasmid)	Sinorhizobium meliloti 1021
+pdh	SMB20020	NP_436563.1	pyruvate dehydrogenase E1 component, subunits alpha and beta (plasmid)	Sinorhizobium meliloti 1021
+SMb20214	SMB20214	NP_436747.1	oxidoreductase (plasmid)	Sinorhizobium meliloti 1021
+rpoH2	SMC03873	NP_387362.2	RNA polymerase factor sigma-32	Sinorhizobium meliloti 1021
+exoV	SMB20949	NP_437612.1	pyruvyltransferase (plasmid)	Sinorhizobium meliloti 1021
+actS	SMC02585	NP_384172.1	sensor histidine kinase transmembrane protein	Sinorhizobium meliloti 1021
+nodD3	SMA0840	NP_435704.1	NodD3 nod box-dependent transcriptional activator (plasmid)	Sinorhizobium meliloti 1021
+cycL	BLR3128	NP_769768.1	cytochrome C-type biogenesis protein	Bradyrhizobium diazoefficiens USDA 110
+nifX	SMA0831	NP_435699.1	NifX iron-molybdenum cluster-binding protein (plasmid)	Sinorhizobium meliloti 1021
+SMb21190	SMB21190	NP_437396.1	glycosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+fixNd	RHE_PD00296	WP_004674403.1	MULTISPECIES: cytochrome-c oxidase, cbb3-type subunit I	Rhizobium
+nodN	SMA0874	NP_435725.1	NodN dehydratase (plasmid)	Sinorhizobium meliloti 1021
+exoD	SMC00353	NP_384379.1	transmembrane protein	Sinorhizobium meliloti 1021
+expA10	SMB21327	NP_437443.1	dTDP-4-dehydrorhamnose reductase (plasmid)	Sinorhizobium meliloti 1021
+iolC	NGR_C25980	YP_002827108.1	myo-inositol catabolism IolC	Sinorhizobium fredii NGR234
+fixX	SMA0816	NP_435690.1	FixX ferredoxin-like protein (plasmid)	Sinorhizobium meliloti 1021
+expA7	SMB21324	NP_437440.1	glucose-1-phosphate thymidylyltransferase (plasmid)	Sinorhizobium meliloti 1021
+rhcJ	BLR1813	NP_768453.1	RhcJ protein	Bradyrhizobium diazoefficiens USDA 110
+nifB	SMA0814	NP_435688.1	NifB FeMo cofactor biosynthesis protein (plasmid)	Sinorhizobium meliloti 1021
+hupH	AZC_0604	WP_012169135.1	hydrogenase expression/formation protein	Azorhizobium caulinodans
+mrtR	MRTR	YP_007013433.1	Mannopine regulated transfer protein (plasmid)	Agrobacterium tumefaciens
+opaB	RL3538	WP_018243099.1	MULTISPECIES: aspartate aminotransferase family protein	Rhizobium
+exoU	BLR7573	NP_774213.1	UDP-hexose transferase	Bradyrhizobium diazoefficiens USDA 110
+phaF2	SMC00056	NP_385103.1	monovalent cation/H+ antiporter subunit F	Sinorhizobium meliloti 1021
+pssD	RL3654	WP_011653119.1	MULTISPECIES: glucuronosyltransferase	Rhizobium
+fixKf	RHE_PF00508	WP_011428811.1	cyclic nucleotide-binding domain-containing protein	Rhizobium etli
+gtrB	SMA0222	NP_435364.1	GntR family transcriptional regulator (plasmid)	Sinorhizobium meliloti 1021
+fixS2	SMA0622	NP_435572.1	FixS2 nitrogen fixation protein (plasmid)	Sinorhizobium meliloti 1021
+syrM	SMA0849	NP_435708.1	SyrM transcriptional regulator (plasmid)	Sinorhizobium meliloti 1021
+rhiI	PRL100164	WP_011654208.1	MULTISPECIES: GNAT family N-acetyltransferase	Rhizobium
+oac2	AZC_1832	WP_043880199.1	dTDP-4-dehydrorhamnose reductase	Azorhizobium caulinodans
+katE	MLR2101	AAR25361.1	NADH dehydrogenase subunit 2, partial (mitochondrion)	Tiaris bicolor
+NopM	NGR_A03640	NP_443862.1	nodulation protein NopM (plasmid)	Sinorhizobium fredii NGR234
+glyA	BLL5033	NP_771673.1	serine hydroxymethyltransferase	Bradyrhizobium diazoefficiens USDA 110
+NopE2	BLR1649	NP_768289.1	hypothetical protein blr1649	Bradyrhizobium diazoefficiens USDA 110
+groEL2	SMA0744	NP_435641.1	molecular chaperone GroEL (plasmid)	Sinorhizobium meliloti 1021
+phaA2	SMC00051	NP_385098.1	monovalent cation/H+ antiporter subunit A	Sinorhizobium meliloti 1021
+treZ	SMB21447	NP_437816.1	1,4-alpha-glucan-branching protein (plasmid)	Sinorhizobium meliloti 1021
+expD1	SMB21316	NP_437432.1	ABC transporter ATP-binding protein/permease (plasmid)	Sinorhizobium meliloti 1021
+treS	SM_B20099	NP_436639.1	maltose alpha-D-glucosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+dctQ	SMB21352	NP_437468.1	C4-dicarboxylate small membrane transport protein (plasmid)	Sinorhizobium meliloti 1021
+glgA2	SMB20704	NP_437951.1	glycogen synthase (plasmid)	Sinorhizobium meliloti 1021
+arcA	RHECIAT_CH0000128	WP_012482189.1	arginine deiminase	Rhizobium etli
+sodC	SMC02597	NP_385203.1	superoxide dismutase Cu-Zn precursor (bacteriocuprein) transmembrane protein	Sinorhizobium meliloti 1021
+fixP3	SMA0617	NP_435569.1	FixP3 Diheme c-type cytochrome (plasmid)	Sinorhizobium meliloti 1021
+gshB	RHE_CH00322	WP_011423706.1	glutathione synthase	Rhizobium etli
+fixQ3	SMA0616	NP_435568.1	FixQ3 nitrogen fixation protein (plasmid)	Sinorhizobium meliloti 1021
+gcd	SMC00110	NP_385087.1	glucose dehydrogenase	Sinorhizobium meliloti 1021
+mucR	SMC00058	NP_385105.1	transcriptional regulator	Sinorhizobium meliloti 1021
+fnrN	RHE_CH02479	WP_011425734.1	Crp/Fnr family transcriptional regulator	Rhizobium etli
+fixI1	SMA1209	NP_435905.1	FixI1 ATPase (plasmid)	Sinorhizobium meliloti 1021
+surE	SMC02063	NP_385639.1	stationary phase survival protein SurE	Sinorhizobium meliloti 1021
+nodI	SMA0864	NP_435718.1	nodulation factor exporter subunit NodI (plasmid)	Sinorhizobium meliloti 1021
+kup1	SMC00873	NP_384938.1	KUP system potassium uptake transmembrane protein	Sinorhizobium meliloti 1021
+nolT	NGR_A00670	NP_444158.1	type III secretion apparatus outer membrane protein RhcJ (plasmid)	Sinorhizobium fredii NGR234
+pdhAb	SMC01031	NP_385552.1	pyruvate dehydrogenase subunit beta	Sinorhizobium meliloti 1021
+hupT	AZC_0594	WP_012169125.1	PAS domain-containing protein	Azorhizobium caulinodans
+pssM	RL3645	WP_011653111.1	exopolysaccharide glucosyl ketal-pyruvate-transferase	Rhizobium leguminosarum
+phaF1	SMC03183	NP_387020.1	monovalent cation/H+ antiporter subunit F	Sinorhizobium meliloti 1021
+stoRd	RHE_PD00288	WP_011053469.1	MULTISPECIES: Crp/Fnr family transcriptional regulator	Rhizobium
+arcC	RHECIAT_CH0000126	WP_012482187.1	carbamate kinase	Rhizobium etli
+ecfG	BLR7797	NP_774437.1	RNA polymerase sigma factor	Bradyrhizobium diazoefficiens USDA 110
+nifE	SMA0830	NP_435698.1	nitrogenase molybdenum-cofactor biosynthesis protein NifE (plasmid)	Sinorhizobium meliloti 1021
+SMb20651	SMB20651	NP_437899.1	hypothetical protein SM_b20651 (plasmid)	Sinorhizobium meliloti 1021
+rpoB	SMC01317	NP_385454.1	DNA-directed RNA polymerase subunit beta	Sinorhizobium meliloti 1021
+fdxN	SMA0811	NP_435687.1	FdxN ferredoxin (plasmid)	Sinorhizobium meliloti 1021
+exoM	BLL7574	NP_774214.1	UDP-hexose transferase	Bradyrhizobium diazoefficiens USDA 110
+nolN	BLR2033	NP_768673.1	NolN protein	Bradyrhizobium diazoefficiens USDA 110
+exoX	SMB20947	NP_437610.1	posttranscriptional regulator, repressor protein (plasmid)	Sinorhizobium meliloti 1021
+sdhA	SMC02465	NP_387176.1	succinate dehydrogenase flavoprotein subunit	Sinorhizobium meliloti 1021
+ropB1	SMC00604	NP_385279.1	outer membrane protein	Sinorhizobium meliloti 1021
+groEL3	BLL2059	NP_768699.1	molecular chaperone GroEL	Bradyrhizobium diazoefficiens USDA 110
+sinI	SMC00168	NP_385945.1	autoinducer synthase	Sinorhizobium meliloti 1021
+rkpJ	SMC02269	NP_384679.1	capsular polysaccharide biosynthesis/export protein	Sinorhizobium meliloti 1021
+nifA	BLR2037	NP_768677.1	nif-specific regulatory protein	Bradyrhizobium diazoefficiens USDA 110
+fabG	SMC00572	NP_385248.1	3-ketoacyl-ACP reductase	Sinorhizobium meliloti 1021
+pgi	NGR_C01170	YP_002824673.1	glucose-6-phosphate isomerase	Sinorhizobium fredii NGR234
+rmrA	RHE_PB00008	WP_011427474.1	HlyD family secretion protein	Rhizobium etli
+fixC	SMA0817	NP_435691.1	oxidoreductase FixC (plasmid)	Sinorhizobium meliloti 1021
+leuC	SMC03823	NP_387312.1	isopropylmalate isomerase large subunit	Sinorhizobium meliloti 1021
+pgm	SMC03925	NP_386953.1	phosphoglucomutase	Sinorhizobium meliloti 1021
+dme	SMC00169	NP_385943.1	malic enzyme	Sinorhizobium meliloti 1021
+katA	SMC00819	NP_384870.1	catalase hydroperoxidase HPII(III) protein	Sinorhizobium meliloti 1021
+tlpA	BLL1380	NP_768020.1	thioredoxin-like protein	Bradyrhizobium diazoefficiens USDA 110
+rhcC2	BLL1842	NP_768482.1	RhcC2 protein	Bradyrhizobium diazoefficiens USDA 110
+dctM	SMB21351	NP_437467.1	C4-dicarboxylate large membrane transport protein (plasmid)	Sinorhizobium meliloti 1021
+ropA	PRL110375	WP_011655117.1	porin	Rhizobium leguminosarum
+nodD2	SMA0757	NP_435650.1	NodD2 nod box-dependent transcription activator (plasmid)	Sinorhizobium meliloti 1021
+fadD	SMC02162	NP_384590.1	long-chain-fatty-acid--CoA ligase	Sinorhizobium meliloti 1021
+bacS	RHE_PD00301	WP_011053475.1	MULTISPECIES: phasin	Rhizobium
+y4wE	NGR_A01000	NP_444125.1	histidinol-phosphate aminotransferase (plasmid)	Sinorhizobium fredii NGR234
+NopE1	BLR1806	NP_768446.1	hypothetical protein blr1806	Bradyrhizobium diazoefficiens USDA 110
+hsfA	BLL0891	NP_767531.1	hypothetical protein bll0891	Bradyrhizobium diazoefficiens USDA 110
+thiC	SMB20615	NP_438067.1	thiamine biosynthesis protein ThiC (plasmid)	Sinorhizobium meliloti 1021
+rhcC1	BLL1811	NP_768451.1	RhcC1 protein	Bradyrhizobium diazoefficiens USDA 110
+olsB	SMC01127	NP_384499.1	hypothetical protein SMc01127	Sinorhizobium meliloti 1021
+fabI2	SMC00326	NP_384352.1	enoyl-ACP reductase	Sinorhizobium meliloti 1021
+pckA	SMC02562	NP_384151.1	phosphoenolpyruvate carboxykinase	Sinorhizobium meliloti 1021
+y4yQ	BLL1803	NP_768443.1	hypothetical protein bll1803	Bradyrhizobium diazoefficiens USDA 110
+cobO	NGR_C18180	YP_002826335.1	cob(I)yrinic acid a,c-diamide adenosyltransferase	Sinorhizobium fredii NGR234
+expD2	SMB21315	NP_437431.1	HlyD family protein secretion protein (plasmid)	Sinorhizobium meliloti 1021
+noeA	SMA0773	NP_435662.1	NoeA host specific nodulation protein (plasmid)	Sinorhizobium meliloti 1021
+hemH	BLL7752	NP_774392.1	ferrochelatase	Bradyrhizobium diazoefficiens USDA 110
+exoB	BLR7578	NP_774218.1	UDP-glucose 4'-epimerase	Bradyrhizobium diazoefficiens USDA 110
+opaA	PRL120419	WP_011649184.1	aspartate aminotransferase family protein	Rhizobium leguminosarum
+fabI1	SMC00005	NP_385004.1	enoyl-ACP reductase	Sinorhizobium meliloti 1021
+lpsB	SMC01219	NP_385678.1	lipopolysaccharide core biosynthesis mannosyltransferase	Sinorhizobium meliloti 1021
+nodM	BLR1632	NP_768272.1	glucosamine--fructose-6-phosphate aminotransferase	Bradyrhizobium diazoefficiens USDA 110
+chvA	BLL1321	NP_767961.1	cyclic beta-1,2-glucan ABc transporter	Bradyrhizobium diazoefficiens USDA 110
+proC	BLR7454	NP_774094.1	pyrroline-5-carboxylate reductase	Bradyrhizobium diazoefficiens USDA 110
+cycH	SMC02361	NP_385123.1	cytochrome C-type biogenesis transmembrane protein	Sinorhizobium meliloti 1021
+tpiB	SMC01614	NP_386332.1	triosephosphate isomerase	Sinorhizobium meliloti 1021
+sucD	SMC02481	NP_387160.1	succinyl-CoA synthetase subunit alpha	Sinorhizobium meliloti 1021
+gabT	RL0102	WP_011649926.1	4-aminobutyrate--2-oxoglutarate transaminase	Rhizobium leguminosarum
+acpP	SMC00573	NP_385249.1	acyl carrier protein	Sinorhizobium meliloti 1021
+nolB	NGR_A00680	NP_444157.1	nodulation protein NopB (plasmid)	Sinorhizobium fredii NGR234
+relA	SMC02659	NP_385171.1	GTP pyrophosphokinase (ATP:GTP 3'-pyrophosphotransferase) protein	Sinorhizobium meliloti 1021
+nfeD	SMB20990	NP_437655.1	membrane protein necessary for nodulation competitiveness (plasmid)	Sinorhizobium meliloti 1021
+expR	SMC03896	NP_387385.1	transcriptional regulator	Sinorhizobium meliloti 1021
+exoT	BLR7577	NP_774217.1	UDP-hexose transferase	Bradyrhizobium diazoefficiens USDA 110
+ORF126	BLR4775	NP_771415.1	two-component response regulator	Bradyrhizobium diazoefficiens USDA 110
+fixQ1	SMA1214	NP_435909.1	FixQ1 nitrogen fixation protein (plasmid)	Sinorhizobium meliloti 1021
+acpXL	SMC04278	NP_386048.3	acyl carrier protein	Sinorhizobium meliloti 1021
+fixL	SMA1229	NP_435916.1	FixL oxygen regulated histidine kinase (plasmid)	Sinorhizobium meliloti 1021
+hmrR	SMA1014	NP_435795.1	HmrR (plasmid)	Sinorhizobium meliloti 1021
+expA6	SMB21323	NP_437439.1	hypothetical protein SM_b21323 (plasmid)	Sinorhizobium meliloti 1021
+exoO	SMB20959	NP_437624.1	glucosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+rkpH	SMC02271	NP_384681.1	ribitol type dehydrogenase	Sinorhizobium meliloti 1021
+fixN2	SMA0765	NP_435656.1	cbb3-type cytochrome c oxidase subunit I (plasmid)	Sinorhizobium meliloti 1021
+fixT1	SMA1226	NP_435914.1	FixT1 inhibitor of FixL autophosphorylation (plasmid)	Sinorhizobium meliloti 1021
+sipS	BLL1167	NP_767807.1	signal peptidase	Bradyrhizobium diazoefficiens USDA 110
+fixK	BLL6061	NP_772701.1	transcriptional regulator	Bradyrhizobium diazoefficiens USDA 110
+rhaK	PRL110408	WP_011655147.1	carbohydrate kinase	Rhizobium leguminosarum
+nolU	BLR1814	NP_768454.1	nodulation protein	Bradyrhizobium diazoefficiens USDA 110
+hypD	AZC_0611	WP_012169142.1	hydrogenase formation protein HypD	Azorhizobium caulinodans
+nodU	BLR2029	NP_768669.1	6-O-carbamoyl transferase	Bradyrhizobium diazoefficiens USDA 110
+fixN1	SMA1220	NP_435911.1	cbb3-type cytochrome c oxidase subunit I (plasmid)	Sinorhizobium meliloti 1021
+expE3	SMB21312	NP_437428.1	methyltransferase (plasmid)	Sinorhizobium meliloti 1021
+nopT	BLR2140	NP_768780.1	hypothetical protein blr2140	Bradyrhizobium diazoefficiens USDA 110
+frxA	BSR1760	NP_768400.1	ferredoxin-like protein	Bradyrhizobium diazoefficiens USDA 110
+actP	SMA1013	NP_435794.1	ATPase P (plasmid)	Sinorhizobium meliloti 1021
+glnK	RHE_CH03974	WP_003543684.1	MULTISPECIES: P-II family nitrogen regulator	Rhizobium
+gabD	RL0101	WP_011649925.1	NAD-dependent succinate-semialdehyde dehydrogenase	Rhizobium leguminosarum
+rosR	RHE_CH01249	WP_011424588.1	MULTISPECIES: transcriptional regulator	Rhizobium
+pcm	SMC02062	NP_385640.1	protein-L-isoaspartate O-methyltransferase	Sinorhizobium meliloti 1021
+matQ	SMA0155	NP_435328.1	hypothetical protein SMa0155 (plasmid)	Sinorhizobium meliloti 1021
+lpsD	SMC01221	NP_385676.1	lipopolysaccharide core biosynthesis glycosyl transferase	Sinorhizobium meliloti 1021
+virG	RHE_PA00053	WP_042119593.1	response regulator	Rhizobium etli
+purL	SMC00488	NP_385885.1	phosphoribosylformylglycinamidine synthase II	Sinorhizobium meliloti 1021
+hypF	AZC_0597	WP_012169128.1	carbamoyltransferase HypF	Azorhizobium caulinodans
+ndvC	BLL4612	NP_771252.1	beta (1-6) glucans synthase	Bradyrhizobium diazoefficiens USDA 110
+exoB	SMB20942	NP_437605.1	UDP glucose 4-epimerase (plasmid)	Sinorhizobium meliloti 1021
+cysN	NGR_C06940	YP_002825240.1	sulfate adenylyltransferase	Sinorhizobium fredii NGR234
+emmA	SMB21521	NP_437891.1	hypothetical protein SM_b21521 (plasmid)	Sinorhizobium meliloti 1021
+fixJ	BLL2759	NP_769399.1	response regulator FixJ	Bradyrhizobium diazoefficiens USDA 110
+tme	SMC01126	NP_384500.1	malic enzyme	Sinorhizobium meliloti 1021
+thiD	SMB20962	NP_437627.1	phoshomethylpyrimidine kinase (plasmid)	Sinorhizobium meliloti 1021
+cycL	SMC02364	NP_385126.1	cytochrome C-type biogenesis transmembrane protein	Sinorhizobium meliloti 1021
+olsA	SMC01116	NP_384510.1	acyltransferase transmembrane protein	Sinorhizobium meliloti 1021
+bioM	SMC00962	NP_384996.1	ABC transporter ATP-binding protein	Sinorhizobium meliloti 1021
+nolO	BLR2034	NP_768674.1	NolO protein	Bradyrhizobium diazoefficiens USDA 110
+noeB	SMA0774	NP_435663.1	NoeB host specific nodulation protein (plasmid)	Sinorhizobium meliloti 1021
+expE7	SMB21308	NP_437424.1	glycosyltransferase, forming alpha glycosyl linkages protein (plasmid)	Sinorhizobium meliloti 1021
+pth	SMC02693	NP_386461.1	peptidyl-tRNA hydrolase	Sinorhizobium meliloti 1021
+nifD	SMA0827	NP_435696.1	NifD nitrogenase molybdenum-iron protein alpha chain (plasmid)	Sinorhizobium meliloti 1021
+ccmC	SMC03849	NP_387338.1	heme exporter C (cytochrome C-type biogenesis protein) transmembrane	Sinorhizobium meliloti 1021
+minD	SMB21523	NP_437893.1	cell division inhibitor protein (plasmid)	Sinorhizobium meliloti 1021
+rkpA	SMC02273	NP_384683.1	fatty acid synthase transmembrane protein	Sinorhizobium meliloti 1021
+expE6	SMB21309	NP_437425.1	hypothetical protein SM_b21309 (plasmid)	Sinorhizobium meliloti 1021
+nolF	SMA0876	NP_435727.1	NolF secretion protein (plasmid)	Sinorhizobium meliloti 1021
+nodQ1	SMA0857	NP_435715.1	bifunctional sulfate adenylyltransferase subunit 1/adenylylsulfate kinase (plasmid)	Sinorhizobium meliloti 1021
+orf74	BLR7496	NP_774136.1	nitrogen fixation protein	Bradyrhizobium diazoefficiens USDA 110
+lrp	SMC00681	NP_386797.1	leucine-responsive regulatory protein	Sinorhizobium meliloti 1021
+putA	SMC02181	NP_384572.1	bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase	Sinorhizobium meliloti 1021
+noeC	AZC_3810	WP_043880546.1	hypothetical protein, partial	Azorhizobium caulinodans
+hemN	BLL7086	NP_773726.1	coproporphyrinogen III oxidase	Bradyrhizobium diazoefficiens USDA 110
+nodO	PRL100175	WP_011654216.1	MULTISPECIES: calcium-binding protein	Rhizobium
+purB	SMC00508	NP_385865.1	adenylosuccinate lyase	Sinorhizobium meliloti 1021
+clpX	SMC01904	NP_385362.1	ATP-dependent protease ATP-binding subunit ClpX	Sinorhizobium meliloti 1021
+pmtA	BLR0681	NP_767321.1	phospholipid N-methyltransferase	Bradyrhizobium diazoefficiens USDA 110
+expE8	SMB21307	NP_437423.1	hypothetical protein SM_b21307 (plasmid)	Sinorhizobium meliloti 1021
+nodL	SMA0772	NP_435661.1	NodL Nod factor acetyltransferase (plasmid)	Sinorhizobium meliloti 1021
+leuB	SMC04405	NP_387416.1	3-isopropylmalate dehydrogenase	Sinorhizobium meliloti 1021
+rhcV	BLL1800	NP_768440.1	RhcV protein	Bradyrhizobium diazoefficiens USDA 110
+nodN2	SMC03927	NP_386955.1	nodulation protein	Sinorhizobium meliloti 1021
+matC	RL0992	WP_011650730.1	hypothetical protein	Rhizobium leguminosarum
+flgH	SMC03034	NP_384772.1	flagellar basal body L-ring protein	Sinorhizobium meliloti 1021
+rkpK	SMC02641	NP_385188.1	UDP-glucose 6-dehydrogenase	Sinorhizobium meliloti 1021
+dctP	SMB21353	NP_437469.1	periplasmic C4-dicarboxylate transport protein (plasmid)	Sinorhizobium meliloti 1021
+nifQ	NGR_A01190	NP_444106.1	nitrogen fixation protein NifQ (plasmid)	Sinorhizobium fredii NGR234
+cycY	RL4540	WP_011653898.1	DsbE family thiol:disulfide interchange protein	Rhizobium leguminosarum
+dnaJ	RL0151	WP_011649969.1	MULTISPECIES: molecular chaperone DnaJ	Rhizobium
+SMc01113	SMC01113	NP_384513.1	hypothetical protein SMc01113	Sinorhizobium meliloti 1021
+phaC1	SMC03180	NP_387017.1	monovalent cation/H+ antiporter subunit C	Sinorhizobium meliloti 1021
+leuD	SMC03795	NP_387284.1	isopropylmalate isomerase small subunit	Sinorhizobium meliloti 1021
+feuP	SMC00458	NP_385120.1	transcriptional regulator	Sinorhizobium meliloti 1021
+sucA	SMC02482	NP_387159.1	2-oxoglutarate dehydrogenase E1 component	Sinorhizobium meliloti 1021
+nodN	BLL3460	NP_770100.1	nodulation protein N	Bradyrhizobium diazoefficiens USDA 110
+hemB	BLR5037	NP_771677.2	delta-aminolevulinic acid dehydratase	Bradyrhizobium diazoefficiens USDA 110
+phoB	SMC02140	NP_384621.1	phosphate regulon transcriptional regulatory protein	Sinorhizobium meliloti 1021
+aspA	BLR1326	NP_767966.1	aspartate ammonia-lyase	Bradyrhizobium diazoefficiens USDA 110
+rpoN1	BLR1883	NP_768523.1	RNA polymerase factor sigma-54	Bradyrhizobium diazoefficiens USDA 110
+tep1	SMC02161	NP_384591.1	transport transmembrane protein	Sinorhizobium meliloti 1021
+hupL	AZC_0599	WP_012169130.1	nickel-dependent hydrogenase large subunit	Azorhizobium caulinodans
+phyR	BLL7795	NP_774435.1	two-component response regulator	Bradyrhizobium diazoefficiens USDA 110
+phbC	SMC00296	NP_385831.1	POLY3-hydroxybutyrate polymerase	Sinorhizobium meliloti 1021
+mcpB	RL4033	WP_041936459.1	HAMP domain-containing protein	Rhizobium leguminosarum
+fixK2	BLL2757	NP_769397.1	transcriptional regulator FixK	Bradyrhizobium diazoefficiens USDA 110
+cysG	SMC01053	NP_385575.1	siroheme synthase	Sinorhizobium meliloti 1021
+celB	RHE_CH01543	WP_011424872.1	cellulose biosynthesis cyclic di-GMP-binding regulatory protein BcsB	Rhizobium etli
+exoF2	SMB21073	NP_437192.1	OMA family outer membrane saccharide export protein (plasmid)	Sinorhizobium meliloti 1021
+gltA	SMC02087	NP_385615.1	type II citrate synthase	Sinorhizobium meliloti 1021
+fixA	BLR2038	NP_768678.1	electron transfer flavoprotein subunit beta	Bradyrhizobium diazoefficiens USDA 110
+groES1	SMC00912	NP_384899.1	co-chaperonin GroES	Sinorhizobium meliloti 1021
+emmB	SMB21519	NP_437889.1	two-component sensor histidine kinase (plasmid)	Sinorhizobium meliloti 1021
+kpsS	MLL7563	AAR25361.1	NADH dehydrogenase subunit 2, partial (mitochondrion)	Tiaris bicolor
+exoU	SMB20948	NP_437611.1	glucosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+thuB	SMB20330	NP_436856.1	trehalosemaltose utilization protein, function (plasmid)	Sinorhizobium meliloti 1021
+rkpN	NGR_B09470	YP_002823156.1	RkpN, acylneuraminate cytidylyltransferase (plasmid)	Sinorhizobium fredii NGR234
+nifX	BLR1747	NP_768387.1	iron-molibdenum cofactor processing protein	Bradyrhizobium diazoefficiens USDA 110
+ntrC	SMC01043	NP_385565.1	nitrogen assimilation regulatory protein	Sinorhizobium meliloti 1021
+y4yJ	BLR1817	NP_768457.1	hypothetical protein blr1817	Bradyrhizobium diazoefficiens USDA 110
+expE4	SMB21311	NP_437427.1	glycosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+nodB	BLR2026	NP_768666.1	de N-acatylase	Bradyrhizobium diazoefficiens USDA 110
+ndvA	SMC03900	NP_387389.1	cyclic beta-1,2-glucan ABc transporter	Sinorhizobium meliloti 1021
+nosZ	BLR0315	NP_766955.1	nitrous-oxide reductase	Bradyrhizobium diazoefficiens USDA 110
+phoE	SMB21175	NP_437381.1	phosphate uptake ABC transporter permease (plasmid)	Sinorhizobium meliloti 1021
+sinR	SMC00170	NP_385944.1	transcription regulator HSL-dependent protein	Sinorhizobium meliloti 1021
+phaA1	SMC03179	NP_387016.1	monovalent cation/H+ antiporter subunit A	Sinorhizobium meliloti 1021
+rpoN2	BLR0723	NP_767363.1	RNA polymerase factor sigma-54	Bradyrhizobium diazoefficiens USDA 110
+syrB	SMA1698	NP_436179.1	syrB1 regulator (plasmid)	Sinorhizobium meliloti 1021
+nolL	MLR8757	AAR25361.1	NADH dehydrogenase subunit 2, partial (mitochondrion)	Tiaris bicolor
+stcD2	SMB21570	NP_437550.1	NADH-dependent oxidase (plasmid)	Sinorhizobium meliloti 1021
+groEL1	SMC00913	NP_384898.1	chaperonin GroEL	Sinorhizobium meliloti 1021
+kdsB2	SM_B20803	NP_437083.1	3-deoxy-manno-octulosonate cytidylyltransferase (plasmid)	Sinorhizobium meliloti 1021
+katB	SMA2379	NP_436532.1	KatB catalase/peroxidase (plasmid)	Sinorhizobium meliloti 1021
+psd	SMC00551	NP_385227.1	phosphatidylserine decarboxylase	Sinorhizobium meliloti 1021
+amtB	SMC03807	NP_387296.1	ammonium transporter	Sinorhizobium meliloti 1021
+nolA	BLL2019	NP_768659.1	transcriptional regulator	Bradyrhizobium diazoefficiens USDA 110
+mdh	SMC02479	NP_387162.1	malate dehydrogenase	Sinorhizobium meliloti 1021
+matP	SMA0157	NP_435329.1	ABC transporter substrate-binding protein (plasmid)	Sinorhizobium meliloti 1021
+nifN	SMA0873	NP_435724.1	nitrogenase molybdenum-cofactor biosynthesis protein NifN (plasmid)	Sinorhizobium meliloti 1021
+thuA	SMB20329	NP_436855.1	ThuA protein, function (plasmid)	Sinorhizobium meliloti 1021
+nodP2	SMB21223	NP_437267.1	sulfate adenylyltransferase subunit 2 (plasmid)	Sinorhizobium meliloti 1021
+nopP	BLR1752	NP_768392.1	host-inducible protein A-like protein	Bradyrhizobium diazoefficiens USDA 110
+nodA	SMA0869	NP_435721.1	acyltransferase (plasmid)	Sinorhizobium meliloti 1021
+groEL3	SMA0124	NP_435310.1	molecular chaperone GroEL (plasmid)	Sinorhizobium meliloti 1021
+glgA1	SMC03924	NP_386952.1	glycogen synthase	Sinorhizobium meliloti 1021
+SMc02909	SMC02909	NP_384340.1	transglycosylase transmembrane protein	Sinorhizobium meliloti 1021
+nwsA	BLR4773	NP_771413.1	two-component hybrid sensor and regulator	Bradyrhizobium diazoefficiens USDA 110
+kpsF3	SMC02268	NP_384678.1	capsule expression protein	Sinorhizobium meliloti 1021
+cpdR1	SMC04044	NP_386933.1	2-component receiver domain-containing protein	Sinorhizobium meliloti 1021
+pdhAa	SMC01030	NP_385551.1	pyruvate dehydrogenase alpha2 subunit protein	Sinorhizobium meliloti 1021
+expC	SMB21318	NP_437434.1	glycosyltransferase, forming alpha-glycosyl linkages protein (plasmid)	Sinorhizobium meliloti 1021
+basR	BLL1843	NP_768483.1	two-component response regulator	Bradyrhizobium diazoefficiens USDA 110
+exoP	BLL2362	NP_769002.1	succinoglycan biosynthesis transport protein	Bradyrhizobium diazoefficiens USDA 110
+lsrA	SMC00037	NP_385063.1	transcriptional regulator	Sinorhizobium meliloti 1021
+matB	RL0991	WP_011650729.1	malonyl-CoA synthase	Rhizobium leguminosarum
+fixN3	SMA0612	NP_435566.1	cbb3-type cytochrome c oxidase subunit I (plasmid)	Sinorhizobium meliloti 1021
+nolV	BLR1815	NP_768455.1	nodulation protein	Bradyrhizobium diazoefficiens USDA 110
+lpsL	SMC02640	NP_385189.1	UDP-glucuronic acid epimerase	Sinorhizobium meliloti 1021
+hypB	AZC_0608	WP_012169139.1	hydrogenase accessory protein HypB	Azorhizobium caulinodans
+fixU	SMA0810	NP_435686.1	nitrogen fixation protein FixU (plasmid)	Sinorhizobium meliloti 1021
+expA23	SMB21320	NP_437436.1	bifunctional glycosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+fixO1	SMA1216	NP_435910.1	cbb3-type cytochrome c oxidase subunit II (plasmid)	Sinorhizobium meliloti 1021
+expA5	SMB21322	NP_437438.1	hypothetical protein SM_b21322 (plasmid)	Sinorhizobium meliloti 1021
+norC	SMA1276	NP_435941.1	NorC nitric oxide reductase, small subunit (plasmid)	Sinorhizobium meliloti 1021
+sitA	SMC02509	NP_387132.1	iron-binding periplasmic ABC transporter protein	Sinorhizobium meliloti 1021
+bsl1845	BSL1845	NP_768485.1	hypothetical protein bsl1845	Bradyrhizobium diazoefficiens USDA 110
+matA	RL0990	WP_011650728.1	malonyl-CoA decarboxylase	Rhizobium leguminosarum
+exoT	SMB20950	NP_437614.1	transport protein, Wzx (plasmid)	Sinorhizobium meliloti 1021
+lspL	BLR2382	NP_769022.1	UDP-glucuronic acid epimerase	Bradyrhizobium diazoefficiens USDA 110
+trpD	BLL2049	NP_768689.1	anthranilate phosphoribosyltransferase	Bradyrhizobium diazoefficiens USDA 110
+exoF3	SMB21245	NP_437289.1	OMA family outer membrane protein (plasmid)	Sinorhizobium meliloti 1021
+fixB	BLR1773	NP_768413.1	electron transfer flavoprotein subunit alpha	Bradyrhizobium diazoefficiens USDA 110
+cbrA	SMC00776	NP_384827.1	sensor histidine kinase	Sinorhizobium meliloti 1021
+expA9	SMB21326	NP_437442.1	dTDP-D-glucose 4,6-dehydratase (plasmid)	Sinorhizobium meliloti 1021
+glnD	SMC01124	NP_384502.1	PII uridylyl-transferase	Sinorhizobium meliloti 1021
+rhcQ	BLR1818	NP_768458.1	RhcQ protein	Bradyrhizobium diazoefficiens USDA 110
+idhA	SMB20899	NP_437734.1	myo-inositol dehydrogenase (plasmid)	Sinorhizobium meliloti 1021
+exoN	BLR1499	NP_768139.1	UTP-glucose-1-phosphate uridylyltransferase	Bradyrhizobium diazoefficiens USDA 110
+ttsI	NGR_A00800	NP_444145.1	transcriptional regulator (plasmid)	Sinorhizobium fredii NGR234
+ugdH	BLR2383	NP_769023.1	UDP-glucose 6-dehydrogenase	Bradyrhizobium diazoefficiens USDA 110
+ndvB	BLR4614	NP_771254.1	beta-(1-3)-glucosyl transferase	Bradyrhizobium diazoefficiens USDA 110
+fixK2	SMA0762	NP_435654.1	transcriptional regulator FixK (plasmid)	Sinorhizobium meliloti 1021
+fixA	SMA0822	NP_435693.1	FixA electron transfer flavoprotein beta chain (plasmid)	Sinorhizobium meliloti 1021
+nodP1	SMA0855	NP_435714.1	sulfate adenylyltransferase subunit 2 (plasmid)	Sinorhizobium meliloti 1021
+dctD	SMB20613	NP_438065.1	C4-dicarboxylate transport transcriptional regulator (plasmid)	Sinorhizobium meliloti 1021
+SMb20073	SMB20073	NP_436613.1	oxidoreductase (plasmid)	Sinorhizobium meliloti 1021
+fixS1	SMA1208	NP_435904.1	FixS1 nitrogen fixation protein (plasmid)	Sinorhizobium meliloti 1021
+purM	SMC00615	NP_385290.1	phosphoribosylaminoimidazole synthetase	Sinorhizobium meliloti 1021
+metA	SMC03797	NP_387286.1	homoserine O-succinyltransferase	Sinorhizobium meliloti 1021
+exoN2	SMC04023	NP_386913.1	UTP--glucose-1-phosphate uridylyltransferase	Sinorhizobium meliloti 1021
+phaG2	SMC00057	NP_385104.1	monovalent cation/H+ antiporter subunit G	Sinorhizobium meliloti 1021
+SMb21189	SMB21189	NP_437395.1	glycosyltransferase (plasmid)	Sinorhizobium meliloti 1021
+nodM	SMA0878	NP_435728.1	glucosamine--fructose-6-phosphate aminotransferase (plasmid)	Sinorhizobium meliloti 1021
+nfeC	BLL2067	NP_768707.1	nodulate formation efficiency C protein	Bradyrhizobium diazoefficiens USDA 110
+nodC	SMA0866	NP_435719.1	NodC N-acetylglucosaminyltransferase (plasmid)	Sinorhizobium meliloti 1021
+pit	SMC02861	NP_384292.1	phosphate transporter	Sinorhizobium meliloti 1021
+tkt2	SMC03978	NP_386868.1	transketolase	Sinorhizobium meliloti 1021
+SMb20076	SMB20076	NP_436616.1	short-chain dehydrogenase (plasmid)	Sinorhizobium meliloti 1021
+sitC	SMC02507	NP_387134.1	iron transport system membrane ABC transporter protein	Sinorhizobium meliloti 1021
+fixO3	SMA0615	NP_435567.1	cbb3-type cytochrome c oxidase subunit II (plasmid)	Sinorhizobium meliloti 1021
+phbA	SMC03879	NP_387368.1	acetyl-CoA acetyltransferase	Sinorhizobium meliloti 1021
+y4xK	BLL1841	NP_768481.1	hypothetical protein bll1841	Bradyrhizobium diazoefficiens USDA 110
+nodD2	BLL2021	NP_768661.1	transcriptional regulator	Bradyrhizobium diazoefficiens USDA 110
+SMb20210	SMB20210	NP_436743.1	oxidoreductase (plasmid)	Sinorhizobium meliloti 1021
+lpsS	SMC04267	NP_386144.1	hypothetical protein SMc04267	Sinorhizobium meliloti 1021
+ndvD	BLR4613	NP_771253.1	hypothetical protein blr4613	Bradyrhizobium diazoefficiens USDA 110
+nirK	BLR7089	NP_773729.1	respiratory nitrite reductase	Bradyrhizobium diazoefficiens USDA 110
+exoZ	SMB20943	NP_437606.1	acetyltransferase (plasmid)	Sinorhizobium meliloti 1021
+expA1	SMB21319	NP_437435.1	hypothetical protein SM_b21319 (plasmid)	Sinorhizobium meliloti 1021
+nolG	SMA0875	NP_435726.1	NolG efflux transporter (plasmid)	Sinorhizobium meliloti 1021
+ntrX	SMC01045	NP_385567.1	nitrogen regulation protein	Sinorhizobium meliloti 1021
+pstC	SMC02144	NP_384617.1	phosphate ABC transporter permease	Sinorhizobium meliloti 1021
+dctB	SMB20612	NP_438064.1	C4-dicarboxylate transport sensor protein (plasmid)	Sinorhizobium meliloti 1021
+rkpM	NGR_B09460	YP_002823155.1	RkpM, polysaccharide biosynthesis protein (plasmid)	Sinorhizobium fredii NGR234
+hypA	AZC_0607	WP_012169138.1	hydrogenase maturation nickel metallochaperone HypA	Azorhizobium caulinodans
+hypE	AZC_0612	WP_012169143.1	hydrogenase expression/formation protein HypE	Azorhizobium caulinodans
+nodQ2	SMB21224	NP_437268.1	bifunctional sulfate adenylyltransferase subunit 1/adenylylsulfate kinase (plasmid)	Sinorhizobium meliloti 1021
+sodB	SMC00043	NP_385079.1	superoxide dismutase Fe protein	Sinorhizobium meliloti 1021
+hupE	RLEG2_5110	WP_012556018.1	HupE/UreJ family protein	Rhizobium leguminosarum
+trpE	SMC02725	NP_386493.1	anthranilate synthase	Sinorhizobium meliloti 1021
+bcpB	BLL5069	NP_771709.1	BcpB protein	Bradyrhizobium diazoefficiens USDA 110
+typA	SMC03242	NP_387196.1	GTP-binding protein	Sinorhizobium meliloti 1021
+expA4	SMB21321	NP_437437.1	hypothetical protein SM_b21321 (plasmid)	Sinorhizobium meliloti 1021
+fixG	SMA1211	NP_435907.1	FixG iron sulfur membrane protein (plasmid)	Sinorhizobium meliloti 1021
+ptsA	RHE_CH03757	WP_011426958.1	phosphoenolpyruvate--protein phosphotransferase	Rhizobium etli
+nolB	BLR1812	NP_768452.1	nodulation protein	Bradyrhizobium diazoefficiens USDA 110
+phaB2	SMC00052	NP_385099.1	monovalent cation/H+ antiporter subunit B	Sinorhizobium meliloti 1021
+rhiA	PRL100169	WP_011654211.1	MULTISPECIES: protein RhiA	Rhizobium
+glnB	SMC00947	NP_385745.1	nitrogen regulatory protein PII	Sinorhizobium meliloti 1021
+hupG	AZC_0603	WP_012169134.1	hydrogenase	Azorhizobium caulinodans
+phaD2	PHAD2	sp|Q92RA0|Q92RA0_RHIME	PUTATIVE CATION EFFLUX SYSTEM PROTEIN	
+gstI	GSTI	WP_011426339.1	DUF2735 domain-containing protein	Rhizobium etli
+mrtI	MRTI	sp|Q45NF3|Q45NF3_9RHIZ	MrtI	
+rkpF	X64131	sp|Q52938.2|RKPI_RHIME	RecName: Full=Capsular polysaccharide biosynthesis protein RkpI	
+phaA2	PHAA2	NP_385098.1	monovalent cation/H+ antiporter subunit A	Sinorhizobium meliloti 1021
+phaF2	PHAF2	YP_006839524.1	PhaF2 protein	Sinorhizobium meliloti Rm41
+nfeB	NFE2	sp|Q52994.1|NFE2_RHIML	RecName: Full=Protein nfe2	
+lrpL	LRPL	YP_003329374.1	LrpL (plasmid)	Sinorhizobium meliloti
+mcpC	MCPC	WP_022557169.1	methyl-accepting chemotaxis protein	Rhizobium sp. IRBG74
+rkpY	RKPY	sp|Q9R9P8|Q9R9P8_RHIME	Hypothetical protein rkpY	
+opa22	DQ199621	sp|Q3HS38|Q3HS38_MESS7	Opa22	
+rtxC	RTXC	NP_768720.1	dihydrorhizobitoxine desaturase	Bradyrhizobium diazoefficiens USDA 110
+rtxA	RTXA	sp|Q93HS5|Q93HS5_BRAEL	RtxA	
+hupI	HUPI	NP_773575.1	HupI protein	Bradyrhizobium diazoefficiens USDA 110
+virB11	VIRB11	NP_059809.1	hypothetical protein pTi_137 (plasmid)	Agrobacterium tumefaciens
+lpiA	LPIA	YP_007334868.1	low pH-inducible protein LpiA	Rhizobium tropici CIAT 899
+virB10	VIRB10	NP_059808.1	hypothetical protein pTi_136 (plasmid)	Agrobacterium tumefaciens
+mrlI1	MRLI1	tr|B0ZTB8|B0ZTB8_RHILI	Acyl-homoserine-lactone synthase	Rhizobium loti
+mrlI3	MRLI3	tr|B0ZTC0|B0ZTC0_RHILI	Acyl-homoserine-lactone synthase	Rhizobium loti
+fnrNd	FNRND	WP_011053428.1	Crp/Fnr family transcriptional regulator	Rhizobium etli
+virB9	VIRB9	NP_059807.1	hypothetical protein pTi_135 (plasmid)	Agrobacterium tumefaciens
+fegA	BJU61401	AAC44674.1	FegA	Bradyrhizobium japonicum
+nex18	SMA1077	NP_435828.1	Nex18 symbiotically induced protein (plasmid)	Sinorhizobium meliloti 1021
+hurL	HURL	sp|Q6XA24|Q6XA24_RHILV	Hurl	
+fnrN	FNRN	YP_008365204.1	transcriptional activator FnrN	Rhizobium etli bv. mimosae str. Mim1
+nrfA	X76450	sp|Q43971|HFQ_AZOC5	RNA-binding protein Hfq	Azorhizobium caulinodans
+visR	VISR	tr|F7X7X7|F7X7X7_SINMM	VisR	Sinorhizobium meliloti
+nolR	AY194594	sp|Q83TD2|Q83TD2_RHIFR	NolR	
+visN	VISN	WP_014528994.1	MULTISPECIES: LuxR family transcriptional regulator	Rhizobiales
+trxL	DQ436341	sp|Q1W5W8|Q1W5W8_RHIME	Thiol-disulfide oxido-reductase	
+mrlI2	MRLI2	tr|B0ZTC1|B0ZTC1_RHILI	Acyl-homoserine-lactone synthase	Rhizobium loti
+rkpZ	RKPZ	CAB62159.1	polysaccharide chain lenght determinant protein	Sinorhizobium meliloti
+olsC	OLSC	WP_015340787.1	aspartyl/asparaginyl beta-hydroxylase domain-containing protein	Rhizobium tropici
+nolR	SMC02330	WP_013844758.1	MULTISPECIES: ArsR family transcriptional regulator	Rhizobiales

@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nodE|SMA0853         -            402 ACP_syn_III          PF08545.8     80   1.5e-06   14.3   3.8   1   3   0.00018   0.00018    7.7   0.1     2    34   157   189   156   195 0.86 -
+nodE|SMA0853         -            402 ACP_syn_III          PF08545.8     80   1.5e-06   14.3   3.8   2   3    0.0032    0.0032    3.7   0.1    48    66   220   238   211   252 0.76 -
+nodE|SMA0853         -            402 ACP_syn_III          PF08545.8     80   1.5e-06   14.3   3.8   3   3     0.011     0.011    2.0   0.0    43    72   302   333   293   346 0.74 -
+nodE|SMA0853         -            402 ketoacyl-synt        PF00109.24   253   6.4e-58  182.4   3.5   1   2   6.4e-58   6.4e-58  182.4   3.5     2   253     3   239     2   239 0.94 -
+nodE|SMA0853         -            402 ketoacyl-synt        PF00109.24   253   6.4e-58  182.4   3.5   2   2     0.039     0.039   -0.4   0.2    98   127   276   314   272   352 0.45 -
+nodE|SMA0853         -            402 Ketoacyl-synt_C      PF02801.20   118   1.3e-38  117.9   2.8   1   1   2.6e-38   2.6e-38  116.9   2.8     1   117   247   359   247   360 0.94 -
+nodE|SMA0853         -            402 Thiolase_C           PF02803.16   123   5.6e-07   15.5   0.4   1   3     0.097     0.097   -1.4   0.0    24    41    76    93    65   127 0.79 -
+nodE|SMA0853         -            402 Thiolase_C           PF02803.16   123   5.6e-07   15.5   0.4   2   3    0.0083    0.0083    2.0   0.1    96   121   148   173   131   175 0.83 -
+nodE|SMA0853         -            402 Thiolase_C           PF02803.16   123   5.6e-07   15.5   0.4   3   3   3.3e-05   3.3e-05    9.8   0.0    22    48   268   294   244   300 0.84 -
+nodE|SMA0853         -            402 Thiolase_N           PF00108.21   260   1.5e-11   30.2   5.8   1   2   8.8e-11   8.8e-11   27.7   1.1    64   112   143   189   126   191 0.82 -
+nodE|SMA0853         -            402 Thiolase_N           PF00108.21   260   1.5e-11   30.2   5.8   2   2   0.00097   0.00097    4.6   0.2    29    84   272   325   263   353 0.68 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA0853.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA0853.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA0853.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:03:50 2018
+# [ok]

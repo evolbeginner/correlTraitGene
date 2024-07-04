@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+fixN3|SMA0612        -            551 COX1                 PF00115.18   426  7.8e-107  343.8  63.4   1   1  1.5e-106  1.5e-106  342.8  63.4     5   426    77   506    74   506 0.93 -
+fixN3|SMA0612        -            551 DUF3040              PF11239.6     84         1   -6.1  21.8   1   6     0.002     0.002    4.7   2.4    42    81    10    46     2    49 0.61 -
+fixN3|SMA0612        -            551 DUF3040              PF11239.6     84         1   -6.1  21.8   2   6      0.19      0.19   -1.6   0.0    48    70    78   102    64   114 0.65 -
+fixN3|SMA0612        -            551 DUF3040              PF11239.6     84         1   -6.1  21.8   3   6      0.42      0.42   -2.7   0.0    45    65   159   180   135   204 0.59 -
+fixN3|SMA0612        -            551 DUF3040              PF11239.6     84         1   -6.1  21.8   4   6      0.87      0.87   -3.7   0.1    70    79   276   285   268   287 0.63 -
+fixN3|SMA0612        -            551 DUF3040              PF11239.6     84         1   -6.1  21.8   5   6     0.094     0.094   -0.6   0.3    67    82   441   462   401   465 0.65 -
+fixN3|SMA0612        -            551 DUF3040              PF11239.6     84         1   -6.1  21.8   6   6     0.053     0.053    0.2   0.6    53    75   502   525   487   529 0.70 -
+fixN3|SMA0612        -            551 zf-DHHC              PF01529.18   134         1  -13.4  29.3   1   4     0.075     0.075   -0.6   0.0    94   111    80    97    39   129 0.64 -
+fixN3|SMA0612        -            551 zf-DHHC              PF01529.18   134         1  -13.4  29.3   2   4      0.43      0.43   -3.1   7.9    55   104   160   204   155   247 0.47 -
+fixN3|SMA0612        -            551 zf-DHHC              PF01529.18   134         1  -13.4  29.3   3   4     0.077     0.077   -0.7   4.9    51   119   219   287   213   327 0.69 -
+fixN3|SMA0612        -            551 zf-DHHC              PF01529.18   134         1  -13.4  29.3   4   4         1         1   -5.7   7.1   126   126   402   402   297   525 0.62 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA0612.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA0612.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA0612.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:25:24 2018
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ttsI|NGR_A00800      -            226 MR_MLE_C             PF13378.4    219   5.6e-07   15.5   0.0   1   1   6.6e-07   6.6e-07   15.3   0.0    30   143     7   116     3   192 0.82 -
+ttsI|NGR_A00800      -            226 Response_reg         PF00072.22   112     7e-19   54.4   0.0   1   1     1e-18     1e-18   53.8   0.0     9   111     9   110     4   111 0.95 -
+ttsI|NGR_A00800      -            226 Trans_reg_C          PF00486.26    77     5e-20   57.7   0.2   1   2     0.083     0.083   -0.6   0.0    47    59   104   116    94   125 0.73 -
+ttsI|NGR_A00800      -            226 Trans_reg_C          PF00486.26    77     5e-20   57.7   0.2   2   2   2.4e-19   2.4e-19   55.5   0.1     2    77   144   218   143   218 0.94 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/NGR_A00800.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/NGR_A00800.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/NGR_A00800.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:04:11 2018
+# [ok]

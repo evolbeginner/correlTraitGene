@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+matQ|SMA0155         -            189 DctQ                 PF04290.10   132   4.7e-32   96.9  14.5   1   1   4.7e-32   4.7e-32   96.9  14.5     2   130    28   158    26   160 0.98 -
+matQ|SMA0155         -            189 DUF4064              PF13273.4    103   1.2e-06   15.1   1.5   1   2     0.029     0.029    1.1   0.2    62    80    17    35     5    68 0.64 -
+matQ|SMA0155         -            189 DUF4064              PF13273.4    103   1.2e-06   15.1   1.5   2   2   5.3e-06   5.3e-06   13.1   0.1     6    33    89   116    85   165 0.87 -
+matQ|SMA0155         -            189 DUF4131              PF13567.4    176     0.002    3.9  15.1   1   2    0.0027    0.0027    3.5   6.2    11    60    47   110     7   117 0.69 -
+matQ|SMA0155         -            189 DUF4131              PF13567.4    176     0.002    3.9  15.1   2   2    0.0016    0.0016    4.2   1.5    11    69   128   184   118   188 0.66 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA0155.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA0155.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA0155.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:13:24 2018
+# [ok]

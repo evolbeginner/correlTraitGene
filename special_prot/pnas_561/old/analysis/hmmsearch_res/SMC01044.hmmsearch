@@ -1,0 +1,34 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ntrY|SMC01044        -            753 DUF3899              PF13038.4     85   8.9e-06   12.5   0.2   1   2    0.0015    0.0015    5.3   0.2     1    14    62    75    62    84 0.86 -
+ntrY|SMC01044        -            753 DUF3899              PF13038.4     85   8.9e-06   12.5   0.2   2   2    0.0031    0.0031    4.4   0.0    29    81   257   310   255   314 0.88 -
+ntrY|SMC01044        -            753 GNVR                 PF13807.4     82     1e-05   11.7   1.2   1   2   4.8e-05   4.8e-05    9.6   0.1    52    81    47    77    43    78 0.82 -
+ntrY|SMC01044        -            753 GNVR                 PF13807.4     82     1e-05   11.7   1.2   2   2      0.14      0.14   -1.5   0.1     3    21   156   174   155   175 0.88 -
+ntrY|SMC01044        -            753 HAMP                 PF00672.23    69     3e-17   49.0   0.7   1   4      0.34      0.34   -2.4   0.3     5    20    28    43    25    54 0.55 -
+ntrY|SMC01044        -            753 HAMP                 PF00672.23    69     3e-17   49.0   0.7   2   4     0.077     0.077   -0.4   1.4     5    28    60    83    55    86 0.82 -
+ntrY|SMC01044        -            753 HAMP                 PF00672.23    69     3e-17   49.0   0.7   3   4     3e-17     3e-17   49.0   0.7     4    68   303   369   300   370 0.93 -
+ntrY|SMC01044        -            753 HAMP                 PF00672.23    69     3e-17   49.0   0.7   4   4     0.045     0.045    0.4   0.1    63    63   569   569   507   633 0.50 -
+ntrY|SMC01044        -            753 HATPase_c            PF02518.24   111   1.3e-21   63.6   0.0   1   1   3.4e-21   3.4e-21   62.2   0.0     3   109   617   734   615   736 0.86 -
+ntrY|SMC01044        -            753 HATPase_c_2          PF13581.4    125   2.5e-07   16.9   0.1   1   1   7.1e-07   7.1e-07   15.5   0.1    50   111   645   706   631   713 0.85 -
+ntrY|SMC01044        -            753 HATPase_c_5          PF14501.4    101   5.1e-09   22.3   0.0   1   1   1.2e-08   1.2e-08   21.1   0.0     9    88   623   714   618   721 0.69 -
+ntrY|SMC01044        -            753 HisKA                PF00512.23    64   7.9e-14   37.8   0.0   1   2      0.67      0.67   -3.6   0.0    25    47   445   467   442   470 0.79 -
+ntrY|SMC01044        -            753 HisKA                PF00512.23    64   7.9e-14   37.8   0.0   2   2   2.9e-13   2.9e-13   36.0   0.0     4    61   506   572   503   575 0.90 -
+ntrY|SMC01044        -            753 MIG-14_Wnt-bd        PF06664.10   292   4.1e-05    9.0   3.1   1   2   4.9e-05   4.9e-05    8.7   0.8   152   276    18   149     7   155 0.56 -
+ntrY|SMC01044        -            753 MIG-14_Wnt-bd        PF06664.10   292   4.1e-05    9.0   3.1   2   2     0.026     0.026   -0.2   0.1    41   219   280   312   256   329 0.52 -
+ntrY|SMC01044        -            753 PAS                  PF00989.23   113   3.4e-08   19.8   0.0   1   1   7.1e-08   7.1e-08   18.7   0.0     2    94   388   474   385   492 0.78 -
+ntrY|SMC01044        -            753 PAS_4                PF08448.8    110   2.4e-07   17.3   0.0   1   1   9.1e-07   9.1e-07   15.4   0.0     5   104   397   490   393   496 0.74 -
+ntrY|SMC01044        -            753 PAS_9                PF13426.5    102     1e-06   15.3   0.0   1   1   2.8e-06   2.8e-06   13.8   0.0     7   102   403   494   397   494 0.83 -
+ntrY|SMC01044        -            753 Syntaxin-6_N         PF09177.9     99   9.7e-05    9.2   4.7   1   3         1         1   -3.8   0.0     8    28   266   286   263   293 0.67 -
+ntrY|SMC01044        -            753 Syntaxin-6_N         PF09177.9     99   9.7e-05    9.2   4.7   2   3   0.00013   0.00013    8.8   0.1    60    95   361   396   340   399 0.81 -
+ntrY|SMC01044        -            753 Syntaxin-6_N         PF09177.9     99   9.7e-05    9.2   4.7   3   3     0.033     0.033    1.1   0.5    35    70   467   530   433   598 0.51 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC01044.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC01044.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC01044.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 11:54:56 2018
+# [ok]

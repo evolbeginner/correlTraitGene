@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+dnaJ|RL0151          -            375 DnaJ                 PF00226.29    63     1e-31   95.2   4.1   1   1   1.9e-31   1.9e-31   94.3   4.1     1    63     5    67     5    67 0.99 -
+dnaJ|RL0151          -            375 DnaJ_C               PF01556.16   146   1.3e-46  144.6   0.0   1   1   1.6e-46   1.6e-46  144.3   0.0     2   146   123   336   122   336 0.95 -
+dnaJ|RL0151          -            375 DnaJ_CXXCXGXG        PF00684.17    67   1.1e-18   53.7  15.2   1   1   2.2e-18   2.2e-18   52.8  15.2     1    67   149   209   149   209 0.88 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/RL0151.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/RL0151.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/RL0151.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 12:05:46 2019
+# [ok]

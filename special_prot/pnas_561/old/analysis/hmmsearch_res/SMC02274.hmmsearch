@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+rkpU|SMC02274        -            407 Poly_export          PF02563.14    82   3.7e-19   55.1   0.4   1   2   5.2e-18   5.2e-18   51.4   0.3     7    80    94   173    91   175 0.88 -
+rkpU|SMC02274        -            407 Poly_export          PF02563.14    82   3.7e-19   55.1   0.4   2   2     0.034     0.034    0.7   0.0     4    19   243   258   240   309 0.64 -
+rkpU|SMC02274        -            407 SLBB                 PF10531.7     58   7.8e-14   37.7   2.2   1   2   2.3e-11   2.3e-11   29.8   0.7     1    47   181   229   181   234 0.93 -
+rkpU|SMC02274        -            407 SLBB                 PF10531.7     58   7.8e-14   37.7   2.2   2   2   0.00039   0.00039    6.6   0.0     2    37   263   300   262   313 0.80 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC02274.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC02274.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC02274.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:16:15 2018
+# [ok]

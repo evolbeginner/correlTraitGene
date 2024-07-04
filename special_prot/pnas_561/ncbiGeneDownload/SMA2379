@@ -1,0 +1,38 @@
+
+1. katB
+KatB catalase/peroxidase [Sinorhizobium meliloti 1021]
+Other Aliases: SMa2379
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (1342282..1344465, complement)
+ID: 1236323
+
+2. Smed_5331
+catalase/peroxidase HPI [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_5331
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (290410..292599)
+ID: 5319633
+
+3. katB
+KatB catalase/peroxidase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a2379
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (1340567..1342888, complement)
+This record was discontinued.
+ID: 14747279
+
+4. katG
+catalase [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00004
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (3559..5745)
+This record was discontinued.
+ID: 3896085
+
+5. katY
+catalase [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: YPTB0811, catA, katG
+Annotation:  NC_006155.1 (972857..975070, complement)
+This record was discontinued.
+ID: 2955908
+

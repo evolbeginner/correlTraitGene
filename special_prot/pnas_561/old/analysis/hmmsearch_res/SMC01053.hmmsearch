@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+cysG|SMC01053        -            485 BSD                  PF03909.15    58   1.2e-06   14.8   0.3   1   2   3.7e-06   3.7e-06   13.2   0.1    25    46   166   187   157   188 0.87 -
+cysG|SMC01053        -            485 BSD                  PF03909.15    58   1.2e-06   14.8   0.3   2   2      0.46      0.46   -3.1   0.0     9    19   281   291   279   294 0.83 -
+cysG|SMC01053        -            485 CysG_dimeriser       PF10414.7     58   2.6e-20   58.3   2.1   1   1   7.7e-20   7.7e-20   56.8   2.1     1    58   154   211   154   211 0.97 -
+cysG|SMC01053        -            485 NAD_binding_7        PF13241.4    104   6.3e-22   64.3   0.4   1   2     4e-21     4e-21   61.7   0.1     2   104    11   119    10   119 0.91 -
+cysG|SMC01053        -            485 NAD_binding_7        PF13241.4    104   6.3e-22   64.3   0.4   2   2     0.067     0.067   -0.0   0.0     7    40   379   416   375   454 0.56 -
+cysG|SMC01053        -            485 Radical_SAM          PF04055.19   167   2.1e-06   14.4   0.0   1   1   4.7e-06   4.7e-06   13.2   0.0    22    75   273   330   253   387 0.84 -
+cysG|SMC01053        -            485 Sirohm_synth_M       PF14824.4     28   2.5e-09   22.8   0.0   1   1   4.5e-09   4.5e-09   22.0   0.0     3    27   125   149   123   150 0.89 -
+cysG|SMC01053        -            485 TP_methylase         PF00590.18   212   4.8e-54  169.6   2.7   1   2      0.11      0.11   -1.5   0.1    44    91    36    89    12   103 0.46 -
+cysG|SMC01053        -            485 TP_methylase         PF00590.18   212   4.8e-54  169.6   2.7   2   2   4.8e-54   4.8e-54  169.6   2.7     2   211   221   430   220   431 0.97 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC01053.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC01053.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC01053.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:17:45 2018
+# [ok]

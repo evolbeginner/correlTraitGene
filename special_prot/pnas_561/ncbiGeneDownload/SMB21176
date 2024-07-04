@@ -1,0 +1,37 @@
+
+1. phoD
+phosphate uptake ABC transporter substrate-binding protein precursor [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b21176, SMb21176
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (922274..923179, complement)
+ID: 1237173
+
+2. Smed_4667
+phosphonate ABC transporter periplasmic phosphonate-binding protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4667
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (1178508..1179413, complement)
+ID: 5319342
+
+3. phoD
+Phosphate uptake ABC transporter periplasmic solute-binding protein precursor [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b21176
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (922277..923182, complement)
+This record was discontinued.
+ID: 14756377
+
+4. RHE_CH00159
+phosphonate ABC transporter substrate-binding protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH00159
+Annotation:  NC_007761.1 (175169..176074, complement)
+This record was discontinued.
+ID: 3890936
+
+5. phnD
+periplasmic phosphonate binding protein phnD [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: YPTB1224, phoD
+Annotation:  NC_006155.1 (1458626..1459555)
+This record was discontinued.
+ID: 2956252
+

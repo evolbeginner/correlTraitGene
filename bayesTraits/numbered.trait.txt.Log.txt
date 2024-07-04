@@ -1,0 +1,36 @@
+Options:
+Model:                           MultiState
+Tree File Name:                  numbered.nexus
+Data File Name:                  numbered.trait.txt
+Log File Name:                   numbered.trait.txt.Log.txt
+Save Initial Trees:              False
+Save Trees:                      False
+Summary:                         False
+Seed:                            3915416139
+Analsis Type:                    Maximum Likelihood
+ML Attempt Per Tree:             10
+ML Max Evaluations:              20000
+ML Tolerance:                    0.000001
+ML Algorithm:                    BOBYQA
+Rate Range:                      0.000000 - 100.000000
+Precision:                       64 bits
+Cores:                           1
+No of Rates:                     2
+Base frequency (PI's):           None
+Character Symbols:               1,2
+Using a covarion model:          False
+Normalise Q Matrix:              False
+Tags:	1
+	Tag-1	2	1 2 
+Restrictions:
+    q12                          None
+    q21                          None
+Node reconstruction / fossilisation:
+	Node Node-1 Tag-1
+Tree Information
+     Trees:                      1
+     Taxa:                       196
+     Sites:                      1
+     States:                     2
+Tree No	Lh	q12	q21	Root P(1)	Root P(2)	Node-1 P(1)	Node-1 P(2)	
+1	-4.271495	0.111849	0.000157	0.919481	0.080519	0.049217	0.950783	

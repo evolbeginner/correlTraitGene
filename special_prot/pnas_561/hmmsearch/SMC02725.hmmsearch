@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+trpE|SMC02725        -            729 Anth_synt_I_N        PF04715.11   142   5.7e-14   38.7   0.0   1   1   6.6e-13   6.6e-13   35.3   0.0    18   141    46   206    33   207 0.67 -
+trpE|SMC02725        -            729 Chorismate_bind      PF00425.16   258   5.9e-70  221.8   0.0   1   1   8.1e-70   8.1e-70  221.4   0.0     4   258   247   499   244   499 0.98 -
+trpE|SMC02725        -            729 GATase               PF00117.26   190   3.6e-48  150.0   0.0   1   1     6e-48     6e-48  149.3   0.0     2   180   533   707   532   716 0.93 -
+trpE|SMC02725        -            729 Peptidase_C26        PF07722.11   216   4.7e-18   51.8   0.0   1   1     9e-18     9e-18   50.9   0.0    96   216   591   699   585   699 0.82 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMC02725.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMC02725.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMC02725.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 12:30:28 2019
+# [ok]

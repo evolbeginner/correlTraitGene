@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nifA|SMA0815         -            541 AAA                  PF00004.27   132   3.1e-09   23.6   0.0   1   1   6.3e-09   6.3e-09   22.6   0.0     1   111   224   342   224   356 0.78 -
+nifA|SMA0815         -            541 AAA_16               PF13191.4    170   6.5e-06   12.8   0.2   1   2      0.22      0.22   -2.0   0.1    80    88   159   167   106   197 0.37 -
+nifA|SMA0815         -            541 AAA_16               PF13191.4    170   6.5e-06   12.8   0.2   2   2     2e-05     2e-05   11.2   0.0    12    86   207   274   202   395 0.76 -
+nifA|SMA0815         -            541 AAA_3                PF07726.9    131     1e-06   14.8   0.0   1   1   2.5e-06   2.5e-06   13.6   0.0     2   115   224   346   223   353 0.73 -
+nifA|SMA0815         -            541 AAA_5                PF07728.12   138     1e-11   31.2   0.1   1   2      0.13      0.13   -1.5   0.0    85   110   160   185   157   222 0.57 -
+nifA|SMA0815         -            541 AAA_5                PF07728.12   138     1e-11   31.2   0.1   2   2   3.8e-11   3.8e-11   29.4   0.0     2   122   224   342   223   360 0.84 -
+nifA|SMA0815         -            541 GAF                  PF01590.24   131   4.5e-09   23.2   0.1   1   3   2.8e-08   2.8e-08   20.6   0.0     2   131    24   158    23   158 0.83 -
+nifA|SMA0815         -            541 GAF                  PF01590.24   131   4.5e-09   23.2   0.1   2   3      0.36      0.36   -2.4   0.0    43    75   192   239   171   250 0.53 -
+nifA|SMA0815         -            541 GAF                  PF01590.24   131   4.5e-09   23.2   0.1   3   3      0.17      0.17   -1.3   0.0    53    92   423   478   380   481 0.59 -
+nifA|SMA0815         -            541 GAF_2                PF13185.4    138   3.1e-06   13.8   0.0   1   1   6.5e-06   6.5e-06   12.7   0.0    55   137    75   158    23   159 0.68 -
+nifA|SMA0815         -            541 HTH_23               PF13384.4     50   5.1e-06   12.6   2.9   1   2     0.098     0.098   -1.0   0.2    32    47   162   177   161   178 0.84 -
+nifA|SMA0815         -            541 HTH_23               PF13384.4     50   5.1e-06   12.6   2.9   2   2   6.3e-06   6.3e-06   12.3   0.3     5    40   497   533   494   539 0.88 -
+nifA|SMA0815         -            541 HTH_8                PF02954.17    42   8.1e-14   37.5   0.5   1   1   1.8e-13   1.8e-13   36.4   0.5     5    42   497   534   495   534 0.97 -
+nifA|SMA0815         -            541 Mg_chelatase         PF01078.19   207     8e-06   11.5   0.2   1   2    0.0032    0.0032    3.0   0.0    14    43   213   242   200   251 0.82 -
+nifA|SMA0815         -            541 Mg_chelatase         PF01078.19   207     8e-06   11.5   0.2   2   2   0.00032   0.00032    6.2   0.0    94   157   280   341   266   349 0.82 -
+nifA|SMA0815         -            541 Sigma54_activat      PF00158.24   168   1.1e-73  232.7   0.1   1   1   1.6e-73   1.6e-73  232.1   0.1     1   167   200   366   200   367 0.99 -
+nifA|SMA0815         -            541 Sigma54_activ_2      PF14532.4    138   1.9e-24   72.6   0.0   1   2      0.61      0.61   -3.6   0.0    60    80    74    95    67    97 0.75 -
+nifA|SMA0815         -            541 Sigma54_activ_2      PF14532.4    138   1.9e-24   72.6   0.0   2   2   8.3e-24   8.3e-24   70.5   0.0     2   138   202   371   201   371 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA0815.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA0815.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA0815.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:23:46 2018
+# [ok]

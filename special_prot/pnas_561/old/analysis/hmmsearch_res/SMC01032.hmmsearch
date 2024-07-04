@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+pdhB|SMC01032        -            447 2-oxoacid_dh         PF00198.21   233   1.3e-84  269.4   0.2   1   1   1.6e-84   1.6e-84  269.1   0.2     3   232   216   446   214   447 0.98 -
+pdhB|SMC01032        -            447 ATP-synt_ab_Xtn      PF16886.3    120   7.8e-06   12.0   0.4   1   1   1.8e-05   1.8e-05   10.9   0.4    39    98    23    82     5    88 0.73 -
+pdhB|SMC01032        -            447 Biotin_lipoyl        PF00364.20    73   1.6e-26   78.3   4.1   1   1     3e-26     3e-26   77.4   4.1     2    73     4    77     3    77 0.98 -
+pdhB|SMC01032        -            447 Biotin_lipoyl_2      PF13533.4     50   1.5e-11   30.3   0.0   1   1     4e-11     4e-11   29.0   0.0    10    38    16    44     4    61 0.85 -
+pdhB|SMC01032        -            447 DEC-1_N              PF04625.11   403         1  -18.4  36.2   1   2         1         1  -11.0  25.1   113   146    95   133    61   151 0.67 -
+pdhB|SMC01032        -            447 DEC-1_N              PF04625.11   403         1  -18.4  36.2   2   2     0.097     0.097   -2.3   3.2   115   130   183   198   170   225 0.54 -
+pdhB|SMC01032        -            447 DUF2118              PF09891.7    151   2.4e-06   13.8   0.1   1   1   6.1e-06   6.1e-06   12.4   0.1    93   133    20    59    10    70 0.85 -
+pdhB|SMC01032        -            447 E3_binding           PF02817.15    36   1.9e-21   62.5   0.2   1   1   6.9e-21   6.9e-21   60.7   0.2     1    36   141   176   141   176 0.97 -
+pdhB|SMC01032        -            447 GCV_H                PF01597.17   122   5.2e-06   12.6   0.7   1   1   1.1e-05   1.1e-05   11.6   0.7    39    73    24    58    13    66 0.90 -
+pdhB|SMC01032        -            447 MSA-2c               PF12238.6    216     0.034    0.2  13.3   1   2     0.026     0.026    0.6   9.6   160   201    96   138    77   145 0.76 -
+pdhB|SMC01032        -            447 MSA-2c               PF12238.6    216     0.034    0.2  13.3   2   2     0.025     0.025    0.7   0.1   167   191   177   201   173   212 0.81 -
+pdhB|SMC01032        -            447 Peptidase_M23        PF01551.20    96   1.2e-06   15.0   0.3   1   2   8.3e-06   8.3e-06   12.3   0.0    51    75    18    42    14    48 0.85 -
+pdhB|SMC01032        -            447 Peptidase_M23        PF01551.20    96   1.2e-06   15.0   0.3   2   2     0.089     0.089   -0.6   0.1    15    29    47    61    39    89 0.71 -
+pdhB|SMC01032        -            447 QRPTase_N            PF02749.14    88   2.8e-06   13.7   0.0   1   1   8.4e-06   8.4e-06   12.1   0.0    47    68    20    41    10    47 0.89 -
+pdhB|SMC01032        -            447 Ribosomal_60s        PF00428.17    88    0.0097    2.8  40.1   1   2      0.34      0.34   -2.2  27.7     3    68    52   132    50   140 0.69 -
+pdhB|SMC01032        -            447 Ribosomal_60s        PF00428.17    88    0.0097    2.8  40.1   2   2   0.00023   0.00023    8.0   4.1    14    60   154   201   147   210 0.61 -
+pdhB|SMC01032        -            447 RnfC_N               PF13375.4    101   3.1e-09   23.1   0.2   1   1   8.2e-09   8.2e-09   21.7   0.2    39    94    17    73     8    80 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC01032.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC01032.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC01032.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:01:42 2018
+# [ok]

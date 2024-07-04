@@ -1,0 +1,694 @@
+
+1. Mpcp
+Official Symbol: Mpcp and Name: Mitochondrial phosphate carrier protein [Drosophila melanogaster (fruit fly)]
+Other Aliases: Dmel_CG4994, CG4994, Dmel\CG4994, MPCP, Mcpc, PpsM, l(3)00564
+Other Designations: mitochondrial phosphate carrier protein; CG4994-PA; CG4994-PB; CG4994-PC; Mpcp-PA; Mpcp-PB; Mpcp-PC; mitochondrial phophate carrier protein; mitochondrial proton/phosphate symporter
+Chromosome: 3L; Location: 70E1-70E1
+Annotation: Chromosome 3L NT_037436.4 (14537651..14540441)
+ID: 39587
+
+2. mcpC
+methyl-accepting chemotaxis protein McpC [Bacillus subtilis subsp. subtilis str. 168]
+Other Aliases: BSU13950
+Annotation:  NC_000964.3 (1463628..1465595)
+ID: 936206
+
+3. tcp
+methyl-accepting chemotaxis protein II [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]
+Other Aliases: STM3577
+Annotation:  NC_003197.2 (3744847..3746497)
+ID: 1255100
+
+4. PFLCHA0_RS23780
+methyl-accepting chemotaxis protein McpC [Pseudomonas protegens CHA0]
+Other Aliases: PFLCHA0_RS23780, PFLCHA0_c47640
+Annotation:  NC_021237.1 (5360550..5362439)
+ID: 29825208
+
+5. CC_0343
+methyl-accepting chemotaxis protein McpC [Caulobacter crescentus CB15]
+Other Aliases: CC_0343
+Annotation:  NC_002696.2 (362218..364221, complement)
+ID: 942240
+
+6. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium fabrum str. C58]
+Other Aliases: Atu0872, AGR_C_1595
+Chromosome: circular
+Annotation: Chromosome circular NC_003062.2 (868168..870525)
+ID: 1132910
+
+7. BPR_RS05560
+chemotaxis protein McpC [Butyrivibrio proteoclasticus B316]
+Other Aliases: BPR_RS05560, bpr_I1088
+Chromosome: 1
+Annotation: Chromosome 1 NC_014387.1 (1338978..1341041)
+ID: 31782267
+
+8. BPSS1941
+methyl-accepting chemotaxis transducer transmembrane protein [Burkholderia pseudomallei K96243]
+Other Aliases: BPSS1941
+Chromosome: 2
+Annotation: Chromosome 2 NC_006351.1 (2627825..2629390, complement)
+ID: 3097050
+
+9. BPSS0460
+methyl-accepting chemotaxis protein [Burkholderia pseudomallei K96243]
+Other Aliases: BPSS0460
+Chromosome: 2
+Annotation: Chromosome 2 NC_006351.1 (626698..628539)
+ID: 3095730
+
+10. BPSL1732
+methyl-accepting chemotaxis citrate transducer [Burkholderia pseudomallei K96243]
+Other Aliases: BPSL1732
+Chromosome: 1
+Annotation: Chromosome 1 NC_006350.1 (2040269..2042011, complement)
+ID: 3093919
+
+11. mcpC
+methyl-accepting chemotaxis protein [[Bacillus thuringiensis] serovar konkukian str. 97-27]
+Other Aliases: BT9727_0594
+Annotation:  NC_005957.1 (693072..694016, complement)
+ID: 2856651
+
+12. pRi2659_p073
+rcorf72 [Agrobacterium rhizogenes]
+Other Aliases: pRi2659_p073
+Genomic context: Plasmid pRi2659
+Annotation:  NC_010841.1 (100342..102651)
+ID: 6383474
+
+13. riorf107
+riorf107 [Agrobacterium rhizogenes]
+Other Aliases: pRi1724_p108
+Other Designations: riorf107; hypothetical protein
+Genomic context: Plasmid pRi1724
+Annotation:  NC_002575.1 (132039..133895)
+ID: 874745
+
+14. mcpC2
+methyl-accepting chemotaxis protein McpC [Paenibacillus larvae subsp. larvae DSM 25430]
+Other Aliases: ERIC2_c30140
+Annotation:  NC_023134.1 (3006257..3008269, complement)
+This record was discontinued.
+ID: 18059324
+
+15. mcpC1
+methyl-accepting chemotaxis protein McpC [Paenibacillus larvae subsp. larvae DSM 25430]
+Other Aliases: ERIC2_c27610
+Annotation:  NC_023134.1 (2747222..2749384, complement)
+This record was discontinued.
+ID: 18059069
+
+16. U712_07330
+Methyl-accepting chemotaxis protein mcpC [Bacillus subtilis PY79]
+Other Aliases: U712_07330
+Annotation:  NC_022898.1 (1426666..1428633)
+This record was discontinued.
+ID: 17702981
+
+17. U471_14000
+mcpC [Bacillus amyloliquefaciens CC178]
+Other Aliases: U471_14000
+Annotation:  NC_022653.1 (1328235..1330202)
+This record was discontinued.
+ID: 17435690
+
+18. mcpC5
+methyl-accepting chemotaxis protein McpC [Clostridium saccharobutylicum DSM 13864]
+Other Aliases: CLSA_c42540
+Annotation:  NC_022571.1 (4756267..4758276, complement)
+This record was discontinued.
+ID: 17190752
+
+19. mcpC4
+methyl-accepting chemotaxis protein McpC [Clostridium saccharobutylicum DSM 13864]
+Other Aliases: CLSA_c42510
+Annotation:  NC_022571.1 (4750173..4752314, complement)
+This record was discontinued.
+ID: 17190749
+
+20. mcpC3
+methyl-accepting chemotaxis protein McpC [Clostridium saccharobutylicum DSM 13864]
+Other Aliases: CLSA_c04850
+Annotation:  NC_022571.1 (503845..505857)
+This record was discontinued.
+ID: 17186983
+
+21. mcpC2
+methyl-accepting chemotaxis protein McpC [Clostridium saccharobutylicum DSM 13864]
+Other Aliases: CLSA_c03170
+Annotation:  NC_022571.1 (330995..332995)
+This record was discontinued.
+ID: 17186815
+
+22. mcpC1
+methyl-accepting chemotaxis protein McpC [Clostridium saccharobutylicum DSM 13864]
+Other Aliases: CLSA_c03160
+Annotation:  NC_022571.1 (328608..330614)
+This record was discontinued.
+ID: 17186814
+
+23. mcpC
+Methyl-accepting chemotaxis protein [Rhizobium sp. IRBG74]
+Other Aliases: BN877_p0132
+Genomic context: Plasmid IRBL74_p
+Annotation:  NC_022536.1 (101495..103738, complement)
+This record was discontinued.
+ID: 17145898
+
+24. mcpC
+methyl-accepting chemotaxis protein [Bacillus amyloliquefaciens subsp. plantarum UCMB5113]
+Other Aliases: BASU_1333
+Annotation: Chromosome I NC_022081.1 (1338095..1340062)
+This record was discontinued.
+ID: 16561919
+
+25. mcpC
+methyl-accepting chemotaxis protein [Bacillus amyloliquefaciens subsp. plantarum UCMB5033]
+Other Aliases: RBAU_1354
+Annotation: Chromosome I NC_022075.1 (1376108..1378075)
+This record was discontinued.
+ID: 16553281
+
+26. mcpC
+methyl-accepting chemotaxis protein McpC [Bacillus licheniformis 9945A]
+Other Aliases: BaLi_c16400
+Annotation:  NC_021362.1 (1602650..1604620)
+This record was discontinued.
+ID: 16052483
+
+27. mcpB3
+Methyl-accepting chemotaxis protein mcpC [Paenibacillus polymyxa M1]
+Other Aliases: PPM_3826
+Annotation:  NC_017542.1 (4423835..4425808)
+This record was discontinued.
+ID: 15678525
+
+28. mcpC
+Laminin subunit alpha-1 Laminin A chain [Paenibacillus polymyxa M1]
+Other Aliases: PPM_5016
+Annotation:  NC_017542.1 (5810510..5812228, complement)
+This record was discontinued.
+ID: 15677790
+
+29. mcpC2
+methyl-accepting chemotaxis protein McpC [Pseudomonas protegens CHA0]
+Other Aliases: PFLCHA0_c47640
+Annotation:  NC_021237.1 (5360550..5362439)
+This record was discontinued.
+ID: 15562680
+
+30. mcpC1
+methyl-accepting chemotaxis protein McpC [Pseudomonas protegens CHA0]
+Other Aliases: PFLCHA0_c04020
+Annotation:  NC_021237.1 (458107..460071, complement)
+This record was discontinued.
+ID: 15558318
+
+31. mcpC
+methyl-accepting chemotaxis protein McpC [Bacillus subtilis subsp. subtilis 6051-HGW]
+Other Aliases: BSU6051_13950
+Annotation:  NC_020507.1 (1463626..1465593)
+This record was discontinued.
+ID: 14769015
+
+32. mcpC
+Methyl-accepting chemotaxis protein mcpC [Bacillus amyloliquefaciens subsp. plantarum UCMB5036]
+Other Aliases: BAM5036_1310
+Annotation:  NC_020410.1 (1327114..1329081)
+This record was discontinued.
+ID: 14665487
+
+33. mcpC2
+methyl-accepting chemotaxis protein McpC [Clostridium saccharoperbutylacetonicum N1-4(HMT)]
+Other Aliases: Cspa_c28140
+Annotation:  NC_020291.1 (3046567..3048564)
+This record was discontinued.
+ID: 14621439
+
+34. mcpC1
+methyl-accepting chemotaxis protein McpC [Clostridium saccharoperbutylacetonicum N1-4(HMT)]
+Other Aliases: Cspa_c20930
+Annotation:  NC_020291.1 (2305641..2307404)
+This record was discontinued.
+ID: 14620719
+
+35. mcpC
+methyl-accepting chemotaxis protein [Bacillus subtilis XF-1]
+Other Aliases: C663_1438
+Annotation:  NC_020244.1 (1465525..1467492)
+This record was discontinued.
+ID: 14561546
+
+36. GHH_c20020
+methyl-accepting chemotaxis protein [Geobacillus sp. GHH01]
+Other Aliases: GHH_c20020
+Annotation:  NC_020210.1 (2010025..2011422, complement)
+This record was discontinued.
+ID: 14508684
+
+37. mcpC
+methyl-accepting chemotaxis protein [Geobacillus sp. GHH01]
+Other Aliases: GHH_c09630
+Annotation:  NC_020210.1 (936894..938870)
+This record was discontinued.
+ID: 14507645
+
+38. mcpC3
+methyl-accepting chemotaxis protein McpC [Clostridium stercorarium subsp. stercorarium DSM 8532]
+Other Aliases: Cst_c24230
+Annotation:  NC_020134.1 (2618125..2620239)
+This record was discontinued.
+ID: 14472731
+
+39. mcpC2
+methyl-accepting chemotaxis protein McpC [Clostridium stercorarium subsp. stercorarium DSM 8532]
+Other Aliases: Cst_c17080
+Annotation:  NC_020134.1 (1850566..1852548)
+This record was discontinued.
+ID: 14472024
+
+40. mcpC1
+methyl-accepting chemotaxis protein McpC [Clostridium stercorarium subsp. stercorarium DSM 8532]
+Other Aliases: Cst_c16280
+Annotation:  NC_020134.1 (1761443..1763545, complement)
+This record was discontinued.
+ID: 14471945
+
+41. mcpC
+methyl-accepting chemotaxis protein [Bacillus subtilis BEST7613]
+Other Aliases: BEST7613_3107
+Annotation:  NC_019948.1 (3230824..3232791)
+This record was discontinued.
+ID: 14353108
+
+42. A7A1_1541
+Methyl-accepting chemotaxis protein McpC [Bacillus subtilis subsp. subtilis str. BSP1]
+Other Aliases: A7A1_1541
+Annotation:  NC_019896.1 (2604294..2605676, complement)
+This record was discontinued.
+ID: 14271325
+
+43. B938_07145
+McpC [Bacillus amyloliquefaciens subsp. plantarum AS43.3]
+Other Aliases: B938_07145
+Annotation:  NC_019842.1 (1396578..1398545)
+This record was discontinued.
+ID: 14254110
+
+44. mcpC
+methyl-accepting chemotaxis protein [Bacillus subtilis subsp. natto BEST195]
+Other Aliases: BSNT_07887
+Annotation:  NC_017196.2 (1473564..1475513)
+This record was discontinued.
+ID: 14102639
+
+45. mcpC2
+methyl-accepting chemotaxis protein McpC [Bacillus thuringiensis Bt407]
+Other Aliases: BTB_c52380
+Annotation:  NC_018877.1 (5026021..5028021, complement)
+This record was discontinued.
+ID: 13847921
+
+46. mcpC1
+methyl-accepting chemotaxis protein McpC [Bacillus thuringiensis Bt407]
+Other Aliases: BTB_c07540
+Annotation:  NC_018877.1 (742038..742979, complement)
+This record was discontinued.
+ID: 13846684
+
+47. mcpC
+methyl-accepting chemotaxis protein McpC [Clostridium acidurici 9a]
+Other Aliases: Curi_c27800
+Annotation:  NC_018664.1 (2922842..2924443, complement)
+This record was discontinued.
+ID: 13711892
+
+48. mcpC
+methyl-accepting chemotaxis protein [Bacillus subtilis QB928]
+Other Aliases: B657_13950
+Annotation:  NC_018520.1 (1443127..1445094)
+This record was discontinued.
+ID: 13521255
+
+49. mcpC
+methyl-accepting chemotaxis protein [Bacillus amyloliquefaciens Y2]
+Other Aliases: MUS_1477
+Annotation:  NC_017912.1 (1356099..1358177)
+This record was discontinued.
+ID: 12962615
+
+50. MY9_1529
+methyl-accepting chemotaxis protein McpC [Bacillus sp. JS]
+Other Aliases: MY9_1529
+Annotation:  NC_017743.1 (1511903..1513870)
+This record was discontinued.
+ID: 12769209
+
+51. mcpC
+Methyl-accepting chemotaxis protein tlpB [Bacillus amyloliquefaciens subsp. plantarum YAU B9601-Y2]
+Other Aliases: BANAU_1307
+Annotation:  NC_017061.1 (1358341..1360419)
+This record was discontinued.
+ID: 12208078
+
+52. mcpC
+methyl-accepting chemotaxis protein [Bacillus amyloliquefaciens LL3]
+Other Aliases: LL3_01498
+Annotation:  NC_017190.1 (1391040..1393118)
+This record was discontinued.
+ID: 12204237
+
+53. mcpC
+methyl-accepting chemotaxis protein [Bacillus amyloliquefaciens XH7]
+Other Aliases: BAXH7_02076
+Annotation:  NC_017191.1 (2007276..2009354, complement)
+This record was discontinued.
+ID: 12197027
+
+54. I33_1573
+methyl-accepting chemotaxis protein McpC [Bacillus subtilis subsp. subtilis str. RO-NN-1]
+Other Aliases: I33_1573
+Annotation:  NC_017195.1 (1441390..1443357)
+This record was discontinued.
+ID: 12192274
+
+55. mcpC
+methyl-accepting chemotaxis protein C [Brachyspira intermedia PWS/A]
+Other Aliases: Bint_0476
+Annotation:  NC_017243.1 (523515..525479, complement)
+This record was discontinued.
+ID: 12157895
+
+56. mcpC
+methyl-accepting chemotaxis protein [Bacillus amyloliquefaciens TA208]
+Other Aliases: BAMTA208_10175
+Annotation:  NC_017188.1 (2005972..2007939, complement)
+This record was discontinued.
+ID: 12130298
+
+57. mcpC
+methyl-accepting chemotaxis sensory transducer with Cache sensor [Bacillus megaterium WSH-002]
+Other Aliases: BMWSH_4710
+Annotation:  NC_017138.1 (4481416..4483434, complement)
+This record was discontinued.
+ID: 12081986
+
+58. tcp
+methyl-accepting transmembrane citrate/phenol chemoreceptor [Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1]
+Other Aliases: STMUK_3562
+Annotation:  NC_016863.1 (3706147..3707790)
+This record was discontinued.
+ID: 11837700
+
+59. NEWENTRY
+Record to support submission of GeneRIFs for a gene not in Gene. [Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S]
+ID: 11812332
+
+60. tcp
+methyl-accepting transmembrane citrate/phenol chemoreceptor [Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S]
+Other Aliases: STM14_4305
+Annotation:  NC_016856.1 (3758540..3760183)
+This record was discontinued.
+ID: 11755838
+
+
+61. mcpC
+methyl-accepting chemotaxis protein [Sinorhizobium fredii GR64]
+Other Aliases: SFGR64A_00086
+Genomic context: Plasmid p64a
+Annotation:  NC_015742.1 (101089..103356, complement)
+This record was discontinued.
+ID: 10952997
+
+62. mcpC
+methyl-accepting chemotaxis protein [Clostridium acetobutylicum DSM 1731]
+Other Aliases: SMB_G3434
+Annotation:  NC_015687.1 (3582577..3584289)
+This record was discontinued.
+ID: 10852280
+
+63. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium sp. H13-3]
+Other Aliases: AGROH133_04627
+Annotation: Chromosome circular NC_015183.1 (821146..823494)
+This record was discontinued.
+ID: 10266568
+
+64. EIO_1782
+methyl-accepting chemotaxis protein McpC [Ketogulonicigenium vulgare Y25]
+Other Aliases: EIO_1782
+Annotation:  NC_014625.1 (1728026..1729507, complement)
+This record was discontinued.
+ID: 9872405
+
+65. mcpC
+methyl-accepting chemotaxis protein [Bacillus subtilis subsp. spizizenii str. W23]
+Other Aliases: BSUW23_07170
+Annotation:  NC_014479.1 (1419475..1421442)
+This record was discontinued.
+ID: 9722422
+
+66. mcpC
+chemotaxis protein McpC [Butyrivibrio proteoclasticus B316]
+Other Aliases: bpr_I1088
+Chromosome: 1
+Annotation: Chromosome 1 NC_014387.1 (1338978..1341041)
+This record was discontinued.
+ID: 9574741
+
+67. mcpC
+methyl-accepting chemotaxis protein [Bacillus cereus biovar anthracis str. CI]
+Other Aliases: BACI_c06920
+Annotation:  NC_014335.1 (668111..669055, complement)
+This record was discontinued.
+ID: 9453208
+
+68. mcpC
+methyl-accepting chemotaxis protein McpC [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_rcc01621
+Annotation:  NC_014034.1 (1753767..1755971)
+This record was discontinued.
+ID: 9004444
+
+69. mcpC
+methyl-accepting chemotaxis protein C [Brachyspira hyodysenteriae WA1]
+Other Aliases: BHWA1_01375
+Annotation:  NC_012225.1 (1586290..1588254)
+This record was discontinued.
+ID: 7666474
+
+70. mcpC
+methyl-accepting chemotaxis receptor, signalling domain-containing protein [Brachyspira hyodysenteriae WA1]
+Other Aliases: BHWA1_00730
+Annotation:  NC_012225.1 (860308..861540)
+This record was discontinued.
+ID: 7665834
+
+71. mcpC
+methyl-accepting chemotaxis sensory transducer [Brachyspira hyodysenteriae WA1]
+Other Aliases: BHWA1_00463
+Annotation:  NC_012225.1 (549938..551689, complement)
+This record was discontinued.
+ID: 7665569
+
+72. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium vitis S4]
+Other Aliases: Avi_0452
+Chromosome: 1
+Annotation: Chromosome 1 NC_011989.1 (384842..386710, complement)
+This record was discontinued.
+ID: 7388462
+
+73. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium vitis S4]
+Other Aliases: Avi_1208
+Chromosome: 1
+Annotation: Chromosome 1 NC_011989.1 (1022276..1024090, complement)
+This record was discontinued.
+ID: 7387600
+
+74. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium vitis S4]
+Other Aliases: Avi_0980
+Chromosome: 1
+Annotation: Chromosome 1 NC_011989.1 (827614..829449)
+This record was discontinued.
+ID: 7387080
+
+75. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium vitis S4]
+Other Aliases: Avi_2928
+Chromosome: 1
+Annotation: Chromosome 1 NC_011989.1 (2445901..2448279, complement)
+This record was discontinued.
+ID: 7386108
+
+76. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium vitis S4]
+Other Aliases: Avi_2927
+Chromosome: 1
+Annotation: Chromosome 1 NC_011989.1 (2443404..2445596, complement)
+This record was discontinued.
+ID: 7386107
+
+77. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium vitis S4]
+Other Aliases: Avi_5151
+Chromosome: 2
+Annotation: Chromosome 2 NC_011988.1 (142294..144624, complement)
+This record was discontinued.
+ID: 7380952
+
+78. mcpC
+methyl-accepting chemotaxis protein [Bacillus cereus Q1]
+Other Aliases: BCQ_0751
+Annotation:  NC_011969.1 (752920..753864, complement)
+This record was discontinued.
+ID: 7374048
+
+79. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium vitis S4]
+Other Aliases: Avi_9088
+Genomic context: Plasmid pAtS4c
+Annotation:  NC_011984.1 (60362..62647)
+This record was discontinued.
+ID: 7367810
+
+80. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium vitis S4]
+Other Aliases: Avi_9076
+Genomic context: Plasmid pAtS4c
+Annotation:  NC_011984.1 (50659..52497)
+This record was discontinued.
+ID: 7367804
+
+81. mcpC
+methyl-accepting chemotaxis protein [Agrobacterium vitis S4]
+Other Aliases: Avi_9065
+Genomic context: Plasmid pAtS4c
+Annotation:  NC_011984.1 (42169..43698, complement)
+This record was discontinued.
+ID: 7367795
+
+82. Caul_0236
+methyl-accepting chemotaxis sensory transducer [Caulobacter sp. K31]
+Other Aliases: Caul_0236
+Annotation:  NC_010338.1 (258686..260668, complement)
+This record was discontinued.
+ID: 5897510
+
+83. mcpC
+McpC [Bacillus amyloliquefaciens FZB42]
+Other Aliases: RBAM_013710
+Annotation:  NC_009725.1 (1332880..1334847)
+This record was discontinued.
+ID: 5462947
+
+84. Pput_0623
+methyl-accepting chemotaxis sensory transducer [Pseudomonas putida F1]
+Other Aliases: Pput_0623
+Annotation:  NC_009512.1 (700437..702380, complement)
+This record was discontinued.
+ID: 5190751
+
+85. tcp
+putative citrate chemoreceptor protein [Azoarcus sp. BH72]
+Other Aliases: azo1454
+Annotation:  NC_008702.1 (1584776..1587298)
+This record was discontinued.
+ID: 4610046
+
+86. tap
+putative dipeptide chemoreceptor [Azoarcus sp. BH72]
+Other Aliases: azo0129
+Annotation:  NC_008702.1 (143294..144907)
+This record was discontinued.
+ID: 4606232
+
+87. mcpC
+methyl-accepting chemotaxis protein [Bacillus thuringiensis str. Al Hakam]
+Other Aliases: BALH_0624
+Annotation:  NC_008600.1 (722481..723425, complement)
+This record was discontinued.
+ID: 4542493
+
+88. mcpA
+methyl-accepting chemotaxis protein [Rhizobium leguminosarum bv. viciae 3841]
+Other Aliases: pRL120312
+Genomic context: Plasmid pRL12
+Annotation:  NC_008378.1 (330022..331899, complement)
+This record was discontinued.
+ID: 4397943
+
+89. TM1040_3209
+methyl-accepting chemotaxis sensory transducer [Ruegeria sp. TM1040]
+Other Aliases: TM1040_3209
+Genomic context: Plasmid mega plasmid
+Annotation:  NC_008043.1 (203191..205539)
+This record was discontinued.
+ID: 4075313
+
+90. TM1040_3194
+methyl-accepting chemotaxis sensory transducer [Ruegeria sp. TM1040]
+Other Aliases: TM1040_3194
+Genomic context: Plasmid mega plasmid
+Annotation:  NC_008043.1 (187476..189320)
+This record was discontinued.
+ID: 4075298
+
+91. mcpCf
+methyl accepting chemotaxis protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00451
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (506095..507972, complement)
+This record was discontinued.
+ID: 3896023
+
+92. mcpC
+methyl-accepting chemotaxis protein McpC [Bacillus licheniformis DSM 13 = ATCC 14580]
+Other Aliases: BLi01604
+Annotation:  NC_006322.1 (1568463..1570430)
+This record was discontinued.
+ID: 3099049
+
+93. mcpC
+methyl-accepting chemotaxis protein [Bacillus cereus E33L]
+Other Aliases: BCZK0595
+Annotation:  NC_006274.1 (692097..693041, complement)
+This record was discontinued.
+ID: 3026846
+
+94. AGR_C_4283
+hypothetical protein [Agrobacterium tumefaciens str. C58]
+Other Aliases: AGR_C_4283
+Chromosome: circular
+Annotation: Chromosome circular NC_003062.1 (2333588..2335600, complement)
+This record was discontinued.
+ID: 1139796
+
+95. AGR_C_1595
+hypothetical protein [Agrobacterium tumefaciens str. C58]
+Other Aliases: AGR_C_1595
+Chromosome: circular
+Annotation: Chromosome circular NC_003062.1 (867965..870322)
+This record was discontinued.
+ID: 1138375
+
+96. RHE_PD00136
+methyl-accepting chemotaxis protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_PD00136
+Genomic context: Plasmid symbiotic plasmid p42d
+Annotation:  NC_004041.2 (152732..154993)
+This record was discontinued.
+ID: 1005304
+
+97. mcpC
+methyl-accepting chemotaxis protein [Bacillus halodurans C-125]
+Other Aliases: BH1827
+Annotation:  NC_002570.2 (1903461..1905497)
+This record was discontinued.
+ID: 891993
+

@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ndvB|BLR4614         -            889 Glycos_transf_2      PF00535.24   170   7.4e-29   86.9   0.0   1   1   1.7e-28   1.7e-28   85.7   0.0     1   166   420   589   420   591 0.89 -
+ndvB|BLR4614         -            889 Glyco_tranf_2_3      PF13641.4    231   4.3e-34  104.5   0.0   1   1   7.7e-34   7.7e-34  103.7   0.0     1   231   417   646   417   646 0.88 -
+ndvB|BLR4614         -            889 Glyco_transf_21      PF13506.4    173   8.3e-21   60.4   0.1   1   1   2.2e-20   2.2e-20   59.0   0.1    18   172   489   644   476   645 0.87 -
+ndvB|BLR4614         -            889 Glyco_trans_2_3      PF13632.4    197   1.4e-27   83.0   0.4   1   1   1.4e-27   1.4e-27   83.0   0.4     1   183   506   704   506   736 0.73 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/BLR4614.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/BLR4614.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/BLR4614.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 15:05:23 2019
+# [ok]

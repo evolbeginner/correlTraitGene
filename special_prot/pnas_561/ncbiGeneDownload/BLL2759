@@ -1,0 +1,29 @@
+
+1. fixJ
+response regulator FixJ [Bradyrhizobium diazoefficiens USDA 110]
+Other Aliases: bll2759
+Annotation:  NC_004463.1 (3037152..3037769, complement)
+ID: 1054110
+
+2. Plabr_3492
+LuxR family transcriptional regulator [Planctomyces brasiliensis DSM 5305]
+Other Aliases: Plabr_3492
+Annotation:  NC_015174.1 (4297234..4297872, complement)
+This record was discontinued.
+ID: 10240911
+
+3. Hden_0915
+LuxR family transcriptional regulator [Hyphomicrobium denitrificans ATCC 51888]
+Other Aliases: Hden_0915
+Annotation:  NC_014313.1 (959572..960228, complement)
+This record was discontinued.
+ID: 9386799
+
+4. RHE_PF00225
+two-component response regulator protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00225
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (239257..239949)
+This record was discontinued.
+ID: 3896354
+

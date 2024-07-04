@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nolF|SMA0876         -            367 Biotin_lipoyl        PF00364.20    73   4.3e-08   19.3   0.0   1   2   0.00017   0.00017    7.7   0.0    46    72    73    99    67   103 0.57 -
+nolF|SMA0876         -            367 Biotin_lipoyl        PF00364.20    73   4.3e-08   19.3   0.0   2   2   8.7e-05   8.7e-05    8.6   0.0    43    73   178   208   176   208 0.94 -
+nolF|SMA0876         -            367 Biotin_lipoyl_2      PF13533.4     50   3.3e-12   32.5   0.6   1   3   1.1e-09   1.1e-09   24.3   0.0     4    47    71   114    68   125 0.89 -
+nolF|SMA0876         -            367 Biotin_lipoyl_2      PF13533.4     50   3.3e-12   32.5   0.6   2   3    0.0018    0.0018    4.5   0.0     4    24   179   199   174   200 0.91 -
+nolF|SMA0876         -            367 Biotin_lipoyl_2      PF13533.4     50   3.3e-12   32.5   0.6   3   3      0.14      0.14   -1.6   0.0    24    32   342   350   341   350 0.86 -
+nolF|SMA0876         -            367 HlyD                 PF00529.18    80     4e-09   22.6   0.0   1   1   9.4e-09   9.4e-09   21.4   0.0    12    51   126   270    13   350 0.70 -
+nolF|SMA0876         -            367 HlyD_3               PF13437.4    106   2.5e-27   82.0   1.6   1   3      0.45      0.45   -2.4   0.0    22    47    25    51    15    64 0.55 -
+nolF|SMA0876         -            367 HlyD_3               PF13437.4    106   2.5e-27   82.0   1.6   2   3   3.5e-05   3.5e-05   10.8   0.0     1    29    71    99    71   127 0.89 -
+nolF|SMA0876         -            367 HlyD_3               PF13437.4    106   2.5e-27   82.0   1.6   3   3   1.8e-23   1.8e-23   69.6   0.1     2   103   180   277   179   281 0.95 -
+nolF|SMA0876         -            367 HlyD_D23             PF16576.3    214   1.4e-33  102.0   0.7   1   1     3e-33     3e-33  101.0   0.7     3   213    55   282    53   283 0.83 -
+nolF|SMA0876         -            367 OEP                  PF02321.16   188   3.3e-05    9.9   6.8   1   1   5.5e-05   5.5e-05    9.2   6.8   121   184   113   176   104   178 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA0876.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA0876.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA0876.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:41:56 2018
+# [ok]

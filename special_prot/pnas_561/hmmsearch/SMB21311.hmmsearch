@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+expE4(wgeD)|SMB21311 -            420 Glycos_transf_1      PF00534.18   172   3.7e-31   94.2   0.0   1   1   5.7e-31   5.7e-31   93.5   0.0    13   171   233   394   226   395 0.87 -
+expE4(wgeD)|SMB21311 -            420 Glyco_transf_4       PF13439.4    170   3.8e-23   68.5   0.8   1   1   6.6e-22   6.6e-22   64.5   0.2     1   167    17   220    17   223 0.79 -
+expE4(wgeD)|SMB21311 -            420 Glyco_trans_1_2      PF13524.4     92   1.3e-10   27.9   0.0   1   1   2.7e-10   2.7e-10   26.9   0.0    14    76   331   395   317   410 0.88 -
+expE4(wgeD)|SMB21311 -            420 Glyco_trans_1_4      PF13692.4    134   1.2e-30   92.9   0.0   1   1     2e-29     2e-29   89.0   0.0     1   134   235   381   235   381 0.88 -
+expE4(wgeD)|SMB21311 -            420 Glyco_trans_4_4      PF13579.4    160   1.4e-16   47.5   4.9   1   1   1.2e-15   1.2e-15   44.5   0.1     1   160    18   218    18   218 0.60 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMB21311.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMB21311.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMB21311.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 14:14:26 2019
+# [ok]

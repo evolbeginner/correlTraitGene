@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+basR|BLL1843         -            229 Response_reg         PF00072.22   112   3.5e-21   61.8   0.0   1   1   5.1e-21   5.1e-21   61.2   0.0     1   111     3   112     3   113 0.98 -
+basR|BLL1843         -            229 Trans_reg_C          PF00486.26    77   2.2e-22   65.3   0.1   1   2    0.0077    0.0077    2.7   0.0    41    62   100   121    92   130 0.76 -
+basR|BLL1843         -            229 Trans_reg_C          PF00486.26    77   2.2e-22   65.3   0.1   2   2   7.5e-21   7.5e-21   60.4   0.1     4    77   148   220   145   220 0.94 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLL1843.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLL1843.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLL1843.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:49:30 2018
+# [ok]

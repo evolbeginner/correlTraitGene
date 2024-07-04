@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+phbA|SMC03879        -            393 B12-binding          PF02310.17   121   2.3e-06   13.9   0.4   1   3   0.00033   0.00033    7.0   0.0    12    30    28    46    19    76 0.86 -
+phbA|SMC03879        -            393 B12-binding          PF02310.17   121   2.3e-06   13.9   0.4   2   3      0.46      0.46   -3.2   0.0    73    88   102   116    82   129 0.61 -
+phbA|SMC03879        -            393 B12-binding          PF02310.17   121   2.3e-06   13.9   0.4   3   3    0.0021    0.0021    4.3   0.0    22    52   299   329   283   331 0.89 -
+phbA|SMC03879        -            393 ketoacyl-synt        PF00109.24   253   6.9e-08   18.4   1.2   1   5      0.13      0.13   -2.1   0.0    91   128    31    68    28    89 0.70 -
+phbA|SMC03879        -            393 ketoacyl-synt        PF00109.24   253   6.9e-08   18.4   1.2   2   5   6.9e-08   6.9e-08   18.4   1.2   175   206    90   121    85   135 0.90 -
+phbA|SMC03879        -            393 ketoacyl-synt        PF00109.24   253   6.9e-08   18.4   1.2   3   5      0.39      0.39   -3.7   0.0    18    40   164   186   161   201 0.53 -
+phbA|SMC03879        -            393 ketoacyl-synt        PF00109.24   253   6.9e-08   18.4   1.2   4   5      0.33      0.33   -3.5   0.2   234   252   246   264   235   265 0.55 -
+phbA|SMC03879        -            393 ketoacyl-synt        PF00109.24   253   6.9e-08   18.4   1.2   5   5      0.15      0.15   -2.3   0.0    95   111   296   312   294   332 0.76 -
+phbA|SMC03879        -            393 Thiolase_C           PF02803.16   123   5.2e-56  173.9   4.6   1   3    0.0065    0.0065    2.4   0.0    25    44    33    52    21    61 0.88 -
+phbA|SMC03879        -            393 Thiolase_C           PF02803.16   123   5.2e-56  173.9   4.6   2   3     0.079     0.079   -1.1   0.1    94   119    74    99    63   103 0.76 -
+phbA|SMC03879        -            393 Thiolase_C           PF02803.16   123   5.2e-56  173.9   4.6   3   3   2.5e-55   2.5e-55  171.7   0.6     2   123   271   392   270   392 0.99 -
+phbA|SMC03879        -            393 Thiolase_N           PF00108.21   260  2.1e-110  354.2   5.4   1   1  2.8e-110  2.8e-110  353.8   5.4     1   259     6   262     6   263 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC03879.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC03879.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC03879.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:07:44 2018
+# [ok]

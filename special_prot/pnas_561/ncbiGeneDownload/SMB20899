@@ -1,0 +1,51 @@
+
+1. idhA
+myo-inositol dehydrogenase [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b20899, SMb20899
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (1306775..1307767)
+ID: 1237525
+
+2. Smed_4469
+oxidoreductase domain-containing protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4469
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (950746..951738, complement)
+ID: 5318171
+
+3. BPSL1989
+oxidoreductase [Burkholderia pseudomallei K96243]
+Other Aliases: BPSL1989
+Chromosome: 1
+Annotation: Chromosome 1 NC_006350.1 (2371090..2372109, complement)
+ID: 3093644
+
+4. BPSL1988
+oxidoreductase [Burkholderia pseudomallei K96243]
+Other Aliases: BPSL1988
+Chromosome: 1
+Annotation: Chromosome 1 NC_006350.1 (2370040..2371077, complement)
+ID: 3093643
+
+5. idhA
+Inositol 2-dehydrogenase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b20899
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1306781..1307825)
+This record was discontinued.
+ID: 14756817
+
+6. idhA
+myo-inositol 2-dehydrogenase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH03170
+Annotation:  NC_007761.1 (3328045..3329037)
+This record was discontinued.
+ID: 3893405
+
+7. RHE_CH01209
+myo-inositol 2-dehydrogenase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH01209
+Annotation:  NC_007761.1 (1260468..1261367, complement)
+This record was discontinued.
+ID: 3891289
+

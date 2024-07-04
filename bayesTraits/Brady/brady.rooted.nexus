@@ -1,0 +1,254 @@
+#NEXUS
+[R-package APE, Wed Apr 25 10:10:19 2018]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 120;
+	TAXLABELS
+		Pseudolabrys_sp_Root1462
+		Afipia_sp_P52-10
+		Afipia_sp_Root123D2
+		Afipia_clevelandensis_ATCC_49720
+		Afipia_massiliensis_LC387
+		Bradyrhizobium_sp_CCH10-C7
+		Bradyrhizobium_sp_CCH4-A6
+		Afipia_birgiae_34632
+		Afipia_sp_OHSU_II-uncloned
+		Afipia_sp_NBIMC_P1-C3
+		Afipia_sp_NBIMC_P1-C1
+		Afipia_sp_NBIMC_P1-C2
+		Afipia_broomeae_ATCC_49717
+		Oligotropha_carboxidovorans_OM4
+		Afipia_felis_76713
+		Afipia_sp_1NLS2
+		Afipia_felis_ATCC_53690
+		Nitrobacter_sp_Nb-311A
+		Nitrobacter_vulgaris_Ab1
+		Nitrobacter_hamburgensis_X14
+		Tardiphaga_robiniae_Vaf-07
+		Rhodopseudomonas_palustris_HaA2
+		Rhodopseudomonas_palustris_BisB5
+		Rhodopseudomonas_sp_B29
+		Rhodopseudomonas_palustris_DX-1
+		Rhodopseudomonas_palustris_TIE-1
+		Rhodopseudomonas_palustris_CGA009
+		Rhodopseudomonas_palustris_ELI_1980
+		Rhodopseudomonas_sp_AAP120
+		Rhodopseudomonas_palustris_JSC-3b
+		Rhodopseudomonas_palustris_BisA53
+		Rhodopseudomonas_palustris_BisB18
+		Bradyrhizobium_oligotrophicum_S58
+		Bradyrhizobium_sp_BTAi1
+		Bradyrhizobium_sp_STM_3809
+		Bradyrhizobium_sp_ORS_285
+		Bradyrhizobium_sp_ORS_278
+		Bradyrhizobium_sp_Tv2a-2
+		Bradyrhizobium_sp_ARR65
+		Bradyrhizobium_sp_Ec3_3
+		Bradyrhizobium_neotropicale_BR_10247
+		Bradyrhizobium_sp_Cp5_3
+		Bradyrhizobium_sp_WSM1743
+		Bradyrhizobium_yuanmingense_CCBAU_05623
+		Bradyrhizobium_yuanmingense_CCBAU_10071
+		Bradyrhizobium_yuanmingense_CCBAU_35157
+		Bradyrhizobium_yuanmingense_CCBAU_25021
+		Bradyrhizobium_sp_DOA9
+		Bradyrhizobium_japonicum_is5
+		Bradyrhizobium_japonicum_in8p8
+		Bradyrhizobium_sp_Leaf396
+		Bradyrhizobium_sp_CCBAU_43298
+		Bradyrhizobium_sp_CCH5-F6
+		Bradyrhizobium_japonicum_22
+		Bradyrhizobium_liaoningense_CCNWSX0360
+		Bradyrhizobium_liaoningense_CCBAU_05525
+		Bradyrhizobium_liaoningense_CCBAU_83689
+		Bradyrhizobium_japonicum_USDA_135
+		Bradyrhizobium_sp_CCGE-LA001
+		Bradyrhizobium_sp_WSM2793
+		Bradyrhizobium_sp_CCBAU_15635
+		Bradyrhizobium_sp_CCBAU_15544
+		Bradyrhizobium_japonicum_USDA_4
+		Bradyrhizobium_sp_CCBAU_15615
+		Bradyrhizobium_sp_AT1
+		Bradyrhizobium_manausense_BR3351
+		Bradyrhizobium_sp_WSM3983
+		Bradyrhizobium_diazoefficiens_SEMIA_5080
+		Bradyrhizobium_diazoefficiens_USDA_110
+		Bradyrhizobium_sp_CCBAU_41267
+		Bradyrhizobium_japonicum_USDA_122
+		Bradyrhizobium_diazoefficiens_USDA_122
+		Bradyrhizobium_sp_WSM2254
+		Bradyrhizobium_japonicum_USDA_38
+		Bradyrhizobium_japonicum_SEMIA_5079
+		Bradyrhizobium_japonicum_USDA_6
+		Bradyrhizobium_japonicum_CCBAU_25435
+		Bradyrhizobium_japonicum_CCBAU_83623
+		Bradyrhizobium_japonicum_CCBAU_15517
+		Bradyrhizobium_japonicum_CCBAU_15354
+		Bradyrhizobium_japonicum_UBMA197
+		Bradyrhizobium_sp_G22
+		Bradyrhizobium_japonicum_USDA_123
+		Bradyrhizobium_japonicum_CCBAU_15618
+		Bradyrhizobium_sp_LTSP849
+		Bradyrhizobium_sp_LTSP857
+		Bradyrhizobium_canariense_UBMA171
+		Bradyrhizobium_sp_WSM4349
+		Bradyrhizobium_sp_WSM471
+		Bradyrhizobium_sp_WSM1253
+		Bradyrhizobium_sp_WSM1417
+		Bradyrhizobium_sp_YR681
+		Bradyrhizobium_genosp_SA-4_str_CB756
+		Bradyrhizobium_sp_USDA_3384
+		Bradyrhizobium_japonicum_USDA_124
+		Bradyrhizobium_sp_NAS80_1
+		Bradyrhizobium_sp_AS23_2
+		Bradyrhizobium_valentinum_LmjM3
+		Bradyrhizobium_icense_LMTR_13
+		Bradyrhizobium_retamae_Ro19
+		Bradyrhizobium_elkanii_WSM1741
+		Bradyrhizobium_paxllaeri_LMTR_21
+		Bradyrhizobium_jicamae_PAC68
+		Bradyrhizobium_elkanii_WSM2783
+		Bradyrhizobium_sp_Ai1a-2
+		Bradyrhizobium_sp_LTSP885
+		Bradyrhizobium_sp_LTSPM299
+		Bradyrhizobium_sp_th_b2
+		Bradyrhizobium_embrapense_SEMIA_6208
+		Bradyrhizobium_sp_NAS96_2
+		Bradyrhizobium_sp_SEMIA_6399
+		Bradyrhizobium_sp_OHSU_III
+		Bradyrhizobium_elkanii_USDA_76
+		Bradyrhizobium_elkanii_CCBAU_43297
+		Bradyrhizobium_elkanii_USDA_94
+		Bradyrhizobium_elkanii_CCBAU_05737
+		Bradyrhizobium_elkanii_USDA_3254
+		Bradyrhizobium_sp_UFLA_03-321
+		Bradyrhizobium_pachyrhizi_BR3262
+		Bradyrhizobium_elkanii_USDA_3259
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Pseudolabrys_sp_Root1462,
+		2	Afipia_sp_P52-10,
+		3	Afipia_sp_Root123D2,
+		4	Afipia_clevelandensis_ATCC_49720,
+		5	Afipia_massiliensis_LC387,
+		6	Bradyrhizobium_sp_CCH10-C7,
+		7	Bradyrhizobium_sp_CCH4-A6,
+		8	Afipia_birgiae_34632,
+		9	Afipia_sp_OHSU_II-uncloned,
+		10	Afipia_sp_NBIMC_P1-C3,
+		11	Afipia_sp_NBIMC_P1-C1,
+		12	Afipia_sp_NBIMC_P1-C2,
+		13	Afipia_broomeae_ATCC_49717,
+		14	Oligotropha_carboxidovorans_OM4,
+		15	Afipia_felis_76713,
+		16	Afipia_sp_1NLS2,
+		17	Afipia_felis_ATCC_53690,
+		18	Nitrobacter_sp_Nb-311A,
+		19	Nitrobacter_vulgaris_Ab1,
+		20	Nitrobacter_hamburgensis_X14,
+		21	Tardiphaga_robiniae_Vaf-07,
+		22	Rhodopseudomonas_palustris_HaA2,
+		23	Rhodopseudomonas_palustris_BisB5,
+		24	Rhodopseudomonas_sp_B29,
+		25	Rhodopseudomonas_palustris_DX-1,
+		26	Rhodopseudomonas_palustris_TIE-1,
+		27	Rhodopseudomonas_palustris_CGA009,
+		28	Rhodopseudomonas_palustris_ELI_1980,
+		29	Rhodopseudomonas_sp_AAP120,
+		30	Rhodopseudomonas_palustris_JSC-3b,
+		31	Rhodopseudomonas_palustris_BisA53,
+		32	Rhodopseudomonas_palustris_BisB18,
+		33	Bradyrhizobium_oligotrophicum_S58,
+		34	Bradyrhizobium_sp_BTAi1,
+		35	Bradyrhizobium_sp_STM_3809,
+		36	Bradyrhizobium_sp_ORS_285,
+		37	Bradyrhizobium_sp_ORS_278,
+		38	Bradyrhizobium_sp_Tv2a-2,
+		39	Bradyrhizobium_sp_ARR65,
+		40	Bradyrhizobium_sp_Ec3_3,
+		41	Bradyrhizobium_neotropicale_BR_10247,
+		42	Bradyrhizobium_sp_Cp5_3,
+		43	Bradyrhizobium_sp_WSM1743,
+		44	Bradyrhizobium_yuanmingense_CCBAU_05623,
+		45	Bradyrhizobium_yuanmingense_CCBAU_10071,
+		46	Bradyrhizobium_yuanmingense_CCBAU_35157,
+		47	Bradyrhizobium_yuanmingense_CCBAU_25021,
+		48	Bradyrhizobium_sp_DOA9,
+		49	Bradyrhizobium_japonicum_is5,
+		50	Bradyrhizobium_japonicum_in8p8,
+		51	Bradyrhizobium_sp_Leaf396,
+		52	Bradyrhizobium_sp_CCBAU_43298,
+		53	Bradyrhizobium_sp_CCH5-F6,
+		54	Bradyrhizobium_japonicum_22,
+		55	Bradyrhizobium_liaoningense_CCNWSX0360,
+		56	Bradyrhizobium_liaoningense_CCBAU_05525,
+		57	Bradyrhizobium_liaoningense_CCBAU_83689,
+		58	Bradyrhizobium_japonicum_USDA_135,
+		59	Bradyrhizobium_sp_CCGE-LA001,
+		60	Bradyrhizobium_sp_WSM2793,
+		61	Bradyrhizobium_sp_CCBAU_15635,
+		62	Bradyrhizobium_sp_CCBAU_15544,
+		63	Bradyrhizobium_japonicum_USDA_4,
+		64	Bradyrhizobium_sp_CCBAU_15615,
+		65	Bradyrhizobium_sp_AT1,
+		66	Bradyrhizobium_manausense_BR3351,
+		67	Bradyrhizobium_sp_WSM3983,
+		68	Bradyrhizobium_diazoefficiens_SEMIA_5080,
+		69	Bradyrhizobium_diazoefficiens_USDA_110,
+		70	Bradyrhizobium_sp_CCBAU_41267,
+		71	Bradyrhizobium_japonicum_USDA_122,
+		72	Bradyrhizobium_diazoefficiens_USDA_122,
+		73	Bradyrhizobium_sp_WSM2254,
+		74	Bradyrhizobium_japonicum_USDA_38,
+		75	Bradyrhizobium_japonicum_SEMIA_5079,
+		76	Bradyrhizobium_japonicum_USDA_6,
+		77	Bradyrhizobium_japonicum_CCBAU_25435,
+		78	Bradyrhizobium_japonicum_CCBAU_83623,
+		79	Bradyrhizobium_japonicum_CCBAU_15517,
+		80	Bradyrhizobium_japonicum_CCBAU_15354,
+		81	Bradyrhizobium_japonicum_UBMA197,
+		82	Bradyrhizobium_sp_G22,
+		83	Bradyrhizobium_japonicum_USDA_123,
+		84	Bradyrhizobium_japonicum_CCBAU_15618,
+		85	Bradyrhizobium_sp_LTSP849,
+		86	Bradyrhizobium_sp_LTSP857,
+		87	Bradyrhizobium_canariense_UBMA171,
+		88	Bradyrhizobium_sp_WSM4349,
+		89	Bradyrhizobium_sp_WSM471,
+		90	Bradyrhizobium_sp_WSM1253,
+		91	Bradyrhizobium_sp_WSM1417,
+		92	Bradyrhizobium_sp_YR681,
+		93	Bradyrhizobium_genosp_SA-4_str_CB756,
+		94	Bradyrhizobium_sp_USDA_3384,
+		95	Bradyrhizobium_japonicum_USDA_124,
+		96	Bradyrhizobium_sp_NAS80_1,
+		97	Bradyrhizobium_sp_AS23_2,
+		98	Bradyrhizobium_valentinum_LmjM3,
+		99	Bradyrhizobium_icense_LMTR_13,
+		100	Bradyrhizobium_retamae_Ro19,
+		101	Bradyrhizobium_elkanii_WSM1741,
+		102	Bradyrhizobium_paxllaeri_LMTR_21,
+		103	Bradyrhizobium_jicamae_PAC68,
+		104	Bradyrhizobium_elkanii_WSM2783,
+		105	Bradyrhizobium_sp_Ai1a-2,
+		106	Bradyrhizobium_sp_LTSP885,
+		107	Bradyrhizobium_sp_LTSPM299,
+		108	Bradyrhizobium_sp_th_b2,
+		109	Bradyrhizobium_embrapense_SEMIA_6208,
+		110	Bradyrhizobium_sp_NAS96_2,
+		111	Bradyrhizobium_sp_SEMIA_6399,
+		112	Bradyrhizobium_sp_OHSU_III,
+		113	Bradyrhizobium_elkanii_USDA_76,
+		114	Bradyrhizobium_elkanii_CCBAU_43297,
+		115	Bradyrhizobium_elkanii_USDA_94,
+		116	Bradyrhizobium_elkanii_CCBAU_05737,
+		117	Bradyrhizobium_elkanii_USDA_3254,
+		118	Bradyrhizobium_sp_UFLA_03-321,
+		119	Bradyrhizobium_pachyrhizi_BR3262,
+		120	Bradyrhizobium_elkanii_USDA_3259
+	;
+	TREE * 1 = [&U] (1:0.3891598,2:0.09288405,((3:0.04312692,((4:0.02424208,((5:0.01092128,(6:0.00125869,(7:9.5e-07,8:9.5e-07):0.00117431):0.00425583):0.01338152,(9:0.00654703,(((10:9.5e-07,11:9.5e-07):9.5e-07,12:9.5e-07):9.5e-07,13:0.00132788):0.00567127):0.01026552):0.00961723):0.03229416,(14:0.03857914,((15:0.00098673,16:0.0005053):0.01367854,17:0.01281001):0.01323386):0.04140254):0.01156502):0.03070012,(((18:0.0233201,19:0.01379495):0.0177628,20:0.02439443):0.05161811,((21:0.07977332,(((22:0.0128123,23:0.01897499):0.01294728,((24:0.03081072,(25:0.01019237,(26:0.00104495,(27:0.01129033,28:0.00071443):0.00052338):0.01020927):0.02862659):0.01405478,29:0.01993658):0.01330678):0.04141624,((30:0.05596869,31:0.03456361):0.01984397,32:0.04831201):0.01317885):0.01208642):0.02260922,((((33:0.0098539,(34:0.00471874,(35:0.00381464,(36:0.0085299,37:0.00579694):0.00214033):0.00943467):0.00839816):0.04335371,(38:0.02877535,39:0.03278626):0.0292853):0.01244619,(40:0.01886993,((41:0.00063202,42:0.00092221):0.00838905,(((((43:0.00971831,(((44:0.00156103,45:0.00491154):0.00222198,(46:0.0002203,47:9.5e-07):0.0002063):0.00191907,48:0.00296489):0.00376401):0.00499326,(((((49:9.5e-07,50:9.5e-07):9.5e-07,51:0.00022229):0.00957626,52:0.00861893):0.00522617,(53:0.00879048,54:0.01104041):0.00301447):0.00173392,(55:0.00504916,((56:0.00022268,57:9.5e-07):0.00066902,58:0.00164911):0.0053589):0.00279555):0.00275331):0.0027622,(59:0.0177419,((60:0.00226181,((61:0.00020971,(62:0.00089007,(63:9.5e-07,64:9.5e-07):9.5e-07):0.00628429):0.00257623,65:0.00900086):0.001382):0.0053244,((66:0.01347604,67:0.01351975):0.00679369,(((68:9.5e-07,((69:9.5e-07,70:9.5e-07):0.00065949,(71:9.5e-07,72:9.5e-07):0.00176854):9.5e-07):0.0032466,73:0.00975722):0.00798328,((74:0.00056644,(75:0.00044085,(((76:0.00200557,77:9.5e-07):0.00050699,(78:0.0002217,(79:0.00044347,(80:9.5e-07,((81:0.00709953,82:0.00115168):0.00990843,83:9.5e-07):0.00049143):0.00221735):9.5e-07):0.00494168):0.00414672,84:0.00087987):9.5e-07):0.00053503):0.00674398,(((85:0.00057313,86:0.00075645):0.02183499,((87:0.00044161,88:0.00088349):0.00074264,((89:0.00624054,90:0.00179336):0.00087333,91:0.00173146):0.00106252):0.01219521):0.00834131,92:0.02586774):0.00408298):0.00340639):0.00295517):0.00267983):0.00475517):0.00301158):0.00267367,((93:0.00067857,94:0.00350799):0.00760998,95:0.00754891):0.00509008):0.0041805,(96:0.00459296,97:0.01249478):0.00674173):0.00663761):0.00660312):0.0328768):0.01806317,(((98:0.01387898,(99:0.00768464,(100:0.0061408,101:0.00501343):0.00388571):0.00572408):0.00458949,(102:0.00439941,103:0.00428482):0.00399582):0.02749627,((104:0.01002632,105:0.01551424):0.04187004,((106:0.00203458,107:0.00107207):0.03124169,(108:0.01371218,(109:0.00374213,((110:0.00494151,(111:0.00490334,112:0.00805152):0.0015892):0.00323213,((113:0.0008704,114:0.00281871):0.00281163,((115:0.00137642,116:0.00589677):0.00348189,((117:9.5e-07,(118:0.00066122,119:0.00044232):0.00479416):0.003873,120:9.5e-07):0.00311061):0.00100258):0.00475182):0.00541427):0.00473878):0.01094494):0.01812507):0.01050802):0.01119213):0.02057252):0.00945882):0.01800568):0.05121287);
+	TREE * 2 = [&U] (1:0.2891598,2:0.09288405,((3:0.04312692,((4:0.02424208,((5:0.01092128,(6:0.00125869,(7:9.5e-07,8:9.5e-07):0.00117431):0.00425583):0.01338152,(9:0.00654703,(((10:9.5e-07,11:9.5e-07):9.5e-07,12:9.5e-07):9.5e-07,13:0.00132788):0.00567127):0.01026552):0.00961723):0.03229416,(14:0.03857914,((15:0.00098673,16:0.0005053):0.01367854,17:0.01281001):0.01323386):0.04140254):0.01156502):0.03070012,(((18:0.0233201,19:0.01379495):0.0177628,20:0.02439443):0.05161811,((21:0.07977332,(((22:0.0128123,23:0.01897499):0.01294728,((24:0.03081072,(25:0.01019237,(26:0.00104495,(27:0.01129033,28:0.00071443):0.00052338):0.01020927):0.02862659):0.01405478,29:0.01993658):0.01330678):0.04141624,((30:0.05596869,31:0.03456361):0.01984397,32:0.04831201):0.01317885):0.01208642):0.02260922,((((33:0.0098539,(34:0.00471874,(35:0.00381464,(36:0.0085299,37:0.00579694):0.00214033):0.00943467):0.00839816):0.04335371,(38:0.02877535,39:0.03278626):0.0292853):0.01244619,(40:0.01886993,((41:0.00063202,42:0.00092221):0.00838905,(((((43:0.00971831,(((44:0.00156103,45:0.00491154):0.00222198,(46:0.0002203,47:9.5e-07):0.0002063):0.00191907,48:0.00296489):0.00376401):0.00499326,(((((49:9.5e-07,50:9.5e-07):9.5e-07,51:0.00022229):0.00957626,52:0.00861893):0.00522617,(53:0.00879048,54:0.01104041):0.00301447):0.00173392,(55:0.00504916,((56:0.00022268,57:9.5e-07):0.00066902,58:0.00164911):0.0053589):0.00279555):0.00275331):0.0027622,(59:0.0177419,((60:0.00226181,((61:0.00020971,(62:0.00089007,(63:9.5e-07,64:9.5e-07):9.5e-07):0.00628429):0.00257623,65:0.00900086):0.001382):0.0053244,((66:0.01347604,67:0.01351975):0.00679369,(((68:9.5e-07,((69:9.5e-07,70:9.5e-07):0.00065949,(71:9.5e-07,72:9.5e-07):0.00176854):9.5e-07):0.0032466,73:0.00975722):0.00798328,((74:0.00056644,(75:0.00044085,(((76:0.00200557,77:9.5e-07):0.00050699,(78:0.0002217,(79:0.00044347,(80:9.5e-07,((81:0.00709953,82:0.00115168):0.00990843,83:9.5e-07):0.00049143):0.00221735):9.5e-07):0.00494168):0.00414672,84:0.00087987):9.5e-07):0.00053503):0.00674398,(((85:0.00057313,86:0.00075645):0.02183499,((87:0.00044161,88:0.00088349):0.00074264,((89:0.00624054,90:0.00179336):0.00087333,91:0.00173146):0.00106252):0.01219521):0.00834131,92:0.02586774):0.00408298):0.00340639):0.00295517):0.00267983):0.00475517):0.00301158):0.00267367,((93:0.00067857,94:0.00350799):0.00760998,95:0.00754891):0.00509008):0.0041805,(96:0.00459296,97:0.01249478):0.00674173):0.00663761):0.00660312):0.0328768):0.01806317,(((98:0.01387898,(99:0.00768464,(100:0.0061408,101:0.00501343):0.00388571):0.00572408):0.00458949,(102:0.00439941,103:0.00428482):0.00399582):0.02749627,((104:0.01002632,105:0.01551424):0.04187004,((106:0.00203458,107:0.00107207):0.03124169,(108:0.01371218,(109:0.00374213,((110:0.00494151,(111:0.00490334,112:0.00805152):0.0015892):0.00323213,((113:0.0008704,114:0.00281871):0.00281163,((115:0.00137642,116:0.00589677):0.00348189,((117:9.5e-07,(118:0.00066122,119:0.00044232):0.00479416):0.003873,120:9.5e-07):0.00311061):0.00100258):0.00475182):0.00541427):0.00473878):0.01094494):0.01812507):0.01050802):0.01119213):0.02057252):0.00945882):0.01800568):0.05121287);
+END;

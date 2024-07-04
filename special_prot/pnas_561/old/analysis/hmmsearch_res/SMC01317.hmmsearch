@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+rpoB|SMC01317        -           1380 RNA_pol_Rpb2_1       PF04563.13   203   7.5e-39  119.5   0.0   1   1   1.7e-38   1.7e-38  118.3   0.0     2   200    29   507    28   510 0.96 -
+rpoB|SMC01317        -           1380 RNA_pol_Rpb2_2       PF04561.12   190     1e-31   96.2   0.0   1   2   3.5e-10   3.5e-10   26.0   0.0    19    72   179   231   159   248 0.77 -
+rpoB|SMC01317        -           1380 RNA_pol_Rpb2_2       PF04561.12   190     1e-31   96.2   0.0   2   2   5.4e-23   5.4e-23   67.7   0.1    87   190   357   464   340   464 0.95 -
+rpoB|SMC01317        -           1380 RNA_pol_Rpb2_3       PF04565.14    68   4.1e-36  109.3   0.0   1   1   7.9e-36   7.9e-36  108.4   0.0     1    68   523   591   523   591 0.99 -
+rpoB|SMC01317        -           1380 RNA_pol_Rpb2_45      PF10385.7     65     1e-28   85.8   0.2   1   2     1e-27     1e-27   82.5   0.5     1    65   601   666   601   666 0.99 -
+rpoB|SMC01317        -           1380 RNA_pol_Rpb2_45      PF10385.7     65     1e-28   85.8   0.2   2   2      0.17      0.17   -1.4   0.0    36    56  1258  1278  1254  1280 0.84 -
+rpoB|SMC01317        -           1380 RNA_pol_Rpb2_6       PF00562.26   390  4.6e-171  555.2   0.2   1   2     0.094     0.094   -2.3   0.0     2    27   675   700   674   706 0.89 -
+rpoB|SMC01317        -           1380 RNA_pol_Rpb2_6       PF00562.26   390  4.6e-171  555.2   0.2   2   2  1.1e-170  1.1e-170  553.9   0.2     2   390   728  1286   727  1286 0.99 -
+rpoB|SMC01317        -           1380 RNA_pol_Rpb2_7       PF04560.18    87   6.2e-31   93.0   0.0   1   1   1.2e-30   1.2e-30   92.1   0.0     1    85  1288  1362  1288  1364 0.98 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC01317.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC01317.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC01317.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:55:48 2018
+# [ok]

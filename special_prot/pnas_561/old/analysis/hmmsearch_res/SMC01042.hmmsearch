@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+ntrB|SMC01042        -            382 HATPase_c            PF02518.24   111   4.8e-20   58.5   0.0   1   1   8.3e-20   8.3e-20   57.7   0.0     3   109   247   364   245   366 0.77 -
+ntrB|SMC01042        -            382 HATPase_c_2          PF13581.4    125     3e-06   13.4   0.0   1   1   6.8e-06   6.8e-06   12.3   0.0    66   108   293   339   258   344 0.83 -
+ntrB|SMC01042        -            382 HATPase_c_5          PF14501.4    101   1.3e-07   17.8   0.0   1   1   4.8e-07   4.8e-07   15.9   0.0     4   100   248   362   245   363 0.78 -
+ntrB|SMC01042        -            382 HisKA                PF00512.23    64     1e-16   47.0   0.2   1   2   2.2e-16   2.2e-16   46.0   0.1     5    59   144   199   140   203 0.91 -
+ntrB|SMC01042        -            382 HisKA                PF00512.23    64     1e-16   47.0   0.2   2   2      0.82      0.82   -3.9   0.0    17    29   255   267   255   279 0.70 -
+ntrB|SMC01042        -            382 PAS                  PF00989.23   113   6.3e-13   35.0   0.0   1   1   1.3e-12   1.3e-12   34.0   0.0     5   111    18   120    17   122 0.92 -
+ntrB|SMC01042        -            382 PAS_4                PF08448.8    110   2.8e-06   13.9   0.0   1   1   5.6e-06   5.6e-06   12.9   0.0     1    98    20   118    20   125 0.84 -
+ntrB|SMC01042        -            382 PAS_9                PF13426.5    102   1.4e-06   14.8   0.0   1   2   3.7e-06   3.7e-06   13.5   0.0     2    88    25   113    24   121 0.70 -
+ntrB|SMC01042        -            382 PAS_9                PF13426.5    102   1.4e-06   14.8   0.0   2   2      0.66      0.66   -3.4   0.0    30    58   172   196   161   202 0.54 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC01042.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC01042.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC01042.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 11:53:45 2018
+# [ok]

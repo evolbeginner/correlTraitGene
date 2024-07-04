@@ -1,0 +1,30 @@
+
+1. SM_b21520
+two-component response regulator protein [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b21520, SMb21520
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (1444608..1445267)
+ID: 1237682
+
+2. Smed_4344
+two component LuxR family transcriptional regulator [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4344
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (841192..841851, complement)
+ID: 5319214
+
+3. emmC
+Putative three-component response regulator,involved in exopolysaccharide production,motility and membrane stress response [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b21520
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1444614..1445309)
+This record was discontinued.
+ID: 14757015
+
+4. RHE_CH01734
+two-component response regulator protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH01734
+Annotation:  NC_007761.1 (1817995..1818618, complement)
+This record was discontinued.
+ID: 3891191
+

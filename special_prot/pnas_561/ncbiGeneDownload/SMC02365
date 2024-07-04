@@ -1,0 +1,34 @@
+
+1. degP1
+protease precursor protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMc02365
+Annotation:  NC_003047.1 (1112257..1113771)
+ID: 1232664
+
+2. Smed_0637
+protease Do [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_0637
+Annotation:  NC_009636.1 (682614..684167)
+ID: 5321473
+
+3. degP1
+putative serine protease [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_c02365
+Annotation:  NC_020528.1 (1112087..1113847)
+This record was discontinued.
+ID: 14805435
+
+4. degPch2
+serine protease DO-like protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH01293
+Annotation:  NC_007761.1 (1339582..1341171)
+This record was discontinued.
+ID: 3891604
+
+5. degPch1
+serine protease DO-like protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH01120
+Annotation:  NC_007761.1 (1169820..1171322, complement)
+This record was discontinued.
+ID: 3890630
+

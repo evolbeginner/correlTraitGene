@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+hupT|AZC_0594        -            456 HATPase_c            PF02518.24   111   2.6e-26   78.7   0.0   1   1   4.1e-26   4.1e-26   78.0   0.0     2   109   344   451   343   453 0.90 -
+hupT|AZC_0594        -            456 HATPase_c_2          PF13581.4    125   1.4e-06   14.6   0.0   1   2      0.68      0.68   -3.8   0.0    10    26   122   138   117   141 0.75 -
+hupT|AZC_0594        -            456 HATPase_c_2          PF13581.4    125   1.4e-06   14.6   0.0   2   2   4.3e-06   4.3e-06   13.0   0.0    50   113   362   430   351   448 0.69 -
+hupT|AZC_0594        -            456 HATPase_c_3          PF13589.4    137   5.2e-06   12.6   0.0   1   1     1e-05     1e-05   11.6   0.0     4    60   349   408   347   421 0.82 -
+hupT|AZC_0594        -            456 HATPase_c_5          PF14501.4    101   8.3e-09   21.6   0.0   1   1   1.5e-08   1.5e-08   20.8   0.0     5    88   347   436   344   442 0.86 -
+hupT|AZC_0594        -            456 HisKA                PF00512.23    64   1.8e-22   65.5   7.7   1   4       0.8       0.8   -3.8   0.2    23    42    44    65    43    66 0.59 -
+hupT|AZC_0594        -            456 HisKA                PF00512.23    64   1.8e-22   65.5   7.7   2   4      0.63      0.63   -3.5   0.1    27    38   190   201   179   203 0.52 -
+hupT|AZC_0594        -            456 HisKA                PF00512.23    64   1.8e-22   65.5   7.7   3   4   1.1e-19   1.1e-19   56.6   0.0     1    43   208   250   208   251 0.96 -
+hupT|AZC_0594        -            456 HisKA                PF00512.23    64   1.8e-22   65.5   7.7   4   4   4.1e-06   4.1e-06   13.1   0.1    30    61   270   300   255   303 0.77 -
+hupT|AZC_0594        -            456 PAS                  PF00989.23   113   1.2e-13   37.3   0.0   1   1   2.4e-13   2.4e-13   36.4   0.0     5   113    70   176    66   176 0.92 -
+hupT|AZC_0594        -            456 PAS_4                PF08448.8    110   5.1e-14   38.8   0.4   1   2   1.4e-13   1.4e-13   37.3   0.1     3   109    74   180    72   181 0.96 -
+hupT|AZC_0594        -            456 PAS_4                PF08448.8    110   5.1e-14   38.8   0.4   2   2       0.5       0.5   -3.1   0.0    60    82   363   385   344   387 0.64 -
+hupT|AZC_0594        -            456 PAS_8                PF13188.5     67   5.9e-09   22.2   0.0   1   1   1.9e-08   1.9e-08   20.6   0.0     2    52    67   114    66   130 0.78 -
+hupT|AZC_0594        -            456 PAS_9                PF13426.5    102   2.8e-08   20.3   0.0   1   1   6.9e-08   6.9e-08   19.0   0.0     5    92    79   168    76   174 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/AZC_0594.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/AZC_0594.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/AZC_0594.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:10:08 2018
+# [ok]

@@ -1,0 +1,59 @@
+
+1. dctD
+C4-dicarboxylate transport transcriptional regulator [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b20613, SMb20613
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (1630003..1631385)
+ID: 1237857
+
+2. Smed_4176
+two component, sigma54 specific, Fis family transcriptional regulator [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4176
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (651820..653178, complement)
+ID: 5318585
+
+3. dctD
+C4-dicarboxylate transport transcriptional response regulator [Burkholderia pseudomallei K96243]
+Other Aliases: BPSS0063
+Chromosome: 2
+Annotation: Chromosome 2 NC_006351.1 (69444..70790)
+ID: 3096711
+
+4. dctD
+C4-dicarboxylate transport transcriptional regulatory protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b20613
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1630019..1631401)
+This record was discontinued.
+ID: 14757228
+
+5. Mext_3061
+sigma-54 factor interaction domain-containing protein [Methylobacterium extorquens PA1]
+Other Aliases: Mext_3061
+Annotation:  NC_010172.1 (3403969..3405321)
+This record was discontinued.
+ID: 5835425
+
+6. Pden_4763
+two component, sigma54 specific, Fis family transcriptional regulator [Paracoccus denitrificans PD1222]
+Other Aliases: Pden_4763
+Genomic context: Plasmid 1
+Annotation:  NC_008688.1 (259133..260473, complement)
+This record was discontinued.
+ID: 4583266
+
+7. dctD
+two-component response regulator protein regulating C4-dicarboxylate transport system [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH02973
+Annotation:  NC_007761.1 (3113621..3114967)
+This record was discontinued.
+ID: 3893247
+
+8. BF9343_2010
+putative two-component response regulator transcriptional regulatory protein [Bacteroides fragilis NCTC 9343]
+Other Aliases: BF9343_2010
+Annotation:  NC_003228.3 (2450151..2451548, complement)
+This record was discontinued.
+ID: 3285576
+

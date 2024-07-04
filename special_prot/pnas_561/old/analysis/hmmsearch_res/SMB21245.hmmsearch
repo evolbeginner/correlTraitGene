@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+exoF3|SMB21245       -            416 DUF4570              PF15134.4    110     7e-05    9.1   5.3   1   1   0.00015   0.00015    8.0   5.3     5    72   284   351   281   375 0.89 -
+exoF3|SMB21245       -            416 Poly_export          PF02563.14    82   8.3e-16   44.4   0.0   1   2   5.4e-15   5.4e-15   41.7   0.0     3    81    39   114    37   115 0.91 -
+exoF3|SMB21245       -            416 Poly_export          PF02563.14    82   8.3e-16   44.4   0.0   2   2      0.11      0.11   -1.0   0.0     9    19   403   413   397   415 0.83 -
+exoF3|SMB21245       -            416 SLBB                 PF10531.7     58     2e-12   33.1   0.0   1   1   6.8e-12   6.8e-12   31.5   0.0     2    38   120   157   119   169 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMB21245.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMB21245.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMB21245.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 11:56:45 2018
+# [ok]

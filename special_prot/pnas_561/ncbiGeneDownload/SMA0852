@@ -1,0 +1,52 @@
+
+1. nodF
+acyl carrier protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMa0852
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (469631..469912)
+ID: 1235501
+
+2. Smed_6195
+NodF acyl carrier protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_6195
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (1118764..1119045, complement)
+ID: 5320497
+
+3. Mesci_5857
+phosphopantetheine-binding protein [Mesorhizobium ciceri biovar biserrulae WSM1271]
+Other Aliases: Mesci_5857
+Annotation:  NC_014923.1 (6060577..6060858)
+ID: 10121357
+
+4. nodF
+NodF acyl carrier protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a0852
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (469291..469572)
+This record was discontinued.
+ID: 14746132
+
+5. Mesop_6431
+phosphopantetheine-binding protein [Mesorhizobium opportunistum WSM2075]
+Other Aliases: Mesop_6431
+Annotation:  NC_015675.1 (6615245..6615526)
+This record was discontinued.
+ID: 10830295
+
+6. Rleg_4914
+phosphopantetheine-binding [Rhizobium leguminosarum bv. trifolii WSM1325]
+Other Aliases: Rleg_4914
+Genomic context: Plasmid pR132501
+Annotation:  NC_012848.1 (293752..294030, complement)
+This record was discontinued.
+ID: 8007510
+
+7. Rleg2_5033
+phosphopantetheine-binding [Rhizobium leguminosarum bv. trifolii WSM2304]
+Other Aliases: Rleg2_5033
+Genomic context: Plasmid pRLG201
+Annotation:  NC_011368.1 (682318..682596, complement)
+This record was discontinued.
+ID: 6978127
+

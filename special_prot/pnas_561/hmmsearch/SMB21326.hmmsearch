@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+expA9(wgaI)|SMB21326 -            356 3Beta_HSD            PF01073.17   282   7.9e-17   47.2   0.0   1   1   1.2e-16   1.2e-16   46.6   0.0     1   157     4   168     4   172 0.79 -
+expA9(wgaI)|SMB21326 -            356 adh_short            PF00106.23   195   7.7e-15   41.0   0.1   1   1   7.2e-11   7.2e-11   28.0   0.0     3   124     3   116     1   125 0.82 -
+expA9(wgaI)|SMB21326 -            356 Epimerase            PF01370.19   241   2.4e-68  216.3   0.0   1   1   2.8e-68   2.8e-68  216.0   0.0     1   241     3   251     3   251 0.96 -
+expA9(wgaI)|SMB21326 -            356 GDP_Man_Dehyd        PF16363.3    332   7.8e-94  300.8   0.0   1   1   8.8e-94   8.8e-94  300.6   0.0     1   332     4   324     4   324 0.89 -
+expA9(wgaI)|SMB21326 -            356 NAD_binding_4        PF07993.10   257   6.2e-17   47.7   0.0   1   1   7.7e-15   7.7e-15   40.8   0.0     1   205     5   188     5   203 0.76 -
+expA9(wgaI)|SMB21326 -            356 Polysacc_synt_2      PF02719.13   294   1.6e-18   52.9   0.0   1   1   2.3e-18   2.3e-18   52.4   0.0     1   117     3   113     3   116 0.88 -
+expA9(wgaI)|SMB21326 -            356 RmlD_sub_bind        PF04321.15   287   2.9e-16   45.4   0.0   1   1   5.5e-16   5.5e-16   44.5   0.0     1   136     1   170     1   181 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMB21326.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMB21326.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMB21326.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 14:52:33 2019
+# [ok]

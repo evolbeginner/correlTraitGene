@@ -1,0 +1,45 @@
+
+1. SM_b20210
+oxidoreductase [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b20210, SMb20210
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (217287..218000, complement)
+ID: 1236534
+
+2. Smed_3913
+short-chain dehydrogenase/reductase SDR [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_3913
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (365935..366648)
+ID: 5318647
+
+3. SM2011_b20210
+Short chain alcohol dehydrogenase/reductase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b20210
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (217287..218000, complement)
+This record was discontinued.
+ID: 14755548
+
+4. Bind_2090
+short-chain dehydrogenase/reductase SDR [Beijerinckia indica subsp. indica ATCC 9039]
+Other Aliases: Bind_2090
+Annotation:  NC_010581.1 (2389575..2390288)
+This record was discontinued.
+ID: 6200370
+
+5. RHE_PF00540
+oxidoreductase [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00540
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (605968..606693)
+This record was discontinued.
+ID: 3896072
+
+6. RHE_CH02692
+oxidoreductase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH02692
+Annotation:  NC_007761.1 (2803413..2804138)
+This record was discontinued.
+ID: 3894703
+

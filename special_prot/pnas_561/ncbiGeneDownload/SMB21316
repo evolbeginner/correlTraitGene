@@ -1,0 +1,23 @@
+
+1. wgdA
+ABC transporter ATP-binding protein/permease [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b21316, SMb21316
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (981935..983704, complement)
+ID: 1237223
+
+2. Smed_4713
+type I secretion system ATPase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4713
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (1232625..1234394, complement)
+ID: 5318863
+
+3. wgdA
+ABC transporter,type I secretion system ATPase,required for secretion of WgeA (formerly ExpE1) [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b21316
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (981938..983785, complement)
+This record was discontinued.
+ID: 14756441
+

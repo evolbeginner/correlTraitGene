@@ -1,0 +1,895 @@
+
+1. K444DRAFT_619348
+structural toxin protein RtxA [Meliniomyces bicolor E]
+Other Aliases: K444DRAFT_619348
+Other Designations: structural toxin protein RtxA
+Chromosome: Unknown
+ID: 36589576
+
+2. VC1451
+RTX toxin RtxA [Vibrio cholerae O1 biovar El Tor str. N16961]
+Other Aliases: VC1451
+Chromosome: I
+Annotation: Chromosome I NC_002505.1 (1550108..1563784)
+ID: 2613957
+
+3. blr2078
+blr2078 [Bradyrhizobium diazoefficiens USDA 110]
+Other Aliases: blr2078
+Other Designations: blr2078; rtxA-like protein
+Annotation:  NC_004463.1 (2247536..2247964)
+ID: 1055470
+
+4. XBJ1_RS04700
+multifunctional autoprocessing toxin RtxA [Xenorhabdus bovienii SS-2004]
+Other Aliases: XBJ1_RS04700, XBJ1_1089
+Annotation:  NC_013892.1 (1084951..1099101, complement)
+ID: 8830715
+
+5. BJE04_RS20545
+multifunctional autoprocessing toxin RtxA [Vibrio vulnificus YJ016]
+Other Aliases: BJE04_RS20545, VVA1030, VV_RS20570
+Chromosome: II
+Annotation: Chromosome II NC_005140.1 (1142935..1158555, complement)
+ID: 2621888
+
+6. blr2077
+blr2077 [Bradyrhizobium diazoefficiens USDA 110]
+Other Aliases: blr2077
+Other Designations: blr2077; rtxA-like protein
+Annotation:  NC_004463.1 (2246226..2247539)
+ID: 1055472
+
+7. blr2079
+blr2079 [Bradyrhizobium diazoefficiens USDA 110]
+Other Aliases: blr2079
+Other Designations: blr2079; rtxA-like protein
+Annotation:  NC_004463.1 (2248012..2248779)
+ID: 1055471
+
+8. YE2966
+hemolysin [Yersinia enterocolitica subsp. enterocolitica 8081]
+Other Aliases: YE2966
+Annotation:  NC_008800.1 (3227908..3229359)
+ID: 4714193
+
+9. SPSK_01293
+structural toxin protein RtxA [Sporothrix schenckii 1099-18]
+Other Aliases: SPSK_01293
+Chromosome: Unknown
+ID: 27663500
+
+10. MAA_03786
+structural toxin protein RtxA [Metarhizium robertsii ARSEF 23]
+Other Aliases: MAA_03786
+ID: 19258072
+
+11. VVCECT4999_RS24210
+MARTX multifunctional-autoprocessing repeats-in-toxin holotoxin RtxA [Vibrio vulnificus]
+Other Aliases: VVCECT4999_RS24210, VVCECT4999_23010
+Genomic context: Plasmid pR99
+ID: 33957892
+
+12. rtxA
+RTX toxin RtxA [Vibrio vulnificus]
+Other Aliases: pC46022_02
+Genomic context: Plasmid pC4602-2
+Annotation:  NC_009703.1 (45099..58886)
+ID: 5384021
+
+13. rtxA
+RTX toxin RtxA [Vibrio vulnificus]
+Other Aliases: VVULR99_05
+Genomic context: Plasmid pR99
+Annotation:  NC_009701.1 (34883..48670)
+ID: 5383941
+
+14. OO9_RS08470
+RTX toxin RtxA [Providencia alcalifaciens Dmel2]
+Other Aliases: OO9_RS08470, OO9_08456
+ID: 34346017
+
+15. PMI_RS10070
+MARTX multifunctional-autoprocessing repeats-in-toxin holotoxin RtxA [Proteus mirabilis HI4320]
+Other Aliases: PMI_RS10070
+Annotation:  NC_010554.1 (2185086..2198945)
+ID: 23391226
+
+16. lpg2515
+structural toxin protein (hemagglutinin/hemolysin) RtxA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]
+Other Aliases: lpg2515
+Annotation:  NC_002942.5 (2843496..2843861, complement)
+ID: 19834080
+
+17. AHA_2697
+structural toxin protein RtxA [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+Other Aliases: AHA_2697
+Annotation:  NC_008570.1 (3013263..3026045, complement)
+ID: 4489975
+
+18. AHA_1359
+structural toxin protein RtxA [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+Other Aliases: AHA_1359
+Annotation:  NC_008570.1 (1479789..1493846)
+ID: 4489068
+
+19. ABOM_004390
+structural toxin protein RtxA [Aspergillus bombycis]
+Other Aliases: ABOM_004390
+Chromosome: Unknown
+ID: 34447780
+
+20. BBA_03189
+structural toxin protein RtxA [Beauveria bassiana ARSEF 2860]
+Other Aliases: BBA_03189
+Chromosome: Unknown
+ID: 19886201
+
+21. LY89DRAFT_687312
+structural toxin protein RtxA [Phialocephala scopiformis]
+Other Aliases: LY89DRAFT_687312
+Chromosome: Unknown
+ID: 28825195
+
+22. MBR_08262
+structural toxin protein RtxA [Metarhizium brunneum ARSEF 3297]
+Other Aliases: MBR_08262
+Chromosome: Unknown
+ID: 26245532
+
+23. MAC_00976
+structural toxin protein RtxA [Metarhizium acridum CQMa 102]
+Other Aliases: MAC_00976
+Chromosome: Unknown
+ID: 19245287
+
+24. VFPPC_14905
+structural toxin protein RtxA [Pochonia chlamydosporia 170]
+Other Aliases: VFPPC_14905
+Chromosome: Unknown
+ID: 28856667
+
+25. XDD1_RS06130
+MARTX multifunctional-autoprocessing repeats-in-toxin holotoxin RtxA [Xenorhabdus doucetiae]
+Other Aliases: XDD1_RS06130, XDD1_1313
+ID: 34867630
+
+26. VVCECT4999_RS21235
+MARTX multifunctional-autoprocessing repeats-in-toxin holotoxin RtxA [Vibrio vulnificus]
+Other Aliases: VVCECT4999_RS21235, VVCECT4999_20135
+Chromosome: II
+ID: 33957297
+
+27. BN1138_RS11445
+structural toxin protein RtxA [Aeromonas enteropelogenes]
+Other Aliases: BN1138_RS11445
+ID: 32325425
+
+28. CC84DRAFT_1169208
+structural toxin protein RtxA [Paraphaeosphaeria sporulosa]
+Other Aliases: CC84DRAFT_1169208
+Chromosome: Unknown
+ID: 28763084
+
+29. ANOM_006631
+structural toxin protein RtxA [Aspergillus nomius NRRL 13137]
+Other Aliases: ANOM_006631
+Chromosome: Unknown
+ID: 26808435
+
+30. VDAG_04753
+structural toxin protein RtxA [Verticillium dahliae VdLs.17]
+Other Aliases: VDAG_04753
+Chromosome: 3
+ID: 20706216
+
+31. TERG_07256
+structural toxin protein RtxA [Trichophyton rubrum CBS 118892]
+Other Aliases: TERG_07256
+ID: 10372012
+
+32. VDBG_09520
+structural toxin protein RtxA [Verticillium alfalfae VaMs.102]
+Other Aliases: VDBG_09520
+Chromosome: Unknown
+ID: 9528028
+
+33. MCYG_06353
+structural toxin protein RtxA [Microsporum canis CBS 113480]
+Other Aliases: MCYG_06353
+Other Designations: structural toxin protein RtxA
+ID: 9227269
+
+34. ANI_1_184044
+structural toxin protein RtxA [Aspergillus niger CBS 513.88]
+Other Aliases: ANI_1_184044, An05g01490
+ID: 4980888
+
+35. lpg0645
+hypothetical protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]
+Other Aliases: lpg0645
+Annotation:  NC_002942.5 (690883..692928)
+ID: 19832210
+
+36. MAJ_03769
+structural toxin protein RtxA [Metarhizium majus ARSEF 297]
+Other Aliases: MAJ_03769
+Chromosome: Unknown
+This record was discontinued.
+ID: 26273351
+
+37. OOC_RS08050
+RTX toxin RtxA [Providencia rettgeri Dmel1]
+Other Aliases: OOC_RS08050
+This record was discontinued.
+ID: 23529554
+
+38. AHML_14310
+structural toxin protein RtxA [Aeromonas hydrophila ML09-119]
+Other Aliases: AHML_14310
+Annotation:  NC_021290.1 (3228776..3231844, complement)
+This record was discontinued.
+ID: 16195916
+
+39. AHML_14315
+structural toxin protein RtxA [Aeromonas hydrophila ML09-119]
+Other Aliases: AHML_14315
+Annotation:  NC_021290.1 (3232017..3234143, complement)
+This record was discontinued.
+ID: 16195769
+
+40. AHML_07370
+structural toxin protein RtxA [Aeromonas hydrophila ML09-119]
+Other Aliases: AHML_07370
+Annotation:  NC_021290.1 (1627487..1640806)
+This record was discontinued.
+ID: 16195395
+
+41. rtxA3
+structural toxin protein (hemagglutinin/hemolysin) RtxA [Legionella pneumophila subsp. pneumophila str. Thunder Bay]
+Other Aliases: LP6_2546
+Annotation:  NC_021350.1 (2898999..2899346, complement)
+This record was discontinued.
+ID: 16189091
+
+42. rtxA2
+structural toxin protein RtxA [Legionella pneumophila subsp. pneumophila str. Thunder Bay]
+Other Aliases: LP6_0628
+Annotation:  NC_021350.1 (678047..685036)
+This record was discontinued.
+ID: 16188060
+
+43. CMR15_10714
+putative metalloprotease, Hemolysin-type calcium-binding region (rtxA) [Ralstonia solanacearum CMR15]
+Other Aliases: CMR15_10714
+Annotation:  NC_017559.1 (759629..766915)
+This record was discontinued.
+ID: 16104082
+
+44. A11S_101
+structural toxin protein RtxA [Micavibrio aeruginosavorus EPB]
+Other Aliases: A11S_101
+Annotation:  NC_020812.1 (99769..108348)
+This record was discontinued.
+ID: 14858238
+
+45. PAU_03018
+Similar to RTX toxin RtxA [Photorhabdus asymbiotica]
+Other Aliases: PAU_03018
+Annotation:  NC_012962.1 (3499900..3510189, complement)
+This record was discontinued.
+ID: 13863094
+
+46. PAU_02098
+RtxA toxin [Photorhabdus asymbiotica]
+Other Aliases: PAU_02098
+Annotation:  NC_012962.1 (2357938..2359566, complement)
+This record was discontinued.
+ID: 13862889
+
+47. PAU_03073
+similar to rtx toxin rtxa [Photorhabdus asymbiotica]
+Other Aliases: PAU_03073
+Annotation:  NC_012962.1 (3625810..3638014, complement)
+This record was discontinued.
+ID: 13860884
+
+48. rtxA
+Similar to RTX toxin RtxA [Photorhabdus asymbiotica]
+Other Aliases: PAU_03027
+Annotation:  NC_012962.1 (3548123..3558715, complement)
+This record was discontinued.
+ID: 13859952
+
+49. rtxA
+Structural toxin protein RtxA [Legionella pneumophila subsp. pneumophila]
+Other Aliases: LPO_0723
+Annotation:  NC_018139.1 (709657..722607)
+This record was discontinued.
+ID: 13335591
+
+50. rtxA
+structural toxin protein RtxA [Legionella pneumophila subsp. pneumophila]
+Other Aliases: LPV_0764
+Annotation:  NC_018140.1 (738949..748632)
+This record was discontinued.
+ID: 13334417
+
+51. RSPO_c00802
+putative metalloprotease, Hemolysin-type calcium-binding region (rtxA) [Ralstonia solanacearum Po82]
+Other Aliases: RSPO_c00802
+Annotation:  NC_017574.1 (841385..844429)
+This record was discontinued.
+ID: 12624872
+
+52. RSPO_c00801
+putative metalloprotease, Hemolysin-type calcium-binding region (rtxA) [Ralstonia solanacearum Po82]
+Other Aliases: RSPO_c00801
+Annotation:  NC_017574.1 (835908..841337)
+This record was discontinued.
+ID: 12624871
+
+53. BJ6T_77770
+hypothetical protein [Bradyrhizobium japonicum USDA 6]
+Other Aliases: BJ6T_77770
+Annotation:  NC_017249.1 (8031714..8034125, complement)
+This record was discontinued.
+ID: 12141404
+
+54. O3Y_06745
+RTX toxin RtxA [Vibrio cholerae IEC224]
+Other Aliases: O3Y_06745
+Chromosome: I
+Annotation: Chromosome I NC_016944.1 (1547176..1560813)
+This record was discontinued.
+ID: 11914347
+
+55. lp12_2508
+structural toxin protein (hemagglutinin/hemolysin) RtxA [Legionella pneumophila subsp. pneumophila ATCC 43290]
+Other Aliases: lp12_2508
+Annotation:  NC_016811.1 (2804161..2804526, complement)
+This record was discontinued.
+ID: 11803685
+
+56. GU3_12735
+structural toxin protein RtxA [Oceanimonas sp. GK1]
+Other Aliases: GU3_12735
+Annotation:  NC_016745.1 (2769782..2772688, complement)
+This record was discontinued.
+ID: 11598445
+
+57. rtxA
+RTX toxin RtxA [Vibrio cholerae O1 str. 2010EL-1786]
+Other Aliases: Vch1786_I0951
+Chromosome: 1
+Annotation: Chromosome 1 NC_016445.1 (1027143..1040744)
+This record was discontinued.
+ID: 11460770
+
+58. rtxA
+RTX toxin exported protein RtxA [Cupriavidus necator N-1]
+Other Aliases: CNE_2c06450
+Chromosome: 2
+Annotation: Chromosome 2 NC_015723.1 (682551..689552)
+This record was discontinued.
+ID: 10921128
+
+59. Thicy_0285
+filamentous hemagglutinin [Thioalkalimicrobium cyclicum ALM1]
+Other Aliases: Thicy_0285
+Annotation:  NC_015581.1 (289823..377431)
+This record was discontinued.
+ID: 10719085
+
+60. PP1Y_AT26798
+structural toxin protein RtxA [Novosphingobium sp. PP1Y]
+Other Aliases: PP1Y_AT26798
+Annotation:  NC_015580.1 (2810646..2815253, complement)
+This record was discontinued.
+ID: 10716004
+
+
+61. YE105_C1280
+putative cytotoxin RtxA [Yersinia enterocolitica subsp. palearctica 105.5R(r)]
+Other Aliases: YE105_C1280
+Annotation:  NC_015224.1 (1526945..1531093)
+This record was discontinued.
+ID: 10303790
+
+62. YE105_Cp0017
+pseudo [Yersinia enterocolitica subsp. palearctica 105.5R(r)]
+Other Aliases: YE105_Cp0017
+Annotation:  NC_015224.1 (1521338..1526906)
+This record was discontinued.
+ID: 10301115
+
+63. rtxA
+toxin RtxA [Xenorhabdus nematophila ATCC 19061]
+Other Aliases: XNC1_1381
+Annotation:  NC_014228.1 (1241044..1255956)
+This record was discontinued.
+ID: 9430174
+
+64. lpa_03675
+structural toxin protein (hemagglutinin/hemolysin) RtxA [Legionella pneumophila 2300/99 Alcoy]
+Other Aliases: lpa_03675
+Annotation:  NC_014125.1 (2958012..2958326, complement)
+This record was discontinued.
+ID: 9130456
+
+65. Sterm_1408
+hypothetical protein [Sebaldella termitidis ATCC 33386]
+Other Aliases: Sterm_1408
+Annotation:  NC_013517.1 (1486935..1487360)
+This record was discontinued.
+ID: 8596882
+
+66. rtxA_30
+RTX-family protein-30 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_2298
+Annotation:  NC_012751.1 (2063926..2065191, complement)
+This record was discontinued.
+ID: 7951892
+
+67. rtxA_31
+RTX-family protein-31 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_2296
+Annotation:  NC_012751.1 (2061849..2063759, complement)
+This record was discontinued.
+ID: 7951891
+
+68. rtxA_32
+RTX-family protein-32 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_2295
+Annotation:  NC_012751.1 (2059877..2061400, complement)
+This record was discontinued.
+ID: 7951890
+
+69. rtxA_27
+RTX-family protein-27 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_2268
+Annotation:  NC_012751.1 (2038699..2041548, complement)
+This record was discontinued.
+ID: 7951863
+
+70. rtxA_28
+RTX-family protein-28 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_2267
+Annotation:  NC_012751.1 (2036459..2038756, complement)
+This record was discontinued.
+ID: 7951862
+
+71. rtxA_29
+RTX-family protein-29 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_2266
+Annotation:  NC_012751.1 (2035198..2036430, complement)
+This record was discontinued.
+ID: 7951861
+
+72. rtxA_26
+RTX-family protein-26 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_2147
+Annotation:  NC_012751.1 (1962144..1963511)
+This record was discontinued.
+ID: 7951743
+
+73. rtxA_25
+RTX-family protein-25 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_2017
+Annotation:  NC_012751.1 (1841695..1843023)
+This record was discontinued.
+ID: 7951613
+
+74. rtxA_24
+RTX-family protein-24 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_2016
+Annotation:  NC_012751.1 (1841179..1841625)
+This record was discontinued.
+ID: 7951612
+
+75. rtxA_22
+RTX-family protein-22 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1936
+Annotation:  NC_012751.1 (1767480..1771538, complement)
+This record was discontinued.
+ID: 7951532
+
+76. rtxA_23
+RTX-family protein-23 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1933
+Annotation:  NC_012751.1 (1765691..1766521, complement)
+This record was discontinued.
+ID: 7951529
+
+77. rtxA_21
+RTX-family protein-21 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1711
+Annotation:  NC_012751.1 (1549965..1553912)
+This record was discontinued.
+ID: 7951308
+
+78. rtxA_18
+RTX-family protein-18 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1405
+Annotation:  NC_012751.1 (1291813..1295676, complement)
+This record was discontinued.
+ID: 7951005
+
+79. rtxA_19
+RTX-family protein-19 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1404
+Annotation:  NC_012751.1 (1290863..1291837, complement)
+This record was discontinued.
+ID: 7951004
+
+80. rtxA_20
+RTX-family protein-20 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1403
+Annotation:  NC_012751.1 (1290310..1290906, complement)
+This record was discontinued.
+ID: 7951003
+
+81. rtxA_17
+RTX-family protein-17, pseudogene [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1263
+Annotation:  NC_012751.1 (1166141..1168764, complement)
+This record was discontinued.
+ID: 7950863
+
+82. rtxA_16
+RTX-family protein-16 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1250
+Annotation:  NC_012751.1 (1150161..1155554, complement)
+This record was discontinued.
+ID: 7950850
+
+83. rtxA_15
+RTX-family protein-15 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1194
+Annotation:  NC_012751.1 (1110126..1111793)
+This record was discontinued.
+ID: 7950794
+
+84. rtxA_14
+RTX-family protein-14 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1186
+Annotation:  NC_012751.1 (1101813..1107737, complement)
+This record was discontinued.
+ID: 7950786
+
+85. rtxA_13
+RTX-family protein-13 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1184
+Annotation:  NC_012751.1 (1098163..1098540, complement)
+This record was discontinued.
+ID: 7950784
+
+86. rtxA_12
+RTX-family protein-12 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1159
+Annotation:  NC_012751.1 (1080699..1082216)
+This record was discontinued.
+ID: 7950759
+
+87. rtxA_11
+RTX-family protein-11 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1158
+Annotation:  NC_012751.1 (1079993..1080580)
+This record was discontinued.
+ID: 7950758
+
+88. rtxA_10
+RTX-family protein-10 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_1157
+Annotation:  NC_012751.1 (1075689..1079978)
+This record was discontinued.
+ID: 7950757
+
+89. rtxA_08
+RTX-family protein-8 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_0849
+Annotation:  NC_012751.1 (865705..866589, complement)
+This record was discontinued.
+ID: 7950449
+
+90. rtxA_09
+RTX-family protein-9 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_0848
+Annotation:  NC_012751.1 (861264..865793, complement)
+This record was discontinued.
+ID: 7950448
+
+91. rtxA_06
+RTX-family protein-6 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_0636
+Annotation:  NC_012751.1 (630249..630884, complement)
+This record was discontinued.
+ID: 7950239
+
+92. rtxA_05
+RTX-family protein-5 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_0622
+Annotation:  NC_012751.1 (617039..617680)
+This record was discontinued.
+ID: 7950225
+
+93. rtxA_04
+RTX-family protein-4 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_0621
+Annotation:  NC_012751.1 (614379..617042)
+This record was discontinued.
+ID: 7950224
+
+94. rtxA_03
+RTX-family protein-3 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_0439
+Annotation:  NC_012751.1 (438843..444218)
+This record was discontinued.
+ID: 7950042
+
+95. rtxA_01
+RTX-family protein-1 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_0438
+Annotation:  NC_012751.1 (435055..438645, complement)
+This record was discontinued.
+ID: 7950041
+
+96. rtxA_02
+RTX-family protein-2 [Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum)]
+Other Aliases: HDEF_0437
+Annotation:  NC_012751.1 (432727..435045, complement)
+This record was discontinued.
+ID: 7950040
+
+97. rtxA
+pseudo [Vibrio cholerae O395]
+Other Aliases: VC395_1569
+Chromosome: I
+Annotation: Chromosome I NC_012582.1 (1637845..1645737)
+This record was discontinued.
+ID: 7776589
+
+98. rtxA
+RTX toxin RtxA [Vibrio cholerae M66-2]
+Other Aliases: VCM66_1407
+Chromosome: I
+Annotation: Chromosome I NC_012578.1 (1507551..1521227)
+This record was discontinued.
+ID: 7772684
+
+99. rtxA
+pseudo [Vibrio cholerae V51]
+Other Aliases: VCV51_A0409
+This record was discontinued.
+ID: 7582985
+
+100. CBGD1_1049
+structural toxin protein RtxA [Campylobacterales bacterium GD 1]
+Other Aliases: CBGD1_1049
+This record was discontinued.
+ID: 7435090
+
+
+1. rtxA
+structural toxin protein RtxA [Cyanobium sp. PCC 7001]
+Other Aliases: CPCC7001_837
+This record was discontinued.
+ID: 7414383
+
+2. rtxA
+RTX toxin RtxA [Vibrio cholerae AM-19226]
+Other Aliases: A33_1379
+This record was discontinued.
+ID: 6825177
+
+3. rtxA
+RTX toxin RtxA [Vibrio cholerae MO10]
+Other Aliases: VCMO10_1158
+This record was discontinued.
+ID: 6692886
+
+4. rtxA
+metalloprotease, hemolysin-type calcium-binding region [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_B1440
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (1547186..1552132, complement)
+This record was discontinued.
+ID: 6456942
+
+5. Clim_1665
+outer membrane adhesin-like protein [Chlorobium limicola DSM 245]
+Other Aliases: Clim_1665
+Annotation:  NC_010803.1 (1822862..1831339, complement)
+This record was discontinued.
+ID: 6353972
+
+6. Clim_1662
+von Willebrand factor type A [Chlorobium limicola DSM 245]
+Other Aliases: Clim_1662
+Annotation:  NC_010803.1 (1799941..1817961, complement)
+This record was discontinued.
+ID: 6353969
+
+7. M446_3319
+structural toxin protein RtxA [Methylobacterium sp. 4-46]
+Other Aliases: M446_3319
+Annotation:  NC_010511.1 (3680495..3686974)
+This record was discontinued.
+ID: 6134280
+
+8. LPC_1955
+structural toxin protein (hemagglutinin/hemolysin) RtxA [Legionella pneumophila str. Corby]
+Other Aliases: LPC_1955
+Annotation:  NC_009494.2 (3021492..3021806, complement)
+This record was discontinued.
+ID: 5181761
+
+9. rtxA
+structural toxin protein RtxA [Psychromonas ingrahamii 37]
+Other Aliases: Ping_0681
+Annotation:  NC_008709.1 (868165..868521)
+This record was discontinued.
+ID: 4626478
+
+10. Cpha266_1846
+putative outer membrane adhesin-like protein [Chlorobium phaeobacteroides DSM 266]
+Other Aliases: Cpha266_1846
+Annotation:  NC_008639.1 (2125986..2140616, complement)
+This record was discontinued.
+ID: 4571188
+
+11. sync_1217
+structural toxin protein RtxA [Synechococcus sp. CC9311]
+Other Aliases: sync_1217
+Annotation:  NC_008319.1 (1098163..1104627)
+This record was discontinued.
+ID: 4261021
+
+12. XOO_1279
+serine-pyruvate aminotransferase [Xanthomonas oryzae pv. oryzae MAFF 311018]
+Other Aliases: XOO_1279
+Annotation:  NC_007705.1 (1403211..1404365, complement)
+This record was discontinued.
+ID: 3858251
+
+13. rtxA-1
+structural toxin protein RtxA [Legionella pneumophila str. Paris]
+Other Aliases: lpp0699
+Annotation:  NC_006368.1 (753773..776852)
+This record was discontinued.
+ID: 3117483
+
+14. rtxA-2
+structural toxin protein RtxA [Legionella pneumophila str. Lens]
+Other Aliases: lpl0681
+Annotation:  NC_006369.1 (739008..762820)
+This record was discontinued.
+ID: 3114223
+
+15. lpg2515
+structural toxin protein (hemagglutinin/hemolysin) RtxA [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]
+Other Aliases: lpg2515
+Annotation:  NC_002942.5 (2843496..2843861, complement)
+This record was discontinued.
+ID: 3080592
+
+16. lpg0645
+hypothetical protein [Legionella pneumophila subsp. pneumophila str. Philadelphia 1]
+Other Aliases: lpg0645
+Annotation:  NC_002942.5 (690883..692928)
+This record was discontinued.
+ID: 3077887
+
+17. YPTB3219
+pore forming RTX toxin family protein [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: YPTB3219
+Annotation:  NC_006155.1 (3783316..3792627, complement)
+This record was discontinued.
+ID: 2954701
+
+18. NEWENTRY
+Record to support submission of GeneRIFs for a gene not in Gene (Beneckea vulnifica.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.). [Vibrio vulnificus]
+ID: 2827959
+
+19. NEWENTRY
+Record to support submission of GeneRIFs for a gene not in Gene (Bacillo virgola del Koch; Bacillus cholerae; Bacillus cholerae-asiaticae; Kommabacillus; Liquidivibrio cholerae; Microspira comma; Pacinia cholerae-asiaticae; Spirillum cholerae; Spirillum cholerae-asiaticae; Vibrio choleae; Vibrio cholera; Vibrio cholerae-asiaticae; Vibrio comma.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.). [Vibrio cholerae]
+ID: 2827955
+
+20. plu3324
+hypothetical protein [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu3324
+Annotation:  NC_005126.1 (3942604..3953265, complement)
+This record was discontinued.
+ID: 2803336
+
+21. plu3217
+hypothetical protein [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu3217
+Annotation:  NC_005126.1 (3793999..3804585, complement)
+This record was discontinued.
+ID: 2803229
+
+22. plu3209
+pseudo [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu3209
+Annotation:  NC_005126.1 (3778699..3785893, complement)
+This record was discontinued.
+ID: 2803221
+
+23. plu3207
+pseudo [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu3207
+Annotation:  NC_005126.1 (3774756..3777722, complement)
+This record was discontinued.
+ID: 2803219
+
+24. plu1344
+hypothetical protein [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu1344
+Annotation:  NC_005126.1 (1601420..1613632)
+This record was discontinued.
+ID: 2801322
+
+25. plu1343
+pseudo [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu1343
+Annotation:  NC_005126.1 (1590222..1600700)
+This record was discontinued.
+ID: 2801321
+
+26. plu1342
+pseudo [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu1342
+Annotation:  NC_005126.1 (1589596..1590259)
+This record was discontinued.
+ID: 2801320
+
+27. plu1341
+hypothetical protein [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu1341
+Annotation:  NC_005126.1 (1577788..1588816)
+This record was discontinued.
+ID: 2801319
+
+28. plu1340
+pseudo [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu1340
+Annotation:  NC_005126.1 (1572049..1577247)
+This record was discontinued.
+ID: 2801318
+
+29. plu1339
+pseudo [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu1339
+Annotation:  NC_005126.1 (1566139..1572004)
+This record was discontinued.
+ID: 2801317
+
+30. plu1337
+pseudo [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu1337
+Annotation:  NC_005126.1 (1554783..1564908)
+This record was discontinued.
+ID: 2801315
+
+31. plu1336
+pseudo [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu1336
+Annotation:  NC_005126.1 (1553793..1554782)
+This record was discontinued.
+ID: 2801314
+
+32. rtxA
+RTX-toxin, partial length [Candidatus Protochlamydia amoebophila UWE25]
+Other Aliases: pc0538
+Annotation:  NC_005861.1 (671495..672583)
+This record was discontinued.
+ID: 2779574
+
+33. y3333
+hypothetical protein [Yersinia pestis KIM10+]
+Other Aliases: y3333
+Annotation:  NC_004088.1 (3665557..3674889, complement)
+This record was discontinued.
+ID: 1148280
+

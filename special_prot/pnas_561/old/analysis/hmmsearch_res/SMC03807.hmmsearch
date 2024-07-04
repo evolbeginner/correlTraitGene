@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+amtB|SMC03807        -            451 Ammonium_transp      PF00909.19   399  2.7e-118  381.1  48.9   1   1  3.3e-118  3.3e-118  380.9  48.9     2   399    48   448    47   448 0.94 -
+amtB|SMC03807        -            451 CytB6-F_Fe-S         PF08802.8     39    0.0021    4.5  11.9   1   3   0.00012   0.00012    8.4   0.5    20    34    13    27    11    28 0.94 -
+amtB|SMC03807        -            451 CytB6-F_Fe-S         PF08802.8     39    0.0021    4.5  11.9   2   3     0.054     0.054   -0.1   1.6    18    33   312   328   304   343 0.68 -
+amtB|SMC03807        -            451 CytB6-F_Fe-S         PF08802.8     39    0.0021    4.5  11.9   3   3       0.5       0.5   -3.2   0.1    10    23   395   408   395   415 0.67 -
+amtB|SMC03807        -            451 DUF1129              PF06570.9    207    0.0059    2.3  11.3   1   3   4.6e-05   4.6e-05    9.1   1.1    44   131    13    94    10   126 0.80 -
+amtB|SMC03807        -            451 DUF1129              PF06570.9    207    0.0059    2.3  11.3   2   3     0.074     0.074   -1.3   0.2   150   181   242   275   212   297 0.64 -
+amtB|SMC03807        -            451 DUF1129              PF06570.9    207    0.0059    2.3  11.3   3   3      0.46      0.46   -3.9   0.3   114   131   400   417   393   423 0.45 -
+amtB|SMC03807        -            451 DUF2207              PF09972.7    493         1  -30.6  43.3   1   2         1         1  -16.7  22.5   382   446   166   237    40   239 0.70 -
+amtB|SMC03807        -            451 DUF2207              PF09972.7    493         1  -30.6  43.3   2   2         1         1  -11.7  12.8   410   430   323   343   242   424 0.64 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC03807.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC03807.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC03807.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 11:54:46 2018
+# [ok]

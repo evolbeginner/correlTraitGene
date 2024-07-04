@@ -1,0 +1,33 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+rkpK|SMC02641        -            437 2-Hacid_dh_C         PF02826.17   178   3.1e-06   12.8   0.4   1   3    0.0037    0.0037    2.8   0.1    38    73     2    37     1    57 0.84 -
+rkpK|SMC02641        -            437 2-Hacid_dh_C         PF02826.17   178   3.1e-06   12.8   0.4   2   3     0.086     0.086   -1.7   0.0    82    99    67    84    50    87 0.73 -
+rkpK|SMC02641        -            437 2-Hacid_dh_C         PF02826.17   178   3.1e-06   12.8   0.4   3   3   0.00029   0.00029    6.4   0.0    50   100   339   390   337   407 0.86 -
+rkpK|SMC02641        -            437 3HCDH_N              PF02737.16   180   4.5e-08   19.3   0.1   1   1   1.4e-07   1.4e-07   17.7   0.1     1    84     2    82     2    85 0.79 -
+rkpK|SMC02641        -            437 ApbA                 PF02558.14   152   2.3e-07   16.8   0.0   1   1   5.8e-07   5.8e-07   15.5   0.0     1    76     3    84     3    88 0.75 -
+rkpK|SMC02641        -            437 F420_oxidored        PF03807.15    97   6.2e-10   25.9   0.0   1   3   3.5e-05   3.5e-05   10.6   0.0     1    70     2    85     2    89 0.83 -
+rkpK|SMC02641        -            437 F420_oxidored        PF03807.15    97   6.2e-10   25.9   0.0   2   3    0.0047    0.0047    3.8   0.0    18    80   157   229   150   239 0.83 -
+rkpK|SMC02641        -            437 F420_oxidored        PF03807.15    97   6.2e-10   25.9   0.0   3   3   0.00076   0.00076    6.4   0.0    14    94   340   414   336   416 0.79 -
+rkpK|SMC02641        -            437 NAD_binding_10       PF13460.4    184   3.4e-06   13.2   1.5   1   2   6.3e-06   6.3e-06   12.4   0.2    42   101    58   125    36   149 0.72 -
+rkpK|SMC02641        -            437 NAD_binding_10       PF13460.4    184   3.4e-06   13.2   1.5   2   2     0.078     0.078   -1.0   0.1    77    90   323   349   274   369 0.63 -
+rkpK|SMC02641        -            437 NAD_binding_2        PF03446.13   158   1.1e-07   18.3   0.1   1   2     4e-05     4e-05   10.0   0.1     1   101     2   132     2   147 0.80 -
+rkpK|SMC02641        -            437 NAD_binding_2        PF03446.13   158   1.1e-07   18.3   0.1   2   2   0.00097   0.00097    5.5   0.0    15    75   341   400   339   426 0.70 -
+rkpK|SMC02641        -            437 NAD_Gly3P_dh_N       PF01210.21   157   9.4e-08   18.4   0.0   1   2   4.9e-07   4.9e-07   16.0   0.0     1   138     2   155     2   160 0.77 -
+rkpK|SMC02641        -            437 NAD_Gly3P_dh_N       PF01210.21   157   9.4e-08   18.4   0.0   2   2      0.19      0.19   -2.2   0.0    53    77   365   389   361   406 0.81 -
+rkpK|SMC02641        -            437 Pyr_redox            PF00070.25    81   5.2e-06   13.3   0.7   1   2   1.6e-05   1.6e-05   11.7   0.2     1    30     2    31     2    37 0.92 -
+rkpK|SMC02641        -            437 Pyr_redox            PF00070.25    81   5.2e-06   13.3   0.7   2   2      0.54      0.54   -2.8   0.0    48    48   137   137   107   154 0.54 -
+rkpK|SMC02641        -            437 UDPG_MGDP_dh         PF00984.17    94   3.4e-41  125.7   0.0   1   1     7e-41     7e-41  124.7   0.0     1    93   203   295   203   296 0.99 -
+rkpK|SMC02641        -            437 UDPG_MGDP_dh_C       PF03720.13   105   1.4e-38  117.9   0.0   1   2    0.0057    0.0057    3.4   0.0    32    75    43    85    35    94 0.80 -
+rkpK|SMC02641        -            437 UDPG_MGDP_dh_C       PF03720.13   105   1.4e-38  117.9   0.0   2   2   1.1e-36   1.1e-36  111.7   0.0     1   104   319   419   319   420 0.98 -
+rkpK|SMC02641        -            437 UDPG_MGDP_dh_N       PF03721.12   187   1.7e-71  225.8   0.3   1   1   2.5e-71   2.5e-71  225.3   0.3     1   181     1   178     1   186 0.95 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC02641.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC02641.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC02641.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:02:52 2018
+# [ok]

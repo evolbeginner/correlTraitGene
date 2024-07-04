@@ -1,0 +1,556 @@
+
+1. ABC_RS20355
+fatty acid desaturase [Bacillus clausii KSM-K16]
+Other Aliases: ABC_RS20355, ABC3939
+Annotation:  NC_006582.1 (4096399..4097385)
+ID: 34046164
+
+2. PXO_RS18005
+dihydrorhizobitoxine desaturase [Xanthomonas oryzae pv. oryzae PXO99A]
+Other Aliases: PXO_RS18005
+Annotation:  NC_010717.2 (3944102..3945142)
+ID: 34180815
+
+3. IX87_RS10440
+fatty acid desaturase [Acinetobacter baumannii]
+Other Aliases: IX87_RS10440, IX87_10690
+ID: 31349107
+
+4. H681_RS06345
+fatty acid desaturase [Pseudomonas sp. ATCC 13867]
+Other Aliases: H681_RS06345, H681_06330
+Annotation:  NC_020829.1 (1384970..1386001)
+ID: 32562883
+
+5. FD63_RS19730
+fatty acid desaturase [Xanthomonas translucens pv. undulosa]
+Other Aliases: FD63_RS19730
+ID: 31605194
+
+6. SJA_RS18425
+fatty acid desaturase [Sphingobium japonicum UT26S]
+Other Aliases: SJA_RS18425, SJA_C2-03530
+Chromosome: 2
+Annotation: Chromosome 2 NC_014013.1 (437636..438652)
+ID: 29275358
+
+7. K529_RS12130
+fatty acid desaturase [Ruegeria mobilis F1926]
+Other Aliases: K529_RS12130, K529_012125
+ID: 28250592
+
+8. VAA_RS06905
+toxin-activating lysine-acyltransferase RtxC [Vibrio anguillarum 775]
+Other Aliases: VAA_RS06905, VAA_03087
+Chromosome: I
+Annotation: Chromosome I NC_015633.1 (1474072..1474533)
+ID: 10775215
+
+9. XBJ1_RS04705
+toxin-activating lysine-acyltransferase RtxC [Xenorhabdus bovienii SS-2004]
+Other Aliases: XBJ1_RS04705, XBJ1_1090
+Annotation:  NC_013892.1 (1099129..1099590, complement)
+ID: 8830716
+
+10. BJE04_RS20550
+toxin-activating lysine-acyltransferase RtxC [Vibrio vulnificus YJ016]
+Other Aliases: BJE04_RS20550, VVA1032, VV_RS20575
+Chromosome: II
+Annotation: Chromosome II NC_005140.1 (1158578..1159039, complement)
+ID: 2621890
+
+11. VARPA_RS29650
+fatty acid desaturase [Variovorax paradoxus EPS]
+Other Aliases: VARPA_RS29650, Varpa_5944
+Annotation:  NC_014931.1 (6463908..6464843, complement)
+ID: 29717332
+
+12. BJ6T_RS37445
+rtxC [Bradyrhizobium japonicum USDA 6]
+Other Aliases: BJ6T_RS37445, BJ6T_77760
+Other Designations: rtxC; dihydrorhizobitoxine desaturase
+Annotation:  NC_017249.1 (8030624..8031682, complement)
+ID: 29270623
+
+13. BJ6T_RS27520
+fatty acid desaturase [Bradyrhizobium japonicum USDA 6]
+Other Aliases: BJ6T_RS27520, BJ6T_57320
+Annotation:  NC_017249.1 (5803751..5804776, complement)
+ID: 29268650
+
+14. SPHCH_RS19435
+fatty acid desaturase [Sphingobium chlorophenolicum L-1]
+Other Aliases: SPHCH_RS19435, Sphch_3915
+Other Designations: fatty acid desaturase
+Chromosome: 2
+Annotation: Chromosome 2 NC_015594.1 (1168923..1169927, complement)
+ID: 35854273
+
+15. CSEG_RS01350
+fatty acid desaturase [Caulobacter segnis ATCC 21756]
+Other Aliases: CSEG_RS01350, Cseg_0261
+Annotation:  NC_014100.1 (280675..281619, complement)
+ID: 35837568
+
+16. G369_RS0109605
+fatty acid desaturase [Variovorax paradoxus 110B]
+Other Aliases: G369_RS0109605
+ID: 27803769
+
+17. BPHY_RS38380
+dihydrorhizobitoxine desaturase [Paraburkholderia phymatum STM815]
+Other Aliases: BPHY_RS38380, Bphy_7780
+Genomic context: Plasmid pBPHY02
+Annotation:  NC_010627.1 (552261..553322)
+ID: 27747237
+
+18. BRAEL_RS0125200
+fatty acid desaturase [Bradyrhizobium elkanii USDA 76]
+Other Aliases: BRAEL_RS0125200
+ID: 23089103
+
+19. BRAEL_RS0117655
+dihydrorhizobitoxine desaturase [Bradyrhizobium elkanii USDA 76]
+Other Aliases: BRAEL_RS0117655
+ID: 23087757
+
+20. rtxC
+rtxC [Bradyrhizobium diazoefficiens USDA 110]
+Other Aliases: blr2080
+Other Designations: rtxC; dihydrorhizobitoxine desaturase
+Annotation:  NC_004463.1 (2248811..2249869)
+ID: 1055469
+
+21. Psyr_1703
+Fatty acid desaturase [Pseudomonas syringae pv. syringae B728a]
+Other Aliases: Psyr_1703
+Annotation:  NC_007005.1 (1912821..1913873, complement)
+ID: 3367208
+
+22. BMA3148
+fatty acid desaturase [Burkholderia mallei ATCC 23344]
+Other Aliases: BMA3148
+Chromosome: 1
+Annotation: Chromosome 1 NC_006348.1 (3248718..3249647, complement)
+ID: 3089611
+
+23. rtxC
+RTX toxin acyltransferase family, RtxC [Vibrio vulnificus]
+Other Aliases: pC46022_04
+Genomic context: Plasmid pC4602-2
+Annotation:  NC_009703.1 (44681..45076)
+ID: 5384025
+
+24. rtxC
+RTX toxin acyltransferase family [Vibrio vulnificus]
+Other Aliases: VVULR99_07
+Genomic context: Plasmid pR99
+Annotation:  NC_009701.1 (34465..34860)
+ID: 5383901
+
+25. XCCB100_RS03055
+fatty acid desaturase [Xanthomonas campestris pv. campestris]
+Other Aliases: XCCB100_RS03055, xcc-b100_0639, xccb100_0639
+Annotation:  NC_010688.1 (712751..713758, complement)
+ID: 35545182
+
+26. BDGL_002222
+fatty acid desaturase [Acinetobacter pittii PHEA-2]
+Other Aliases: BDGL_002222
+Annotation:  NC_016603.1 (2410685..2411668)
+ID: 11636746
+
+27. CCNA_03535
+fatty acid desaturase [Caulobacter crescentus NA1000]
+Other Aliases: CCNA_03535
+Annotation:  NC_011916.1 (3694097..3695053)
+ID: 7332533
+
+28. SKP52_RS06520
+fatty acid desaturase [Sphingopyxis fribergensis]
+Other Aliases: SKP52_RS06520, SKP52_06640
+ID: 29949040
+
+29. RHE_RS03900
+fatty acid desaturase [Rhizobium etli CFN 42]
+Other Aliases: RHE_RS03900, RHE_CH00771
+Annotation:  NC_007761.1 (810273..811280)
+ID: 24298608
+
+30. rtxC
+cytolysin-activating lysine-acyltransferase RtxC [Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+Other Aliases: AHA_1358
+Annotation:  NC_008570.1 (1479322..1479771)
+ID: 4489067
+
+31. Psyr_2554
+Fatty acid desaturase [Pseudomonas syringae pv. syringae B728a]
+Other Aliases: Psyr_2554
+Annotation:  NC_007005.1 (2967617..2968633)
+ID: 3368071
+
+32. BPSL0475
+fatty acid desaturase [Burkholderia pseudomallei K96243]
+Other Aliases: BPSL0475
+Chromosome: 1
+Annotation: Chromosome 1 NC_006350.1 (515717..516748, complement)
+ID: 3093353
+
+33. BPSL0058
+fatty acid desaturase [Burkholderia pseudomallei K96243]
+Other Aliases: BPSL0058
+Chromosome: 1
+Annotation: Chromosome 1 NC_006350.1 (63895..64881, complement)
+ID: 3091707
+
+34. PSPTO_2818
+fatty acid desaturase [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_2818, PSPTO2818
+Other Designations: fatty acid desaturase
+Annotation:  NC_004578.1 (3142091..3143482, complement)
+ID: 1184472
+
+35. BM43_RS08990
+fatty acid desaturase [Burkholderia gladioli]
+Other Aliases: BM43_RS08990, BM43_5695
+Chromosome: 2
+ID: 29445858
+
+36. APZ15_RS25275
+fatty acid desaturase [Burkholderia cepacia ATCC 25416]
+Other Aliases: APZ15_RS25275, APZ15_25275
+Chromosome: 2
+ID: 29783418
+
+37. APZ15_RS07595
+fatty acid desaturase [Burkholderia cepacia ATCC 25416]
+Other Aliases: APZ15_RS07595, APZ15_07595
+Chromosome: 1
+ID: 29781409
+
+38. XDD1_RS08320
+fatty acid desaturase [Xenorhabdus doucetiae]
+Other Aliases: XDD1_RS08320, XDD1_1806
+ID: 34868527
+
+39. CPter91_RS11980
+fatty acid desaturase [Collimonas pratensis]
+Other Aliases: CPter91_RS11980, CPter91_2594
+ID: 34139651
+
+40. AX673_RS12365
+fatty acid desaturase [Acidovorax delafieldii]
+Other Aliases: AX673_RS12365
+ID: 34022129
+
+41. CEP68_RS28400
+fatty acid desaturase [Brevundimonas vesicularis]
+Other Aliases: CEP68_RS28400, CEP68_11480
+ID: 34015582
+
+42. S101359_RS10245
+fatty acid desaturase [Bacillus atrophaeus]
+Other Aliases: S101359_RS10245, S101359_02021
+ID: 33962907
+
+43. RM53_RS02575
+fatty acid desaturase [Brevundimonas nasdae]
+Other Aliases: RM53_RS02575, RM53_02565
+ID: 33056111
+
+44. EW90_RS14065
+fatty acid desaturase [Caulobacter henricii]
+Other Aliases: EW90_RS14065
+ID: 32404492
+
+45. BVL33_RS11580
+hypothetical protein [Acinetobacter junii]
+Other Aliases: BVL33_RS11580, BVL33_11580
+ID: 31749452
+
+46. RRH01S_RS15265
+fatty acid desaturase [Rhizobium rhizogenes NBRC 13257]
+Other Aliases: RRH01S_RS15265, RRH01S_06_02100
+ID: 31558857
+
+47. HMPREF9718_RS07700
+hypothetical protein [Sphingobium yanoikuyae ATCC 51230]
+Other Aliases: HMPREF9718_RS07700, HMPREF9718_01525
+ID: 31532473
+
+48. F933_RS03145
+hypothetical protein [Acinetobacter beijerinckii CIP 110307]
+Other Aliases: F933_RS03145, F933_00634
+ID: 29855799
+
+49. PFLCHA0_RS17855
+fatty acid desaturase [Pseudomonas protegens CHA0]
+Other Aliases: PFLCHA0_RS17855
+Annotation:  NC_021237.1 (4013758..4014723, complement)
+ID: 29823463
+
+50. F988_RS02150
+hypothetical protein [Acinetobacter parvus DSM 16617 = CIP 108168]
+Other Aliases: F988_RS02150, F988_00433
+ID: 29767208
+
+51. YSS_RS01120
+phosphoesterase [Campylobacter coli RM4661]
+Other Aliases: YSS_RS01120, YSS_01135
+ID: 23532075
+
+52. F925_RS09155
+hypothetical protein [Acinetobacter lwoffii NCTC 5866 = CIP 64.10 = NIPH 512]
+Other Aliases: F925_RS09155, F925_01882
+ID: 23284298
+
+53. BRAGE_RS0128610
+dihydrorhizobitoxine desaturase [Bradyrhizobium genosp. SA-4 str. CB756]
+Other Aliases: BRAGE_RS0128610
+ID: 23256840
+
+54. BRAGE_RS0118255
+fatty acid desaturase [Bradyrhizobium genosp. SA-4 str. CB756]
+Other Aliases: BRAGE_RS0118255
+ID: 23254992
+
+55. HMPREF9695_RS05075
+hypothetical protein [Afipia broomeae ATCC 49717]
+Other Aliases: HMPREF9695_RS05075, HMPREF9695_01018
+ID: 23184874
+
+56. SAP105A_011
+Fatty acid desaturase [Staphylococcus epidermidis]
+Other Aliases: SAP105A_011
+Genomic context: Plasmid SAP105A
+Annotation:  NC_013377.1 (6768..7739, complement)
+ID: 13897361
+
+57. SAP045A_045
+Fatty acid desaturase [Staphylococcus epidermidis]
+Other Aliases: SAP045A_045
+Genomic context: Plasmid SAP045A
+Annotation:  NC_013374.1 (35084..36055, complement)
+ID: 13876172
+
+58. rtxC
+Cytolysin-activating lysine-acyltransferase rtxC [Vibrio nigripulchritudo]
+Other Aliases: VIBNI_0211
+Genomic context: Plasmid VIBNI_pA
+Annotation:  NC_015156.1 (226002..226463, complement)
+ID: 10310382
+
+59. CC_3422
+hypothetical protein [Caulobacter crescentus CB15]
+Other Aliases: CC_3422
+Annotation:  NC_002696.2 (3668074..3669063)
+ID: 943770
+
+60. blr4081
+blr4081 [Bradyrhizobium diazoefficiens USDA 110]
+Other Aliases: blr4081
+Other Designations: blr4081; hypothetical protein
+Annotation:  NC_004463.1 (4513996..4515021)
+ID: 1052177
+
+
+61. XCC3554
+hypothetical protein [Xanthomonas campestris pv. campestris str. ATCC 33913]
+Other Aliases: XCC3554
+Annotation:  NC_003902.1 (4240941..4241948)
+ID: 1000123
+
+62. ASD36_RS03345
+hypothetical protein [Rhizobium sp. Root1334]
+Other Aliases: ASD36_RS03345, ASD36_03340
+ID: 32613766
+
+63. H663_RS01815
+hypothetical protein [Limnohabitans planktonicus II-D5]
+Other Aliases: H663_RS01815, H663_01810
+ID: 35884528
+
+64. BC360_RS13695
+hypothetical protein [Ensifer sp. LC163]
+Other Aliases: BC360_RS13695, BC360_07375
+ID: 32106018
+
+65. Y11_RS08815
+toxin-activating lysine-acyltransferase RtxC [Yersinia enterocolitica subsp. palearctica Y11]
+Other Aliases: Y11_RS08815, Y11_18771
+Annotation:  NC_017564.1 (1893398..1893793, complement)
+This record was discontinued.
+ID: 31409912
+
+66. FA04_RS01675
+hypothetical protein [Ensifer adhaerens]
+Other Aliases: FA04_RS01675, FA04_01675
+ID: 29519203
+
+67. UP17_RS25515
+hypothetical protein [Bacillus simplex]
+Other Aliases: UP17_RS25515, UP17_25510
+Genomic context: Plasmid pSHB26
+ID: 29413694
+
+68. UP17_RS03140
+hypothetical protein [Bacillus simplex]
+Other Aliases: UP17_RS03140, UP17_03155
+ID: 29411614
+
+69. VIBNIWN13_RS28550
+cytolysin-activating lysine-acyltransferase rtxC [Vibrio nigripulchritudo Wn13]
+Other Aliases: VIBNIWN13_RS28550, VIBNIWn13_p0215
+This record was discontinued.
+ID: 25067356
+
+70. XNC1_RS05885
+cytolysin-activating lysine-acyltransferase rtxC [Xenorhabdus nematophila ATCC 19061]
+Other Aliases: XNC1_RS05885, XNC1_1380
+Annotation:  NC_014228.1 (1240632..1241093)
+This record was discontinued.
+ID: 24904026
+
+71. PLU_RS06675
+cytolysin-activating lysine-acyltransferase rtxC [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: PLU_RS06675, plu1335
+Annotation:  NC_005126.1 (1553214..1553675)
+This record was discontinued.
+ID: 24167309
+
+72. F987_RS16970
+hypothetical protein [Acinetobacter gyllenbergii NIPH 230]
+Other Aliases: F987_RS16970, F987_00903
+ID: 23003134
+
+73. N175_07120
+cytolysin-activating lysine-acyltransferase rtxC [Listonella anguillarum M3]
+Other Aliases: N175_07120
+Chromosome: 1
+Annotation: Chromosome 1 NC_022223.1 (1474013..1474474)
+This record was discontinued.
+ID: 16739461
+
+74. AHML_07365
+cytolysin-activating lysine-acyltransferase rtxC [Aeromonas hydrophila ML09-119]
+Other Aliases: AHML_07365
+Annotation:  NC_021290.1 (1627008..1627469)
+This record was discontinued.
+ID: 16195398
+
+75. rtxC
+cytolysin-activating lysine-acyltransferase rtxc [Photorhabdus asymbiotica]
+Other Aliases: PAU_03075
+Annotation:  NC_012962.1 (3640328..3640789, complement)
+This record was discontinued.
+ID: 13862441
+
+76. Y11_18771
+cytolysin-activating lysine-acyltransferase rtxC [Yersinia enterocolitica subsp. palearctica Y11]
+Other Aliases: Y11_18771
+Annotation:  NC_017564.1 (1893398..1893793, complement)
+This record was discontinued.
+ID: 12600538
+
+77. VCLMA_A1276
+cytolysin-activating lysine-acyltransferase rtxC [Vibrio cholerae LMA3984-4]
+Other Aliases: VCLMA_A1276
+Chromosome: I
+Annotation: Chromosome I NC_017270.1 (1445614..1446009)
+This record was discontinued.
+ID: 12266683
+
+78. O3Y_06740
+cytolysin-activating lysine-acyltransferase RtxC [Vibrio cholerae IEC224]
+Other Aliases: O3Y_06740
+Chromosome: I
+Annotation: Chromosome I NC_016944.1 (1546691..1547152)
+This record was discontinued.
+ID: 11914346
+
+79. rtxC
+outer membrane efflux protein RtxC [Cupriavidus necator N-1]
+Other Aliases: CNE_2c06460
+Chromosome: 2
+Annotation: Chromosome 2 NC_015723.1 (689719..691071)
+This record was discontinued.
+ID: 10921129
+
+80. YE105_C1279
+cytolysin-activating lysine-acyltransferase rtxC [Yersinia enterocolitica subsp. palearctica 105.5R(r)]
+Other Aliases: YE105_C1279
+Annotation:  NC_015224.1 (1520862..1521320)
+This record was discontinued.
+ID: 10301114
+
+81. VVMO6_03948
+cytolysin-activating lysine-acyltransferase rtxC [Vibrio vulnificus MO6-24/O]
+Other Aliases: VVMO6_03948, VVM_01981
+Chromosome: II
+Annotation: Chromosome II NC_014966.1 (1131565..1131960, complement)
+This record was discontinued.
+ID: 10168779
+
+82. VCD_002896
+cytolysin-activating lysine-acyltransferase RtxC [Vibrio cholerae MJ-1236]
+Other Aliases: VCD_002896
+Chromosome: 1
+Annotation: Chromosome 1 NC_012668.1 (2093947..2094408, complement)
+This record was discontinued.
+ID: 7856905
+
+83. rtxC
+RTX toxin activating protein [Vibrio cholerae AM-19226]
+Other Aliases: A33_1378
+This record was discontinued.
+ID: 6825178
+
+84. rtxC
+RTX toxin activating protein [Vibrio cholerae RC385]
+Other Aliases: VCRC385_1057
+This record was discontinued.
+ID: 6694902
+
+85. rtxC
+RTX toxin activating protein [Vibrio cholerae MO10]
+Other Aliases: VCMO10_1157
+This record was discontinued.
+ID: 6692879
+
+86. rtxC
+type I secretion outer membrane protein, tolc/prtf family [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_B1439
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (1545663..1547009, complement)
+This record was discontinued.
+ID: 6455951
+
+87. hlyC
+hypothetical protein [Bartonella tribocorum CIP 105476]
+Other Aliases: Btr_0686
+Annotation:  NC_010161.1 (723642..724091, complement)
+This record was discontinued.
+ID: 5830149
+
+88. XOO_1277
+RtxC-like protein [Xanthomonas oryzae pv. oryzae MAFF 311018]
+Other Aliases: XOO_1277
+Annotation:  NC_007705.1 (1400822..1401862, complement)
+This record was discontinued.
+ID: 3858249
+
+89. rtxC
+cytolysin-activating lysine-acyltransferase RtxC [Photorhabdus luminescens subsp. laumondii TTO1]
+Other Aliases: plu1335
+Annotation:  NC_005126.1 (1553214..1553773)
+This record was discontinued.
+ID: 2801313
+
+90. VV2_0480
+cytolysin-activating lysine-acyltransferase rtxC [Vibrio vulnificus CMCP6]
+Other Aliases: VV2_0480
+Chromosome: II
+Annotation: Chromosome II NC_004460.2 (532109..532570, complement)
+This record was discontinued.
+ID: 1180483
+

@@ -1,0 +1,46 @@
+
+1. nwsB
+two-component response regulator [Bradyrhizobium diazoefficiens USDA 110]
+Other Aliases: blr4774
+Annotation:  NC_004463.1 (5289491..5290156)
+ID: 1052259
+
+2. Smed_3794
+response regulator receiver protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_3794
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (243421..244068, complement)
+ID: 5317995
+
+3. RHE_PF00225
+two-component response regulator protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00225
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (239257..239949)
+This record was discontinued.
+ID: 3896354
+
+4. nwsB
+two-component response regulator protein (nodW mutant supressor protein) [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00223
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (238234..238875)
+This record was discontinued.
+ID: 3896352
+
+5. RHE_PF00533
+two-component response regulator protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00533
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (598951..599604)
+This record was discontinued.
+ID: 3896065
+
+6. RHE_PE00176
+two-component response regulator protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_PE00176
+Genomic context: Plasmid p42e
+Annotation:  NC_007765.1 (204305..204928)
+This record was discontinued.
+ID: 3895493
+

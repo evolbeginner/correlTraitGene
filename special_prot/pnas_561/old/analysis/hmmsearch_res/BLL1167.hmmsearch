@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+sipS|BLL1167         -            259 Peptidase_S24        PF00717.21    70   5.7e-27   79.8   0.0   1   1   9.1e-27   9.1e-27   79.2   0.0     1    69    44   132    44   133 0.98 -
+sipS|BLL1167         -            259 Peptidase_S26        PF10502.7    138   8.8e-11   28.0   0.0   1   2   2.1e-06   2.1e-06   13.8   0.0    51    76   108   138    71   176 0.74 -
+sipS|BLL1167         -            259 Peptidase_S26        PF10502.7    138   8.8e-11   28.0   0.0   2   2     7e-06     7e-06   12.1   0.0    90   136   178   229   165   231 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLL1167.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLL1167.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLL1167.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:06:12 2018
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+modA|BLR8160         -            260 DUF3692              PF12469.6    111   5.5e-06   12.9   0.0   1   2   0.00052   0.00052    6.5   0.0    29    90    57   117    54   141 0.77 -
+modA|BLR8160         -            260 DUF3692              PF12469.6    111   5.5e-06   12.9   0.0   2   2    0.0033    0.0033    3.9   0.0    31    53   237   259   218   260 0.86 -
+modA|BLR8160         -            260 SBP_bac_1            PF01547.23   315   5.9e-14   38.8   7.4   1   2   2.2e-09   2.2e-09   23.8   0.4     2    66    34    90    33    98 0.85 -
+modA|BLR8160         -            260 SBP_bac_1            PF01547.23   315   5.9e-14   38.8   7.4   2   2   8.8e-08   8.8e-08   18.5   1.7   182   295   140   241   112   255 0.68 -
+modA|BLR8160         -            260 SBP_bac_11           PF13531.4    230   4.9e-51  159.8   7.7   1   1   5.7e-51   5.7e-51  159.6   7.7     1   229    28   252    28   253 0.93 -
+modA|BLR8160         -            260 SBP_bac_8            PF13416.4    282   1.1e-06   14.8   2.8   1   2   8.9e-06   8.9e-06   11.8   0.3     4    59    45    95    42   106 0.81 -
+modA|BLR8160         -            260 SBP_bac_8            PF13416.4    282   1.1e-06   14.8   2.8   2   2    0.0033    0.0033    3.3   0.2   139   202   130   199   110   247 0.70 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLR8160.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLR8160.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLR8160.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 11:54:35 2018
+# [ok]

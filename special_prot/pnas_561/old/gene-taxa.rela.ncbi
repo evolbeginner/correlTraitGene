@@ -1,0 +1,448 @@
+acpP	SMC00573	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+actP	SMA1013	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+actR	SMC02584	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+amtB	SMC03807	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+arcB	RHECIAT_CH0000127	Rhizobium etli CIAT 652,false
+basR	BLL1843	Bradyrhizobium diazoefficiens USDA 110,true
+bioM	SMC00962	Sinorhizobium meliloti 2011,false
+chvA	BLL1321	Bradyrhizobium diazoefficiens USDA 110,true
+chvI	SMC02560	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+clpX	SMC01904	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+cobO	NGR_C18180	Sinorhizobium fredii NGR234,true
+cpdR1	SMC04044	Sinorhizobium meliloti 2011,false
+cpdR2	SMC00720	Sinorhizobium meliloti 2011,false
+dctA	SMB20611	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+dctD	SMB20613	Sinorhizobium meliloti 1021,true	Burkholderia pseudomallei K96243,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+degP1	SMC02365	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+dme	SMC00169	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+dnaJ	RL0151	Rhizobium leguminosarum bv. viciae 3841,false
+emmC	SMB21520	Sinorhizobium meliloti 2011,false
+exoB	BLR7578	Bradyrhizobium diazoefficiens USDA 110,true
+exoB	SMB20942	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoN	BLR1499	Bradyrhizobium diazoefficiens USDA 110,true
+exoN	SMB20960	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoN2	SMC04023	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fabG	SMC00572	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fadD	SMC02162	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+feuP	SMC00458	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+fixA	BLR2038	Bradyrhizobium diazoefficiens USDA 110,true
+fixA	SMA0822	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixC	SMA0817	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixI1	SMA1209	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixI2	SMA0621	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixJ	SMA1227	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixJ	BLL2759	Bradyrhizobium diazoefficiens USDA 110,true
+fixK	BLL6061	Bradyrhizobium diazoefficiens USDA 110,true
+fixK1	SMA1225	Sinorhizobium meliloti 2011,false
+fixK2	SMA0762	Sinorhizobium meliloti 2011,false
+fixR	BLR2036	Bradyrhizobium diazoefficiens USDA 110,true
+fliP	SMC03036	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+glnB	SMC00947	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+glnD	SMC01124	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+glnK	RHE_CH03974	Rhizobium etli CFN 42,false
+gltA	SMC02087	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+glyA	BLL5033	Bradyrhizobium diazoefficiens USDA 110,true
+greA	SMC01218	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+groEL1	SMC00913	Sinorhizobium meliloti 2011,false
+groEL2	SMA0744	Sinorhizobium meliloti 2011,false
+groEL3	SMA0124	Sinorhizobium meliloti 2011,false
+groEL4	SMC01758	Sinorhizobium meliloti 2011,false
+groES1	SMC00912	Sinorhizobium meliloti 2011,false
+groES2	SMA0745	Sinorhizobium meliloti 2011,false
+groES3	SMA0125	Sinorhizobium meliloti 2011,false
+gshB	RHE_CH00322	Rhizobium etli CFN 42,false
+gtrA	SMA0160	Sinorhizobium meliloti 2011,false
+gtrB	SMA0222	Sinorhizobium meliloti 2011,false
+guaB	RHE_CH00794	Rhizobium etli CFN 42,false
+hemA	SMC03104	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+hemH	BLL7752	Bradyrhizobium diazoefficiens USDA 110,true
+hesB	NGR_C13630	Sinorhizobium fredii NGR234,true
+ilvC	SMC04346	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+ilvD2	SMC04045	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+ilvI	SMC01431	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+iolA	SMC00781	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+leuB	SMC04405	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+leuC	SMC03823	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+lon	SMC01905	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+lrp	SMC00681	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+lrpL	LRPL	Sinorhizobium meliloti,true	Sinorhizobium meliloti,true	Rhizobium leguminosarum bv. trifolii,false	Sinorhizobium meliloti SM11,false	Sinorhizobium meliloti,false
+lsrA	SMC00037	Sinorhizobium meliloti 2011,false
+lsrB	SMC01225	Sinorhizobium meliloti 2011,false
+matB	RL0991	Rhizobium leguminosarum bv. viciae 3841,false
+metZ	RHE_CH00522	Rhizobium etli CFN 42,false
+modB	BLR8161	Bradyrhizobium diazoefficiens USDA 110,true
+ndvA	SMC03900	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nifA	BLR2037	Bradyrhizobium diazoefficiens USDA 110,true
+nifA	SMA0815	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nifB	SMA0814	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nifD	SMA0827	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nifE	SMA0830	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nifN	SMA0873	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nifS	BLR1756	Bradyrhizobium diazoefficiens USDA 110,true
+nifS	SMC00529	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+nodD1	SMA0870	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodD1	BLL2023	Bradyrhizobium diazoefficiens USDA 110,true
+nodD2	SMA0757	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodD2	BLL2021	Bradyrhizobium diazoefficiens USDA 110,true
+nodD3	SMA0840	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodE	SMA0853	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodG	SMA0854	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodI	BLR2030	Bradyrhizobium diazoefficiens USDA 110,true
+nodI	SMA0864	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodN	BLR3959	Bradyrhizobium diazoefficiens USDA 110,true
+nodP1	SMA0855	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodP2	SMB21223	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodW	BLL1714	Bradyrhizobium diazoefficiens USDA 110,true	Rhizobium etli CFN 42,false
+ntrC	SMC01043	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+ntrX	SMC01045	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+nwsB	BLR4774	Bradyrhizobium diazoefficiens USDA 110,true	Rhizobium etli CFN 42,false
+otsA	SMA0233	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false	Rhizobium etli CFN 42,false
+pdhAa	SMC01030	Sinorhizobium meliloti 1021,true
+pdhAb	SMC01031	Sinorhizobium meliloti 1021,true
+pdhB	SMC01032	Sinorhizobium meliloti 1021,true	Rhizobium etli CFN 42,false
+phbA	SMC03879	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phbB	SMC03878	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+phbC	SMC00296	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+phoB	SMC02140	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+phoC	SMB21177	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phoU	SMC02141	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+ppiB	SMC01208	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+proC	BLR7454	Bradyrhizobium diazoefficiens USDA 110,true
+psd	SMC00551	Sinorhizobium meliloti 2011,false
+ptsN	RHE_CH00407	Rhizobium etli CFN 42,true	Rhizobium etli CFN 42,false
+purM	SMC00615	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+regR	BLL0904	Bradyrhizobium diazoefficiens USDA 110,true
+relA	SMC02659	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+rhcN	BLR1816	Bradyrhizobium diazoefficiens USDA 110,true
+rhcR	BLR1819	Bradyrhizobium diazoefficiens USDA 110,true
+rkpG	SMC02272	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rkpH	SMC02271	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rkpM	NGR_B09460	Sinorhizobium fredii NGR234,true
+rmrA	RHE_PB00008	Rhizobium etli CFN 42,false
+rpoB	SMC01317	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rpoC	SMC01316	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rpoH1	SMC00646	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rpoH2	SMC03873	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+sdhA	SMC02465	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+sdhB	SMC02466	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+sipF	BLL5062	Bradyrhizobium diazoefficiens USDA 110,true
+sipS	BLL1167	Bradyrhizobium diazoefficiens USDA 110,true
+SMa0719	SMA0719	Sinorhizobium meliloti 1021,true
+SMc00717	SMC00717	Sinorhizobium meliloti 1021,true
+SMc02486	SMC02486	Sinorhizobium meliloti 1021,true
+sodB	SMC00043	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+sucA	SMC02482	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+sucD	SMC02481	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+surE	SMC02063	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+tig	SMC02050	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+tkt2	SMC03978	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+tme	SMC01126	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+trpB	RHE_CH00021	Rhizobium etli CFN 42,true	Rhizobium etli CFN 42,false
+trpD	BLL2049	Bradyrhizobium diazoefficiens USDA 110,true
+trpD	BLR4809	Bradyrhizobium diazoefficiens USDA 110,true
+ttsI	NGR_A00800	Sinorhizobium fredii NGR234,true
+typA	SMC03242	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+virG	RHE_PA00053	Rhizobium etli CFN 42,false
+cycJ	SMC02362	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+cycK	SMC02363	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+cycK	BLR3127	Bradyrhizobium diazoefficiens USDA 110,true
+dctM	SMB21351	Sinorhizobium meliloti 1021,true
+fabI1	SMC00005	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixB	SMA0819	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixB	BLR1773	Bradyrhizobium diazoefficiens USDA 110,true
+fixG	SMA1211	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixN1	SMA1220	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixN2	SMA0765	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixN3	SMA0612	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixO	BLR2764	Bradyrhizobium diazoefficiens USDA 110,true
+fixO1	SMA1216	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixO2	SMA0766	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixO3	SMA0615	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixP1	SMA1213	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixP2	SMA0769	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixP3	SMA0617	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fnrN	FNRN	Agrobacterium fabrum str. C58,true	Rhizobium sp. IRBG74,false	Rhizobium etli bv. mimosae str. Mim1,false	Sinorhizobium fredii HH103,false	Agrobacterium vitis S4,false	Agrobacterium vitis S4,false	Rhizobium leguminosarum bv. viciae 3841,false	Rhizobium etli CFN 42,false
+fnrN	RHE_CH02479	Rhizobium etli CFN 42,false
+gcvP	NGR_C15470	Sinorhizobium fredii NGR234,true
+gcvT	NGR_C15490	Sinorhizobium fredii NGR234,true
+kpsF3	SMC02268	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+kup1	SMC00873	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+minD	SMB21523	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+nifH	SMA0825	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodM	BLR1632	Bradyrhizobium diazoefficiens USDA 110,true
+nodM	SMA0878	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodN	BLL3460	Bradyrhizobium diazoefficiens USDA 110,true
+nodN	SMA0874	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodN2	SMC03927	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nolG	SMA0875	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+ntrB	SMC01042	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+pcm	SMC02062	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phoD	SMB21176	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+prsD	RL3658	Rhizobium leguminosarum bv. viciae 3841,false
+SMc01113	SMC01113	Sinorhizobium meliloti 1021,true
+thiD	SMB20962	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false	Bacteroides fragilis NCTC 9343,false
+acpXL	SMC04278	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+aniA	SMC03880	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+aspA	BLR1326	Bradyrhizobium diazoefficiens USDA 110,true
+bluB	SMC00166	Sinorhizobium meliloti 2011,false
+cycH	SMC02361	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false	Bordetella parapertussis 12822,false
+cysG	SMC01053	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+dctP	SMB21353	Sinorhizobium meliloti 1021,true
+fabI2	SMC00326	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixKf	RHE_PF00508	Rhizobium etli CFN 42,false
+flgH	SMC03034	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+glgA1	SMC03924	bacterial glycogen] synthase) [Sinorhizobium meliloti 2011,false
+glgA2	SMB20704	Sinorhizobium meliloti 2011,false
+katB	SMA2379	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+lpxXL	SMC04268	Sinorhizobium meliloti 2011,false
+mdh	SMC02479	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+metH	SMC03112	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+minE	SMB21522	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+modA	BLR8160	Bradyrhizobium diazoefficiens USDA 110,true
+mucR	SMC00058	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nifK	SMA0829	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+ntrY	SMC01044	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+pckA	SMC02562	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phoR	SMC02147	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+pit	SMC02861	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+pmtA	BLR0681	Bradyrhizobium diazoefficiens USDA 110,true	Rhizobium etli CFN 42,false
+pssB	RL3751	Rhizobium leguminosarum bv. viciae 3841,false
+purL	SMC00488	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rhcC2	BLL1842	Bradyrhizobium diazoefficiens USDA 110,true
+rosR	RHE_CH01249	Rhizobium etli CFN 42,false
+SMc02909	SMC02909	Sinorhizobium meliloti 1021,true
+tlpA	BLL1380	Bradyrhizobium diazoefficiens USDA 110,true
+trpC	BLR4810	Bradyrhizobium diazoefficiens USDA 110,true
+actS	SMC02585	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+exoP	SMB20961	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+feuQ	SMC00129	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+fur	BLL0797	Bradyrhizobium diazoefficiens USDA 110,true
+hfq	SMC01048	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+lpsL	SMC02640	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+lspL	BLR2382	Bradyrhizobium diazoefficiens USDA 110,true
+msbA2	SMB21191	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodC	SMA0866	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phoE	SMB21175	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+pth	SMC02693	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+regS	BLL0905	Bradyrhizobium diazoefficiens USDA 110,true
+rkpK	SMC02641	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false	Bacteroides fragilis NCTC 9343,false
+ropB1	SMC00604	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+thiC	SMB20615	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+ugdH	BLR2383	Bradyrhizobium diazoefficiens USDA 110,true
+ccmC	SMC03849	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+cysN	NGR_C06940	Sinorhizobium fredii NGR234,true
+matA	RL0990	Rhizobium leguminosarum bv. viciae 3841,false
+minC	SMB21524	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodQ	BLL1475	Bradyrhizobium diazoefficiens USDA 110,true
+nodQ1	SMA0857	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodQ2	SMB21224	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nolK	BLL1630	Bradyrhizobium diazoefficiens USDA 110,true
+purB	SMC00508	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rpoN1	BLR1883	Bradyrhizobium diazoefficiens USDA 110,true
+rpoN2	BLR0723	Bradyrhizobium diazoefficiens USDA 110,true
+tep1	SMC02161	Sinorhizobium meliloti 2011,false
+trpE	SMC02725	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoR	SMC02078	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false	Rhizobium etli CFN 42,false
+fixL	SMA1229	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+leuD	SMC03795	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nifQ	NGR_A01190	Sinorhizobium fredii NGR234,true
+noeJ	RHE_CH03244	Rhizobium etli CFN 42,false
+thiO	SMB20616	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+tolC	SMC02082	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixL	BLL2760	Bradyrhizobium diazoefficiens USDA 110,true
+nex18	SMA1077	Sinorhizobium meliloti,true	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Sinorhizobium meliloti,false
+nodA	SMA0869	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+pstC	SMC02144	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+queA	SMC01207	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+lpsB	SMC01219	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+noeL	NGR_A00410	Sinorhizobium fredii NGR234,true
+putA	SMC02181	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rhcV	BLL1800	Bradyrhizobium diazoefficiens USDA 110,true
+sinR	SMC00170	Sinorhizobium meliloti 2011,false
+syrM	SMA0849	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nfeD	SMB20990	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+nolO	BLR2034	Bradyrhizobium diazoefficiens USDA 110,true
+nodB	BLR2026	Bradyrhizobium diazoefficiens USDA 110,true
+nodL	SMA0772	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+asnO	SMB20481	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+cycL	RHE_CH01292	Rhizobium etli CFN 42,false
+cycL	BLR3128	Bradyrhizobium diazoefficiens USDA 110,true
+cycL	SMC02364	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+nifW	RHE_PD00223	Rhizobium etli CFN 42,false
+nirK	BLR7089	Bradyrhizobium diazoefficiens USDA 110,true
+sinI	SMC00168	Sinorhizobium meliloti 2011,false
+exoI2	SMB21662	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoM	SMB20958	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoU	BLR7573	Bradyrhizobium diazoefficiens USDA 110,true	Rhizobium etli CFN 42,false
+nodA	BLR2025	Bradyrhizobium diazoefficiens USDA 110,true
+rhcJ	BLR1813	Bradyrhizobium diazoefficiens USDA 110,true
+gcd	SMC00110	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+nesR	SMC04032	Sinorhizobium meliloti 2011,false
+nodB	SMA0868	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rhcC1	BLL1811	Bradyrhizobium diazoefficiens USDA 110,true
+rhcQ	BLR1818	Bradyrhizobium diazoefficiens USDA 110,true
+exoI	SMB20951	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoM	BLL7574	Bradyrhizobium diazoefficiens USDA 110,true
+nodZ	BLR2035	Bradyrhizobium diazoefficiens USDA 110,true
+norC	SMA1276	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+exoZ	SMB20943	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+virB11	VIRB11	Agrobacterium fabrum str. C58,true	Agrobacterium tumefaciens,true	Rhizobium etli CFN 42,true	Ehrlichia ruminantium str. Welgevonden,true	Rickettsia japonica YH,true	Wolbachia endosymbiont of Drosophila simulans wNo,true	Wolbachia endosymbiont of Drosophila melanogaster,true	Taylorella equigenitalis ATCC 35865,true	Xanthomonas campestris pv. campestris,true	Bartonella quintana str. Toulouse,true	Bartonella quintana str. Toulouse,true	Rahnella aquatilis HX2,true	Kosakonia sacchari SP1,true	Stenotrophomonas maltophilia K279a,true	Vibrio campbellii ATCC BAA-1116,true	Ochrobactrum anthropi ATCC 49188,true	Ochrobactrum anthropi ATCC 49188,true	Paraburkholderia xenovorans LB400,true	Paraburkholderia xenovorans LB400,true	Paraburkholderia xenovorans LB400,true	Sinorhizobium fredii HH103,true	Sinorhizobium fredii HH103,true	Rhizobium leguminosarum bv. trifolii WSM2304,true	Agrobacterium vitis S4,true	Agrobacterium vitis S4,true	Sinorhizobium fredii HH103,true	Rhizobium etli CFN 42,true	Sphingobium chlorophenolicum L-1,true	Sphingobium chlorophenolicum L-1,true	Acetobacter senegalensis,true	Dickeya zeae Ech586,true	Dickeya zeae Ech586,true	Wolbachia endosymbiont wPip_Mol of Culex molestus,true	Rhizobium giardinii bv. giardinii H152,true	Sphingobium yanoikuyae ATCC 51230,true	Sphingobium yanoikuyae ATCC 51230,true	Paraburkholderia phymatum STM815,true	Afipia broomeae ATCC 49717,true	Bradyrhizobium elkanii USDA 76,true	Bradyrhizobium elkanii USDA 76,true	Methylobacterium radiotolerans JCM 2831,true	Campylobacter jejuni subsp. jejuni 81-176,true	Sinorhizobium meliloti 1021,true	Sinorhizobium fredii NGR234,true	Pseudomonas putida,true	Salmonella enterica subsp. enterica serovar Heidelberg str. SARA30,true	Klebsiella pneumoniae,true	Acinetobacter bereziniae,true	Klebsiella pneumoniae,true	Aeromonas hydrophila,true	Escherichia coli,true	Klebsiella pneumoniae,true	Listeria grayi,true	Pseudomonas syringae pv. maculicola,true	Aeromonas caviae,true	Erwinia amylovora,true	Pseudomonas savastanoi,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Escherichia coli,true	Escherichia coli,true	Escherichia coli,true	Escherichia coli,true	Sinorhizobium meliloti,true	Lonsdalea quercina subsp. quercina,true	Legionella pneumophila subsp. pneumophila str. Philadelphia 1,true	Pararhizobium polonicum,true	Rhizobium mesoamericanum STM3625,true	Xanthomonas campestris pv. campestris str. ATCC 33913,true	Photobacterium damselae subsp. damselae,true	Photobacterium damselae subsp. damselae,true	Kingella kingae Vir5453,true	Xanthomonas citri pv. vignicola,true	Xanthomonas citri pv. vignicola,true	Stenotrophomonas rhizophila,true	Caballeronia sordidicola,true	Acinetobacter schindleri,true	Caulobacter henricii,true	Bradyrhizobium elkanii USDA 76,true	Variovorax paradoxus 110B,true	Acinetobacter lwoffii,true	Klebsiella pneumoniae,true	Pseudomonas fluorescens R124,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Agrobacterium tumefaciens,true	Xanthomonas citri,true	Helicobacter pylori J99,false	Helicobacter pylori J99,false	Collimonas fungivorans Ter331,true	Pseudomonas syringae pv. syringae,true	uncultured bacterium,false	uncultured bacterium,false	Brucella ceti TE28753-12,false	Brucella ceti TE10759-12,false	Xanthomonas fuscans subsp. fuscans,false	Rhizobium etli bv. mimosae str. Mim1,false	Pseudomonas fluorescens A506,false	Helicobacter pylori OK310,false	Helicobacter pylori OK310,false	Helicobacter cinaedi ATCC BAA-847,false	Xanthomonas citri subsp. citri Aw12879,false	Helicobacter pylori OK113,false	Helicobacter pylori OK113,false	Sinorhizobium meliloti 2011,false	Bartonella vinsonii subsp. berkhoffii str. Winnie,false	Ralstonia solanacearum CMR15,false	Sinorhizobium meliloti Rm41,false	Phaeobacter gallaeciensis DSM 17395 = CIP 105210,false	Sinorhizobium fredii USDA 257,false	Sinorhizobium fredii USDA 257,false	Helicobacter pylori 51,false	Helicobacter pylori 51,false	Helicobacter pylori 51,false	Stenotrophomonas maltophilia D457,false	Rickettsia prowazekii str. Rp22,false	Oligotropha carboxidovorans OM4,false	Helicobacter pylori F16,false	Helicobacter pylori F16,false	Helicobacter pylori F57,false	Helicobacter pylori F57,false	Helicobacter pylori F57,false	Helicobacter pylori F32,false	Helicobacter pylori F32,false	Helicobacter pylori F30,false	Helicobacter pylori F30,false	Sinorhizobium meliloti SM11,false	Sinorhizobium meliloti SM11,false	Xanthomonas campestris pv. raphani 756C,false	Rickettsia slovaca 13-B,false	Burkholderia sp. YI23,false	Burkholderia sp. YI23,false	Rickettsia japonica YH,false	Sphingobium sp. SYK-6,false	Brucella pinnipedialis B2/94,false	Sulfobacillus acidophilus TPY,false	Candidatus Midichloria mitochondrii IricVA,false	Oligotropha carboxidovorans OM5,false	Acidiphilium multivorum AIU301,false	Acidiphilium multivorum AIU301,false	Bartonella clarridgeiae 73,false	Helicobacter pylori B8,false	Helicobacter pylori B8,false	Helicobacter pylori B8,false	Helicobacter pylori B8,false	Legionella pneumophila 2300/99 Alcoy,false	Sphingobium japonicum UT26S,false	Anaplasma centrale str. Israel,false	Cronobacter turicensis z3032,false	Brucella microti CCM 4915,false	Bartonella grahamii as4aup,false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044,false	Rickettsia africae ESF-5,false	Agrobacterium vitis S4,false	Helicobacter pylori P12,false	Helicobacter pylori P12,false	Helicobacter pylori P12,false	Helicobacter pylori P12,false	Klebsiella pneumoniae 342,false	Phenylobacterium zucineum HLK1,false	Rhizobium etli CIAT 652,false	Rhizobium etli CIAT 652,false	Orientia tsutsugamushi str. Ikeda,false	Xanthomonas campestris pv. campestris str. B100,false	Rickettsia rickettsii str. Iowa,false	Bartonella tribocorum CIP 105476,false	Bordetella petrii DSM 12804,false	Rickettsia massiliae MTU5,false	Orientia tsutsugamushi str. Boryong,false	Brucella ovis ATCC 25840,false	Legionella pneumophila str. Corby,false	Methylibium petroleiphilum PM1,false	Roseobacter denitrificans OCh 114,false	uncultured bacterium,false	Helicobacter acinonychis str. Sheeba,false	Rickettsia bellii RML369-C,false	Neorickettsia sennetsu str. Miyayama,false	Ehrlichia chaffeensis str. Arkansas,false	Rhizobium etli CFN 42,false	Xanthomonas campestris pv. vesicatoria str. 85-10,false	Rickettsia felis URRWXCal2,false	Ehrlichia ruminantium str. Gardel,false	Ehrlichia ruminantium str. Welgevonden,false	Ehrlichia ruminantium str. Welgevonden,false	Anaplasma marginale str. St. Maries,false	Haloarcula marismortui ATCC 43049,false	Legionella pneumophila subsp. pneumophila str. Philadelphia 1,false	Rickettsia typhi str. Wilmington,false	Bartonella quintana str. Toulouse,false	Bartonella henselae str. Houston-1,false	Pseudomonas syringae pv. maculicola,false	Yersinia pestis biovar Microtus str. 91001,false	Xanthomonas axonopodis pv. citri str. 306,false	Xanthomonas axonopodis pv. citri str. 306,false	Agrobacterium tumefaciens str. C58,false
+fixU	SMA0810	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixX	SMA0816	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+hmrR	SMA1014	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+oac2	AZC_1832	Azorhizobium caulinodans ORS 571,false
+thuB	SMB20330	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false	Rhizobium etli CFN 42,false
+dctQ	SMB21352	Sinorhizobium meliloti 1021,true
+exoY	SMB20946	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+mcpC	MCPC	Bacillus subtilis subsp. subtilis str. 168,true	Agrobacterium fabrum str. C58,true	[Bacillus thuringiensis] serovar konkukian str. 97-27,true	Paenibacillus larvae subsp. larvae DSM 25430,false	Paenibacillus larvae subsp. larvae DSM 25430,false	Clostridium saccharobutylicum DSM 13864,false	Clostridium saccharobutylicum DSM 13864,false	Clostridium saccharobutylicum DSM 13864,false	Clostridium saccharobutylicum DSM 13864,false	Clostridium saccharobutylicum DSM 13864,false	Rhizobium sp. IRBG74,false	Bacillus amyloliquefaciens subsp. plantarum UCMB5113,false	Bacillus amyloliquefaciens subsp. plantarum UCMB5033,false	Bacillus licheniformis 9945A,false	Paenibacillus polymyxa M1,false	Pseudomonas protegens CHA0,false	Pseudomonas protegens CHA0,false	Bacillus subtilis subsp. subtilis 6051-HGW,false	Bacillus amyloliquefaciens subsp. plantarum UCMB5036,false	Clostridium saccharoperbutylacetonicum N1-4(HMT),false	Clostridium saccharoperbutylacetonicum N1-4(HMT),false	Bacillus subtilis XF-1,false	Geobacillus sp. GHH01,false	Clostridium stercorarium subsp. stercorarium DSM 8532,false	Clostridium stercorarium subsp. stercorarium DSM 8532,false	Clostridium stercorarium subsp. stercorarium DSM 8532,false	Bacillus subtilis BEST7613,false	Bacillus subtilis subsp. natto BEST195,false	Bacillus thuringiensis Bt407,false	Bacillus thuringiensis Bt407,false	Clostridium acidurici 9a,false	Bacillus subtilis QB928,false	Bacillus amyloliquefaciens Y2,false	Bacillus amyloliquefaciens subsp. plantarum YAU B9601-Y2,false	Bacillus amyloliquefaciens LL3,false	Bacillus amyloliquefaciens XH7,false	Brachyspira intermedia PWS/A,false	Bacillus amyloliquefaciens TA208,false	Bacillus megaterium WSH-002,false	Sinorhizobium fredii GR64,false	Clostridium acetobutylicum DSM 1731,false	Agrobacterium sp. H13-3,false	Bacillus subtilis subsp. spizizenii str. W23,false	Butyrivibrio proteoclasticus B316,false	Bacillus cereus biovar anthracis str. CI,false	Rhodobacter capsulatus SB 1003,false	Brachyspira hyodysenteriae WA1,false	Brachyspira hyodysenteriae WA1,false	Brachyspira hyodysenteriae WA1,false	Agrobacterium vitis S4,false	Agrobacterium vitis S4,false	Agrobacterium vitis S4,false	Agrobacterium vitis S4,false	Agrobacterium vitis S4,false	Agrobacterium vitis S4,false	Bacillus cereus Q1,false	Agrobacterium vitis S4,false	Agrobacterium vitis S4,false	Agrobacterium vitis S4,false	Bacillus amyloliquefaciens FZB42,false	Bacillus thuringiensis str. Al Hakam,false	Rhizobium etli CFN 42,false	Bacillus licheniformis DSM 13 = ATCC 14580,false	Bacillus cereus E33L,false	Bacillus halodurans C-125,false
+nodJ	SMA0863	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+pssA	RL3752	Rhizobium leguminosarum bv. viciae 3841,false
+dctB	SMB20612	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+katA	SMC00819	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nodT	RHECIAT_CH0003657	Rhizobium etli CIAT 652,false
+nodV	BLL1715	Bradyrhizobium diazoefficiens USDA 110,true
+exoT	BLR7577	Bradyrhizobium diazoefficiens USDA 110,true
+nifX	BLR1747	Bradyrhizobium diazoefficiens USDA 110,true
+nodU	BLR2029	Bradyrhizobium diazoefficiens USDA 110,true
+nolU	BLR1814	Bradyrhizobium diazoefficiens USDA 110,true
+nwsA	BLR4773	Bradyrhizobium diazoefficiens USDA 110,true
+stcD2	SMB21570	Sinorhizobium meliloti 1021,true
+bcpB	BLL5069	Bradyrhizobium diazoefficiens USDA 110,true
+matP	SMA0157	Sinorhizobium meliloti 2011,false
+nifX	SMA0831	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rhaK	PRL110408	Rhizobium leguminosarum bv. viciae 3841,false
+arcA	RHECIAT_CH0000128	Rhizobium etli CIAT 652,false
+iolD	NGR_C25970	Sinorhizobium fredii NGR234,true
+iolE	SMC00433	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+ndvC	BLL4612	Bradyrhizobium diazoefficiens USDA 110,true
+olsA	SMC01116	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+olsB	SMC01127	Sinorhizobium meliloti 2011,false
+rkpU	SMC02274	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+ddhB	SMB21417	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fdxN	SMA0811	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixH	SMA1210	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+frxA	BSR1760	Bradyrhizobium diazoefficiens USDA 110,true
+hypD	AZC_0611	Azorhizobium caulinodans ORS 571,false
+idhA	SMB20899	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+metA	SMC03797	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+pgi	NGR_C01170	Sinorhizobium fredii NGR234,true
+phaA2	PHAA2	Sinorhizobium meliloti 1021,true	Octadecabacter antarcticus 307,false	Octadecabacter arcticus 238,false	Sinorhizobium meliloti 2011,false	Rhizobium tropici CIAT 899,false	Sinorhizobium meliloti Rm41,false	Sinorhizobium meliloti SM11,false	Cupriavidus necator N-1,false
+fixS1	SMA1208	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+hypE	AZC_0612	Azorhizobium caulinodans ORS 571,false
+iolC	NGR_C25980	Sinorhizobium fredii NGR234,true
+leuA1	SMC02717	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+mcpB	RL4033	Rhizobium leguminosarum bv. viciae 3841,false
+mrtR	MRTR	Agrobacterium tumefaciens,true
+nodS	BLR2028	Bradyrhizobium diazoefficiens USDA 110,true
+nolV	BLR1815	Bradyrhizobium diazoefficiens USDA 110,true
+pgm	SMC03925	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+pyc	SMC03895	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+visR	VISR	Sinorhizobium meliloti 2011,false	Sinorhizobium meliloti SM11,false	Agrobacterium sp. H13-3,false
+exoF1	SMB20945	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoF2	SMB21073	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+hemB	BLR5037	Bradyrhizobium diazoefficiens USDA 110,true
+phaA1	SMC03179	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phaA2	SMC00051	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phaC1	SMC03180	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phaC2	SMC00053	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+pyrE	SMC02165	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rtxC	RTXC	Bradyrhizobium diazoefficiens USDA 110,true	Vibrio vulnificus,true	Vibrio vulnificus,true	Aeromonas hydrophila subsp. hydrophila ATCC 7966,true	Vibrio nigripulchritudo,true	Photorhabdus asymbiotica,false	Cupriavidus necator N-1,false	Vibrio cholerae AM-19226,false	Vibrio cholerae RC385,false	Vibrio cholerae MO10,false	Cupriavidus taiwanensis LMG 19424,false	Photorhabdus luminescens subsp. laumondii TTO1,false
+visR	SMC03016	Sinorhizobium meliloti 2011,false
+bacA	SMB20999	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+emmB	SMB21519	Sinorhizobium meliloti 2011,false
+exoZ	BLR2369	Bradyrhizobium diazoefficiens USDA 110,true
+ndvB	SMC04382	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+syrB2	SMA1586	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+thuA	SMB20329	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false	Rhizobium etli CFN 42,false
+virB9	VIRB9	Agrobacterium tumefaciens,true	Agrobacterium fabrum str. C58,true	Rhizobium etli CFN 42,true	Ehrlichia ruminantium str. Welgevonden,true	Ehrlichia ruminantium str. Welgevonden,true	Rickettsia japonica YH,true	Wolbachia endosymbiont of Drosophila simulans wNo,true	Wolbachia endosymbiont of Drosophila melanogaster,true	Wolbachia endosymbiont of Drosophila melanogaster,true	Taylorella equigenitalis ATCC 35865,true	Bartonella quintana str. Toulouse,true	Bartonella quintana str. Toulouse,true	Rahnella aquatilis HX2,true	Kosakonia sacchari SP1,true	Ochrobactrum anthropi ATCC 49188,true	Sinorhizobium fredii HH103,true	Sinorhizobium fredii HH103,true	Rhizobium mesoamericanum STM3625,true	Agrobacterium vitis S4,true	Sinorhizobium fredii HH103,true	Rhizobium etli CFN 42,true	Sphingobium chlorophenolicum L-1,true	Dickeya zeae Ech586,true	Wolbachia endosymbiont wPip_Mol of Culex molestus,true	Wolbachia endosymbiont wPip_Mol of Culex molestus,true	Rhizobium giardinii bv. giardinii H152,true	Afipia broomeae ATCC 49717,true	Bradyrhizobium elkanii USDA 76,true	Methylobacterium radiotolerans JCM 2831,true	Xanthomonas citri,true	Campylobacter jejuni subsp. jejuni 81-176,true	Acinetobacter lwoffii,true	Sinorhizobium fredii NGR234,true	Pseudomonas putida,true	Salmonella enterica subsp. enterica serovar Heidelberg str. SARA30,true	Klebsiella pneumoniae,true	Collimonas fungivorans Ter331,true	Acinetobacter bereziniae,true	Klebsiella pneumoniae,true	Aeromonas hydrophila,true	Escherichia coli,true	Moraxella bovis Epp63,true	Pseudomonas syringae pv. syringae,true	Klebsiella pneumoniae,true	Agrobacterium tumefaciens,true	Pseudomonas syringae pv. maculicola,true	Aeromonas caviae,true	Erwinia amylovora,true	Escherichia coli,true	Pseudomonas savastanoi,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Escherichia coli,true	Escherichia coli,true	Escherichia coli,true	Sinorhizobium meliloti,true	Wolbachia endosymbiont of Drosophila simulans wNo,true	Sinorhizobium meliloti 1021,true	Lonsdalea quercina subsp. quercina,true	Legionella pneumophila subsp. pneumophila str. Philadelphia 1,true	Pararhizobium polonicum,true	Xanthomonas campestris pv. campestris str. ATCC 33913,true	Photobacterium damselae subsp. damselae,true	Xanthomonas citri pv. vignicola,true	Dickeya zeae Ech586,true	Sphingobium yanoikuyae ATCC 51230,true	Klebsiella pneumoniae,true	Pseudomonas fluorescens R124,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	uncultured bacterium,false	uncultured bacterium,false	Xanthomonas fuscans subsp. fuscans,false	Rhizobium etli bv. mimosae str. Mim1,false	Legionella pneumophila subsp. pneumophila str. Thunder Bay,false	Octadecabacter arcticus 238,false	Xanthomonas citri subsp. citri Aw12879,false	Sinorhizobium meliloti 2011,false	Bartonella vinsonii subsp. berkhoffii str. Winnie,false	Ralstonia solanacearum CMR15,false	Sinorhizobium meliloti Rm41,false	Phaeobacter gallaeciensis DSM 17395 = CIP 105210,false	Sinorhizobium fredii USDA 257,false	Sinorhizobium fredii USDA 257,false	Helicobacter pylori XZ274,false	Stenotrophomonas maltophilia D457,false	Rickettsia prowazekii str. Rp22,false	Rickettsia prowazekii str. Rp22,false	Oligotropha carboxidovorans OM4,false	Helicobacter pylori F57,false	Sinorhizobium meliloti SM11,false	Sinorhizobium meliloti SM11,false	Campylobacter jejuni subsp. jejuni IA3902,false	Rickettsia slovaca 13-B,false	Rickettsia slovaca 13-B,false	Burkholderia sp. YI23,false	Burkholderia sp. YI23,false	Rickettsia japonica YH,false	Rickettsia japonica YH,false	Sphingobium sp. SYK-6,false	Xanthomonas axonopodis pv. citrumelo F1,false	Brucella pinnipedialis B2/94,false	Candidatus Midichloria mitochondrii IricVA,false	Oligotropha carboxidovorans OM5,false	Acidiphilium multivorum AIU301,false	Acidiphilium multivorum AIU301,false	Bartonella clarridgeiae 73,false	Bartonella clarridgeiae 73,false	Bartonella clarridgeiae 73,false	Helicobacter pylori B8,false	Helicobacter pylori B8,false	Thiomonas sp. 3As,false	Sphingobium japonicum UT26S,false	Sphingobium japonicum UT26S,false	Anaplasma centrale str. Israel,false	Brucella microti CCM 4915,false	Neorickettsia risticii str. Illinois,false	Bartonella grahamii as4aup,false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044,false	Rickettsia africae ESF-5,false	Rickettsia africae ESF-5,false	Agrobacterium vitis S4,false	Helicobacter pylori P12,false	Helicobacter pylori P12,false	Klebsiella pneumoniae 342,false	Phenylobacterium zucineum HLK1,false	Phenylobacterium zucineum HLK1,false	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633,false	Rhizobium etli CIAT 652,false	Rhizobium etli CIAT 652,false	Wolbachia endosymbiont of Culex quinquefasciatus Pel,false	Orientia tsutsugamushi str. Ikeda,false	Rickettsia rickettsii str. Iowa,false	Rickettsia rickettsii str. Iowa,false	Bartonella tribocorum CIP 105476,false	Bordetella petrii DSM 12804,false	Rickettsia massiliae MTU5,false	Rickettsia massiliae MTU5,false	Orientia tsutsugamushi str. Boryong,false	Orientia tsutsugamushi str. Boryong,false	Brucella ovis ATCC 25840,false	Methylibium petroleiphilum PM1,false	uncultured bacterium,false	Rickettsia bellii RML369-C,false	Rickettsia bellii RML369-C,false	Neorickettsia sennetsu str. Miyayama,false	Neorickettsia sennetsu str. Miyayama,false	Ehrlichia chaffeensis str. Arkansas,false	Ehrlichia chaffeensis str. Arkansas,false	Rhizobium etli CFN 42,false	Xanthomonas campestris pv. vesicatoria str. 85-10,false	Xanthomonas campestris pv. vesicatoria str. 85-10,false	Rickettsia felis URRWXCal2,false	Rickettsia felis URRWXCal2,false	Ehrlichia ruminantium str. Welgevonden,false	Anaplasma marginale str. St. Maries,false	Legionella pneumophila subsp. pneumophila str. Philadelphia 1,false	Rickettsia typhi str. Wilmington,false	Bartonella quintana str. Toulouse,false	Bartonella henselae str. Houston-1,false	Pseudomonas syringae pv. maculicola,false	Yersinia pestis biovar Microtus str. 91001,false	Xanthomonas axonopodis pv. citri str. 306,false	Xanthomonas axonopodis pv. citri str. 306,false
+visN	VISN	Sinorhizobium meliloti 2011,false	Sinorhizobium meliloti Rm41,false	Sinorhizobium meliloti SM11,false	Agrobacterium sp. H13-3,false
+fixQ1	SMA1214	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixQ2	SMA0767	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+hupL	AZC_0599	Azorhizobium caulinodans ORS 571,false
+phaD2	PHAD2	Sinorhizobium meliloti 1021,true	Pseudomonas protegens CHA0,false	Sinorhizobium meliloti 2011,false	Rhizobium tropici CIAT 899,false	Pseudomonas sp. UW4,false	Sinorhizobium meliloti Rm41,false	Sinorhizobium meliloti SM11,false
+phaE1	SMC03182	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phaF1	SMC03183	Sinorhizobium meliloti 2011,false
+phaG1	SMC03184	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phoT	SMB21174	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+ropA	PRL110375	Rhizobium leguminosarum bv. viciae 3841,false
+sodC	SMC02597	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium etli CFN 42,false
+virB10	VIRB10	Agrobacterium tumefaciens,true	Agrobacterium fabrum str. C58,true	Campylobacter jejuni subsp. jejuni 81-176,true	Sinorhizobium fredii NGR234,true	Pseudomonas putida,true	Salmonella enterica subsp. enterica serovar Heidelberg str. SARA30,true	Klebsiella pneumoniae,true	Collimonas fungivorans Ter331,true	Acinetobacter bereziniae,true	Klebsiella pneumoniae,true	Aeromonas hydrophila,true	Escherichia coli,true	Pseudomonas syringae pv. syringae,true	Klebsiella pneumoniae,true	Pseudomonas syringae pv. maculicola,true	Aeromonas caviae,true	Erwinia amylovora,true	Escherichia coli,true	Pseudomonas savastanoi,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Escherichia coli,true	Escherichia coli,true	Escherichia coli,true	Sinorhizobium meliloti,true	Sinorhizobium meliloti 1021,true	Xanthomonas campestris pv. campestris str. ATCC 33913,true	Acinetobacter lwoffii,true	Klebsiella pneumoniae,true	Pseudomonas fluorescens R124,true	Salmonella enterica subsp. enterica serovar Heidelberg,true	Agrobacterium tumefaciens,true	Xanthomonas citri,true	uncultured bacterium,false	uncultured bacterium,false	Xanthomonas fuscans subsp. fuscans,false	Rhizobium etli bv. mimosae str. Mim1,false	Xanthomonas citri subsp. citri Aw12879,false	Xanthomonas citri subsp. citri Aw12879,false	Sinorhizobium meliloti 2011,false	Bartonella vinsonii subsp. berkhoffii str. Winnie,false	Ralstonia solanacearum CMR15,false	Sinorhizobium meliloti Rm41,false	Phaeobacter gallaeciensis DSM 17395 = CIP 105210,false	Sinorhizobium fredii USDA 257,false	Sinorhizobium fredii USDA 257,false	Helicobacter pylori 51,false	Ralstonia solanacearum Po82,false	Rickettsia prowazekii str. Rp22,false	Oligotropha carboxidovorans OM4,false	Helicobacter pylori 2018,false	Sinorhizobium meliloti SM11,false	Sinorhizobium meliloti SM11,false	Campylobacter jejuni subsp. jejuni IA3902,false	Rickettsia slovaca 13-B,false	Burkholderia sp. YI23,false	Burkholderia sp. YI23,false	Rickettsia japonica YH,false	Sphingobium sp. SYK-6,false	Brucella pinnipedialis B2/94,false	Candidatus Midichloria mitochondrii IricVA,false	Oligotropha carboxidovorans OM5,false	Acidiphilium multivorum AIU301,false	Acidiphilium multivorum AIU301,false	Bartonella clarridgeiae 73,false	Bartonella clarridgeiae 73,false	Bartonella clarridgeiae 73,false	Helicobacter pylori B8,false	Helicobacter pylori B8,false	Thiomonas sp. 3As,false	Sphingobium japonicum UT26S,false	Sphingobium japonicum UT26S,false	Anaplasma centrale str. Israel,false	Brucella microti CCM 4915,false	Bartonella grahamii as4aup,false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044,false	Rickettsia africae ESF-5,false	Agrobacterium vitis S4,false	Helicobacter pylori P12,false	Helicobacter pylori P12,false	Phenylobacterium zucineum HLK1,false	Phenylobacterium zucineum HLK1,false	Rhizobium etli CIAT 652,false	Rhizobium etli CIAT 652,false	Methylacidiphilum infernorum V4,false	Orientia tsutsugamushi str. Ikeda,false	Xanthomonas campestris pv. campestris str. B100,false	Rickettsia rickettsii str. Iowa,false	Bartonella tribocorum CIP 105476,false	Bordetella petrii DSM 12804,false	Rickettsia massiliae MTU5,false	Orientia tsutsugamushi str. Boryong,false	Methylibium petroleiphilum PM1,false	uncultured bacterium,false	Rickettsia bellii RML369-C,false	Neorickettsia sennetsu str. Miyayama,false	Ehrlichia chaffeensis str. Arkansas,false	Rhizobium etli CFN 42,false	Xanthomonas campestris pv. vesicatoria str. 85-10,false	Rickettsia felis URRWXCal2,false	Ehrlichia ruminantium str. Gardel,false	Ehrlichia ruminantium str. Welgevonden,false	Ehrlichia ruminantium str. Welgevonden,false	Anaplasma marginale str. St. Maries,false	Rickettsia typhi str. Wilmington,false	Bartonella quintana str. Toulouse,false	Bartonella henselae str. Houston-1,false	Pseudomonas syringae pv. maculicola,false	Yersinia pestis biovar Microtus str. 91001,false	Xanthomonas axonopodis pv. citri str. 306,false	Xanthomonas axonopodis pv. citri str. 306,false	Agrobacterium tumefaciens str. C58,false
+exoA	SMB20957	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+gstI	GSTI	Rhizobium etli bv. mimosae str. Mim1,false	Sinorhizobium meliloti 2011,false	Sinorhizobium meliloti SM11,false	Sinorhizobium fredii HH103,false	Ralstonia solanacearum IPO1609,false	Rhizobium etli CIAT 652,false	Cupriavidus metallidurans CH34,false	Rhizobium etli CFN 42,false
+hupT	AZC_0594	Azorhizobium caulinodans ORS 571,false
+lpiA	LPIA	Agrobacterium fabrum str. C58,true	Rhizobium tropici CIAT 899,false	Stenotrophomonas maltophilia D457,false	Agrobacterium sp. H13-3,false	Agrobacterium vitis S4,false	Agrobacterium radiobacter K84,false
+lpsC	SMC01222	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+noeK	NGR_A00390	Sinorhizobium fredii NGR234,true
+nolA	BLL2019	Bradyrhizobium diazoefficiens USDA 110,true
+phaD2	SMC00054	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phaG2	SMC00057	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+atvA	RHE_CH03485	Rhizobium etli CFN 42,false
+exoK	SMB20955	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoL	SMB20956	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoO	SMB20959	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoQ	SMB20944	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium leguminosarum bv. viciae 3841,false	Rhizobium etli CFN 42,false
+exoU	SMB20948	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phaB2	SMC00052	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phaD1	SMC03181	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phaE2	SMC00055	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rkpJ	SMC02269	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+syrB	SMA1698	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+cbrA	SMC00776	Sinorhizobium meliloti 2011,false
+exoX	SMB20947	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixQ3	SMA0616	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+	AZC_0607	Azorhizobium caulinodans ORS 571,false
+hypB	AZC_0608	Azorhizobium caulinodans ORS 571,false
+noeC	AZC_3810	Azorhizobium caulinodans ORS 571,false
+ntrR1	SMC01521	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phaF2	PHAF2	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false	Rhizobium tropici CIAT 899,false	Pseudomonas sp. UW4,false	Sinorhizobium meliloti Rm41,false	Marinobacter sp. BSs20148,false	Sinorhizobium meliloti SM11,false
+rkpA	SMC02273	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rkpZ1	SMB20834	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+bioS	SMC02061	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoD	SMC00353	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+lpsD	SMC01221	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+lpsE	SMC01220	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+lpsS	SMC04267	Sinorhizobium meliloti 2011,false
+matC	RL0992	Rhizobium leguminosarum bv. viciae 3841,false
+ndvB	BLR4614	Bradyrhizobium diazoefficiens USDA 110,true
+pdh	SMB20020	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+phaF2	SMC00056	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rkpI	SMC02270	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rkpZ2	SMB20823	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoF3	SMB21245	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+hupH	AZC_0604	Azorhizobium caulinodans ORS 571,false
+hypF	AZC_0597	Azorhizobium caulinodans ORS 571,false
+matQ	SMA0155	Sinorhizobium meliloti 2011,false
+nfeC	BLL2067	Bradyrhizobium diazoefficiens USDA 110,true
+celB	RHE_CH01543	Rhizobium etli CFN 42,false
+fixS2	SMA0622	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nolN	BLR2033	Bradyrhizobium diazoefficiens USDA 110,true
+nosR	BLR0314	Bradyrhizobium diazoefficiens USDA 110,true
+nosZ	BLR0315	Bradyrhizobium diazoefficiens USDA 110,true
+rkpN	NGR_B09470	Sinorhizobium fredii NGR234,true
+exoP2	SMB21070	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+noeA	SMA0773	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nolF	SMA0876	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+arcC	RHECIAT_CH0000126	Rhizobium etli CIAT 652,false
+exoV	SMB20949	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+hupI	HUPI	Bradyrhizobium diazoefficiens USDA 110,true	Rhizobium etli bv. mimosae str. Mim1,false	Bradyrhizobium oligotrophicum S58,false	Rubrivivax gelatinosus IL144,false	Bradyrhizobium sp. BTAi1,false	Bradyrhizobium sp. ORS 278,false	Azoarcus sp. BH72,false	Rhodopseudomonas palustris CGA009,false
+kdsB2	SM_B20803	Sinorhizobium meliloti 1021,true
+nodF	SMA0852	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rtxA	RTXA	Vibrio vulnificus,true	Vibrio vulnificus,true	Legionella pneumophila subsp. pneumophila str. Thunder Bay,false	Legionella pneumophila subsp. pneumophila str. Thunder Bay,false	Photorhabdus asymbiotica,false	Legionella pneumophila subsp. pneumophila,false	Legionella pneumophila subsp. pneumophila,false	Vibrio cholerae O1 str. 2010EL-1786,false	Cupriavidus necator N-1,false	Xenorhabdus nematophila ATCC 19061,false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Candidatus Hamiltonella defensa 5AT (Acyrthosiphon pisum),false	Vibrio cholerae O395,false	Vibrio cholerae M66-2,false	Vibrio cholerae V51,false	Cyanobium sp. PCC 7001,false	Vibrio cholerae AM-19226,false	Vibrio cholerae MO10,false	Cupriavidus taiwanensis LMG 19424,false	Psychromonas ingrahamii 37,false	Legionella pneumophila str. Paris,false	Legionella pneumophila str. Lens,false	Candidatus Protochlamydia amoebophila UWE25,false
+nodH	SMA0851	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+nolB	BLR1812	Bradyrhizobium diazoefficiens USDA 110,true
+ntrP	SMC03949	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixT1	SMA1226	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixT2	SMA0760	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+bsl1845	BSL1845	Bradyrhizobium diazoefficiens USDA 110,true
+emmA	SMB21521	Sinorhizobium meliloti 2011,false
+exoH	SMB20954	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoT	SMB20950	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+exoW	SMB21690	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+fixT3	SMC03254	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+hupJ	AZC_0605	Azorhizobium caulinodans ORS 571,false
+nodO	PRL100175	Rhizobium leguminosarum bv. viciae 3841,false
+noeB	SMA0774	Sinorhizobium meliloti 1021,true	Sinorhizobium meliloti 2011,false
+rhiA	PRL100169	Rhizobium leguminosarum bv. viciae 3841,false
+rkpO	NGR_B09480	Sinorhizobium fredii NGR234,true
+hupG	AZC_0603	Azorhizobium caulinodans ORS 571,false
+olsC	OLSC	Rhizobium tropici CIAT 899,false

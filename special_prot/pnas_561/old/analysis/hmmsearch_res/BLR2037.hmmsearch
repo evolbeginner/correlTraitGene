@@ -1,0 +1,33 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nifA|BLR2037         -            605 AAA                  PF00004.27   132   9.4e-13   35.0   0.0   1   2      0.21      0.21   -1.7   0.0     9    23   132   146   130   162 0.82 -
+nifA|BLR2037         -            605 AAA                  PF00004.27   132   9.4e-13   35.0   0.0   2   2   3.5e-12   3.5e-12   33.1   0.0     1   121   277   403   277   414 0.83 -
+nifA|BLR2037         -            605 AAA_16               PF13191.4    170   1.8e-06   14.6   0.2   1   1   3.8e-06   3.8e-06   13.5   0.2    19    63   269   313   258   450 0.79 -
+nifA|BLR2037         -            605 AAA_19               PF13245.4    146   6.2e-06   12.8   0.0   1   2    0.0015    0.0015    5.1   0.1     5    38   268   302   265   317 0.80 -
+nifA|BLR2037         -            605 AAA_19               PF13245.4    146   6.2e-06   12.8   0.0   2   2    0.0017    0.0017    4.9   0.0    98   129   341   373   323   381 0.78 -
+nifA|BLR2037         -            605 AAA_2                PF07724.12   171   2.1e-07   17.4   0.0   1   1   3.4e-07   3.4e-07   16.7   0.0     3   133   274   399   272   431 0.75 -
+nifA|BLR2037         -            605 AAA_3                PF07726.9    131   7.6e-09   21.8   0.0   1   1   1.7e-08   1.7e-08   20.6   0.0     2   111   277   394   276   404 0.84 -
+nifA|BLR2037         -            605 AAA_5                PF07728.12   138     2e-12   33.5   0.0   1   1   3.8e-12   3.8e-12   32.6   0.0     2   125   277   401   276   414 0.83 -
+nifA|BLR2037         -            605 GAF                  PF01590.24   131     6e-17   48.7   0.1   1   1   1.4e-16   1.4e-16   47.5   0.1     2   131    70   211    69   211 0.86 -
+nifA|BLR2037         -            605 GAF_2                PF13185.4    138   1.7e-12   34.0   0.1   1   1     4e-12     4e-12   32.9   0.1     4   137    70   211    68   212 0.80 -
+nifA|BLR2037         -            605 GAF_3                PF13492.4    129   1.2e-09   24.8   0.0   1   1   2.9e-09   2.9e-09   23.6   0.0     2   127    70   211    69   213 0.79 -
+nifA|BLR2037         -            605 HTH_23               PF13384.4     50   1.4e-06   14.4   0.3   1   1   3.7e-06   3.7e-06   13.0   0.3     3    41   559   598   558   602 0.91 -
+nifA|BLR2037         -            605 HTH_28               PF13518.4     52   2.5e-06   13.9   0.2   1   1   5.5e-06   5.5e-06   12.8   0.2     2    36   563   598   562   601 0.87 -
+nifA|BLR2037         -            605 HTH_8                PF02954.17    42   7.1e-17   47.3   0.7   1   1   1.6e-16   1.6e-16   46.2   0.7     4    42   560   598   558   598 0.95 -
+nifA|BLR2037         -            605 MCM                  PF00493.21   331   3.9e-06   12.2   0.0   1   1   7.3e-06   7.3e-06   11.3   0.0    54   173   271   395   262   407 0.78 -
+nifA|BLR2037         -            605 Mg_chelatase         PF01078.19   207   2.7e-10   26.1   0.2   1   2   0.00022   0.00022    6.8   0.0    16    43   268   295   251   302 0.82 -
+nifA|BLR2037         -            605 Mg_chelatase         PF01078.19   207   2.7e-10   26.1   0.2   2   2   1.7e-07   1.7e-07   17.0   0.0    93   157   332   394   324   406 0.85 -
+nifA|BLR2037         -            605 Sigma54_activat      PF00158.24   168   8.6e-76  239.5   0.0   1   1   1.3e-75   1.3e-75  238.9   0.0     1   167   253   419   253   420 0.99 -
+nifA|BLR2037         -            605 Sigma54_activ_2      PF14532.4    138   1.3e-25   76.3   0.0   1   1   2.8e-25   2.8e-25   75.3   0.0     1   138   254   424   254   424 0.89 -
+nifA|BLR2037         -            605 TIP49                PF06068.11   398   1.1e-06   13.9   0.0   1   1   1.7e-06   1.7e-06   13.2   0.0    19    86   246   311   230   320 0.78 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLR2037.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLR2037.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLR2037.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:39:59 2018
+# [ok]

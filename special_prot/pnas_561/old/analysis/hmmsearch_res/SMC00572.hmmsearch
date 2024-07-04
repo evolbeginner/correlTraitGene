@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+fabG|SMC00572        -            245 adh_short            PF00106.23   195   3.7e-66  208.4   0.7   1   1   4.9e-66   4.9e-66  208.0   0.7     2   194     8   197     7   198 0.98 -
+fabG|SMC00572        -            245 adh_short_C2         PF13561.4    234   3.6e-69  219.0   3.7   1   1   4.1e-69   4.1e-69  218.8   3.7     1   233    13   242    13   243 0.97 -
+fabG|SMC00572        -            245 Epimerase            PF01370.19   241   8.4e-08   18.0   0.1   1   1   1.3e-07   1.3e-07   17.4   0.1     1    66     9    77     9   155 0.68 -
+fabG|SMC00572        -            245 GDP_Man_Dehyd        PF16363.3    332   7.7e-06   11.5   0.0   1   1   9.4e-06   9.4e-06   11.2   0.0     1    75    10    75    10   118 0.86 -
+fabG|SMC00572        -            245 KR                   PF08659.8    180   1.8e-23   69.5   0.1   1   1   2.7e-23   2.7e-23   69.0   0.1     4   163    10   166     8   185 0.86 -
+fabG|SMC00572        -            245 Ldh_1_N              PF00056.21   141     1e-06   15.1   1.4   1   2   2.8e-06   2.8e-06   13.7   0.2     2    81     8    92     7   118 0.85 -
+fabG|SMC00572        -            245 Ldh_1_N              PF00056.21   141     1e-06   15.1   1.4   2   2     0.043     0.043    0.1   0.1     9    47   157   197   138   224 0.68 -
+fabG|SMC00572        -            245 NAD_binding_10       PF13460.4    184     1e-08   21.5   0.5   1   1   1.3e-08   1.3e-08   21.2   0.5     1   180    13   223    13   227 0.73 -
+fabG|SMC00572        -            245 RmlD_sub_bind        PF04321.15   287   3.6e-06   12.3   0.1   1   1   5.2e-06   5.2e-06   11.8   0.1     2    62     8    91     7   124 0.70 -
+fabG|SMC00572        -            245 THF_DHG_CYH_C        PF02882.17   160   6.9e-07   14.9   0.0   1   1   1.6e-06   1.6e-06   13.7   0.0    33    76     3    46     1    50 0.90 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC00572.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC00572.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC00572.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:38:04 2018
+# [ok]

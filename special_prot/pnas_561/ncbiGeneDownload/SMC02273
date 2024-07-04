@@ -1,0 +1,48 @@
+
+1. rkpA
+fatty acid synthase transmembrane protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMc02273
+Annotation:  NC_003047.1 (640572..648086, complement)
+ID: 1232214
+
+2. wcbR
+capsular polysaccharide biosynthesis fatty acid synthase [Burkholderia pseudomallei K96243]
+Other Aliases: BPSL2789
+Chromosome: 1
+Annotation: Chromosome 1 NC_006350.1 (3329477..3337117, complement)
+ID: 3092850
+
+3. Smed_0197
+beta-ketoacyl synthase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_0197
+Annotation:  NC_009636.1 (217291..224793, complement)
+ID: 5321027
+
+4. rkpA,wcbR
+Putative fatty acid synthase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_c02273
+Annotation:  NC_020528.1 (640574..648211, complement)
+This record was discontinued.
+ID: 14804861
+
+5. Mext_1947
+beta-ketoacyl synthase [Methylobacterium extorquens PA1]
+Other Aliases: Mext_1947
+Annotation:  NC_010172.1 (2168676..2176082, complement)
+This record was discontinued.
+ID: 5831383
+
+6. Xaut_3805
+Beta-ketoacyl synthase [Xanthobacter autotrophicus Py2]
+Other Aliases: Xaut_3805
+Annotation:  NC_009720.1 (4211620..4219002, complement)
+This record was discontinued.
+ID: 5425029
+
+7. wcbR
+type I polyketide synthase [Bordetella parapertussis 12822]
+Other Aliases: BPP2950
+Annotation:  NC_002928.3 (3160518..3168101)
+This record was discontinued.
+ID: 1668297
+

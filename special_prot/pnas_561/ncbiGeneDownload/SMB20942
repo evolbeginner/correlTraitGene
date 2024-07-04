@@ -1,0 +1,30 @@
+
+1. exoB
+UDP glucose 4-epimerase [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b20942, SMb20942
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (1168150..1169136)
+ID: 1237396
+
+2. Smed_4942
+UDP-glucose 4-epimerase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4942
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (1453711..1454697)
+ID: 5318269
+
+3. exoB
+UDP glucose 4-epimerase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b20942
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1168111..1169194)
+This record was discontinued.
+ID: 14756653
+
+4. galE3
+UDP-glucose 4-epimerase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH03985
+Annotation:  NC_007761.1 (4208473..4209456)
+This record was discontinued.
+ID: 3894117
+

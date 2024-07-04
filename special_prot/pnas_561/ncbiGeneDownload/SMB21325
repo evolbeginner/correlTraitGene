@@ -1,0 +1,44 @@
+
+1. wgaH
+dTDP-4-dehydrorhamnose 3,5-epimerase [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b21325, SMb21325
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (994684..995247)
+ID: 1237232
+
+2. Smed_4722
+dTDP-4-dehydrorhamnose 3,5-epimerase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4722
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (1245365..1245928)
+ID: 5318902
+
+3. Smed_4813
+dTDP-4-dehydrorhamnose 3,5-epimerase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4813
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (1333056..1333637, complement)
+ID: 5318628
+
+4. wgaH
+Putative dTDP-4-dehydrorhamnose 3,5-epimerase protein WgaH (formerly ExpA8) [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b21325
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (994687..995250)
+This record was discontinued.
+ID: 14756451
+
+5. Meso_2761
+dTDP-4-dehydrorhamnose 3,5-epimerase [Chelativorans sp. BNC1]
+Other Aliases: Meso_2761
+Annotation:  NC_008254.1 (3008985..3009554)
+This record was discontinued.
+ID: 4182091
+
+6. RHE_CH01515
+dTDP-rhamnose-3,5-epimerase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH01515
+Annotation:  NC_007761.1 (1592172..1592750, complement)
+This record was discontinued.
+ID: 3890950
+

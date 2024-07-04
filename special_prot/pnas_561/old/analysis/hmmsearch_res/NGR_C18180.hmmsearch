@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+cobO|NGR_C18180      -            214 AAA_14               PF13173.4    131   4.8e-07   16.1   0.0   1   1   8.8e-07   8.8e-07   15.3   0.0    46   114   119   193    75   202 0.78 -
+cobO|NGR_C18180      -            214 CobA_CobO_BtuR       PF02572.13   172   1.5e-64  203.6   0.6   1   2       0.4       0.4   -2.9   0.1    77    94    14    31     6    36 0.61 -
+cobO|NGR_C18180      -            214 CobA_CobO_BtuR       PF02572.13   172   1.5e-64  203.6   0.6   2   2   1.5e-64   1.5e-64  203.6   0.6     1   172    41   214    41   214 0.97 -
+cobO|NGR_C18180      -            214 Co_AT_N              PF12557.6     25   4.3e-09   22.5   1.6   1   1   8.8e-09   8.8e-09   21.5   1.6     6    25    16    35     8    35 0.89 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/NGR_C18180.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/NGR_C18180.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/NGR_C18180.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:04:16 2018
+# [ok]

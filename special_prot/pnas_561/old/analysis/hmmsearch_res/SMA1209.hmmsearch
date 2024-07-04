@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+fixI1|SMA1209        -            757 E1-E2_ATPase         PF00122.18   221   2.1e-61  193.1   4.0   1   2   3.3e-61   3.3e-61  192.5   0.2     2   221   223   443   222   443 0.99 -
+fixI1|SMA1209        -            757 E1-E2_ATPase         PF00122.18   221   2.1e-61  193.1   4.0   2   2     0.012     0.012    1.0   0.6   175   206   690   722   652   726 0.77 -
+fixI1|SMA1209        -            757 HAD                  PF12710.5    188   1.9e-06   14.5   0.2   1   2      0.48      0.48   -3.1   0.0    56    67   343   354   300   386 0.48 -
+fixI1|SMA1209        -            757 HAD                  PF12710.5    188   1.9e-06   14.5   0.2   2   2   7.5e-06   7.5e-06   12.6   0.1    76   188   560   643   546   643 0.72 -
+fixI1|SMA1209        -            757 HMA                  PF00403.24    62   6.7e-09   22.4   0.0   1   1     2e-08     2e-08   20.9   0.0     2    45    41    84    40    87 0.95 -
+fixI1|SMA1209        -            757 Hydrolase            PF00702.24   210   6.4e-34  104.2   0.1   1   1   1.1e-33   1.1e-33  103.4   0.1     1   209   448   645   448   646 0.94 -
+fixI1|SMA1209        -            757 Hydrolase_3          PF08282.10   255   4.3e-06   12.7   0.1   1   1   6.4e-06   6.4e-06   12.2   0.1   204   250   627   673   617   678 0.87 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA1209.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA1209.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA1209.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:54:32 2018
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+expE2(wgeB)|SMB21313 -            749 Glycos_transf_2      PF00535.24   170   2.4e-18   52.7   0.0   1   1   3.8e-18   3.8e-18   52.0   0.0     1   166   467   647   467   650 0.90 -
+expE2(wgeB)|SMB21313 -            749 Glyco_tranf_2_3      PF13641.4    231     7e-15   41.6   0.0   1   1   1.1e-14   1.1e-14   41.0   0.0     3   219   466   695   463   713 0.77 -
+expE2(wgeB)|SMB21313 -            749 Glyco_tranf_2_5      PF13712.4    210   2.8e-12   32.9   0.0   1   1   4.5e-12   4.5e-12   32.2   0.0     3   179   499   680   497   726 0.83 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMB21313.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMB21313.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMB21313.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 15:48:23 2019
+# [ok]

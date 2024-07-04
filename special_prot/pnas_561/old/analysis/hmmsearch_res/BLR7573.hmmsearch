@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+exoU|BLR7573         -            313 Glycos_transf_2      PF00535.24   170   1.3e-34  105.6   0.0   1   1   1.8e-34   1.8e-34  105.2   0.0     1   131    18   143    18   182 0.81 -
+exoU|BLR7573         -            313 Glyco_tranf_2_2      PF10111.7    276   3.5e-27   81.6   0.0   1   1   4.8e-27   4.8e-27   81.2   0.0     1   223    18   224    18   242 0.88 -
+exoU|BLR7573         -            313 Glyco_tranf_2_3      PF13641.4    231   1.7e-23   69.8   0.1   1   1   2.8e-23   2.8e-23   69.1   0.1     3   197    17   202    15   244 0.85 -
+exoU|BLR7573         -            313 Glyco_tranf_2_4      PF13704.4     96   1.5e-13   37.5   0.0   1   2   8.6e-13   8.6e-13   35.0   0.0     1    82    24   102    24   106 0.86 -
+exoU|BLR7573         -            313 Glyco_tranf_2_4      PF13704.4     96   1.5e-13   37.5   0.0   2   2      0.12      0.12   -0.7   0.0    32    54   254   278   237   295 0.62 -
+exoU|BLR7573         -            313 Glyco_transf_21      PF13506.4    173   2.2e-08   19.9   0.3   1   2      0.43      0.43   -3.8   0.0    61    81    12    32    11    41 0.68 -
+exoU|BLR7573         -            313 Glyco_transf_21      PF13506.4    173   2.2e-08   19.9   0.3   2   2   5.2e-08   5.2e-08   18.7   0.0    27   129    88   193    77   208 0.81 -
+exoU|BLR7573         -            313 Glyco_trans_2_3      PF13632.4    197   6.2e-08   18.9   0.1   1   1   3.3e-07   3.3e-07   16.5   0.1     1   111    94   204    94   300 0.79 -
+exoU|BLR7573         -            313 NTP_transf_3         PF12804.5    160   2.4e-10   27.2   0.4   1   1   4.5e-10   4.5e-10   26.3   0.4    29   121    33   126    19   187 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLR7573.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLR7573.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLR7573.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:05:00 2018
+# [ok]

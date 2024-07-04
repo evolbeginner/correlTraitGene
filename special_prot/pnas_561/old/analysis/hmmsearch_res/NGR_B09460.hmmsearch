@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+rkpM|NGR_B09460      -            386 Aminotran_1_2        PF00155.19   363   9.1e-13   34.1   0.0   1   2   3.2e-12   3.2e-12   32.3   0.0    45   194    31   164     7   184 0.89 -
+rkpM|NGR_B09460      -            386 Aminotran_1_2        PF00155.19   363   9.1e-13   34.1   0.0   2   2     0.055     0.055   -1.4   0.0   275   321   264   312   246   345 0.60 -
+rkpM|NGR_B09460      -            386 DegT_DnrJ_EryC1      PF01041.15   360  1.1e-112  362.9   0.0   1   1  1.3e-112  1.3e-112  362.7   0.0     2   359     9   380     8   381 0.93 -
+rkpM|NGR_B09460      -            386 Pyridoxal_deC        PF00282.17   375   3.4e-06   12.0   0.0   1   1   5.1e-06   5.1e-06   11.5   0.0   150   221    75   147    72   163 0.86 -
+rkpM|NGR_B09460      -            386 TPR_1                PF00515.26    34   2.6e-07   16.7   0.4   1   2     0.016     0.016    1.6   0.4    16    26    34    44    34    46 0.85 -
+rkpM|NGR_B09460      -            386 TPR_1                PF00515.26    34   2.6e-07   16.7   0.4   2   2   5.5e-06   5.5e-06   12.5   0.0    13    30   345   362   344   362 0.91 -
+rkpM|NGR_B09460      -            386 TPR_2                PF07719.15    34   9.1e-07   15.3   0.6   1   2     0.041     0.041    0.7   0.5    16    27    34    45    34    46 0.83 -
+rkpM|NGR_B09460      -            386 TPR_2                PF07719.15    34   9.1e-07   15.3   0.6   2   2   1.6e-05   1.6e-05   11.4   0.0    13    30   345   362   344   362 0.89 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/NGR_B09460.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/NGR_B09460.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/NGR_B09460.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:41:08 2018
+# [ok]

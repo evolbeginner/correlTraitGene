@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nodW|BLL1714         -            227 FleQ                 PF06490.9    109   1.7e-06   14.7   0.0   1   1   2.7e-06   2.7e-06   14.0   0.0     2   104    22   131    21   136 0.85 -
+nodW|BLL1714         -            227 GerE                 PF00196.17    57   2.3e-25   74.3   0.6   1   1   4.1e-25   4.1e-25   73.5   0.6     2    56   157   211   156   212 0.98 -
+nodW|BLL1714         -            227 Response_reg         PF00072.22   112   4.9e-30   90.3   0.0   1   1   1.1e-29   1.1e-29   89.2   0.0     1   111    22   131    22   132 0.98 -
+nodW|BLL1714         -            227 Sigma70_r4           PF04545.14    50   1.3e-06   14.2   0.1   1   2   3.7e-06   3.7e-06   12.7   0.0     2    49   155   201   154   202 0.86 -
+nodW|BLL1714         -            227 Sigma70_r4           PF04545.14    50   1.3e-06   14.2   0.1   2   2      0.39      0.39   -3.3   0.0    28    36   213   221   212   224 0.75 -
+nodW|BLL1714         -            227 Sigma70_r4_2         PF08281.10    54   2.5e-08   19.8   0.1   1   1   5.2e-08   5.2e-08   18.8   0.1     4    54   151   200   149   200 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLL1714.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLL1714.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLL1714.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:46:05 2018
+# [ok]

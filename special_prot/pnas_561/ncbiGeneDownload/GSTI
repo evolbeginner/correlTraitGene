@@ -1,0 +1,104 @@
+
+1. gst1
+glutathione-S-transferase 1 [Zea mays]
+Other Aliases: ZEAMMB73_Zm00001d012675, GRMZM2G116273
+Other Designations: glutathione S-transferase 1; GST I (AA 1-214); GST class-phi member 1; GST-29; GST-I; GSTF1; GSTI; PCO151099; PCO151099b; glutathione S-transferase GSTF2; gst*-X06754; pMON95[10,11,12]; pco151099(646); phi015; phi080; umc1069
+Chromosome: 8
+Annotation: Chromosome 8 NC_024466.2 (178412108..178414563)
+ID: 542366
+
+2. aox1
+alternative oxidase AOX1 precursor [Zea mays]
+Other Aliases: ZEAMMB73_Zm00001d017727
+Other Designations: alternative oxidase AOX1 precursor; AC233960.1_FGT002; alternative oxidase1
+Chromosome: 5
+Annotation: Chromosome 5 NC_024463.2 (205304124..205306744, complement)
+ID: 542073
+
+3. LOC4325710
+probable glutathione S-transferase GSTF1 [Oryza sativa Japonica Group (Japanese rice)]
+Other Aliases: OSNPB_010371200, B1039D07.2, GST-I, GSTF1
+Other Designations: probable glutathione S-transferase GSTF1; LOC_Os01g27360; Os01g0371200; P0493G01.33; Rgst I; glutathione S-transferase; putative glutathione transferase
+Chromosome: 1
+Annotation: Chromosome 1 NC_029256.1 (15281187..15283101, complement)
+ID: 4325710
+
+4. BN877_I2491
+putative glutamine synthetase translation inhibitor GstI-like [Rhizobium sp. IRBG74]
+Other Aliases: BN877_I2491
+Annotation: Chromosome I NC_022535.1 (2377272..2377469, complement)
+This record was discontinued.
+ID: 17144541
+
+5. gstI
+glutamine synthetase translation inhibitor protein [Rhizobium etli bv. mimosae str. Mim1]
+Other Aliases: REMIM1_CH03152
+Annotation:  NC_021905.1 (3127101..3127292, complement)
+This record was discontinued.
+ID: 16458597
+
+6. gstI
+Glutamine synthetase translation inhibitor [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b20746
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1535466..1535782)
+This record was discontinued.
+ID: 14757130
+
+7. gstI
+glutamine synthetase [Sinorhizobium meliloti SM11]
+Other Aliases: SM11_pD0179
+Genomic context: Plasmid pSmeSM11d
+Annotation:  NC_017326.1 (205950..206225, complement)
+This record was discontinued.
+ID: 12313528
+
+8. gstI
+Glutamine synthetase translation inhibitor [Sinorhizobium fredii HH103]
+Other Aliases: SFHH103_05161
+Genomic context: Plasmid pSfHH103e
+Annotation:  NC_016815.1 (332350..332544, complement)
+This record was discontinued.
+ID: 11799355
+
+9. Snov_0413
+glutamine synthetase [Starkeya novella DSM 506]
+Other Aliases: Snov_0413
+Annotation:  NC_014217.1 (418566..418751, complement)
+This record was discontinued.
+ID: 9331470
+
+10. gstI
+glutathione-s-transferase protein [Ralstonia solanacearum IPO1609]
+Other Aliases: RSIPO_00958
+This record was discontinued.
+ID: 6958956
+
+11. gstI
+glutamine synthetase [Rhizobium etli CIAT 652]
+Other Aliases: RHECIAT_CH0003262
+Annotation:  NC_010994.1 (3273931..3274122, complement)
+This record was discontinued.
+ID: 6401349
+
+12. BRADO3394
+glutamine synthetase translation inhibitor GstI-like [Bradyrhizobium sp. ORS 278]
+Other Aliases: BRADO3394
+Annotation:  NC_009445.1 (3585607..3585798, complement)
+This record was discontinued.
+ID: 5118572
+
+13. gstI
+glutathione S-transferase [Cupriavidus metallidurans CH34]
+Other Aliases: Rmet_0967
+Annotation:  NC_007973.1 (1050834..1051526, complement)
+This record was discontinued.
+ID: 4037764
+
+14. gstI
+glutamine synthetase translation inhibitor protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH03103
+Annotation:  NC_007761.1 (3249907..3250098, complement)
+This record was discontinued.
+ID: 3893339
+

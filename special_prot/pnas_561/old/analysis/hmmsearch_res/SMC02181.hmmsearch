@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+putA|SMC02181        -           1233 Aldedh               PF00171.20   462  1.3e-115  372.5   0.1   1   2  1.5e-114  1.5e-114  369.0   0.0     7   452   588  1027   583  1035 0.95 -
+putA|SMC02181        -           1233 Aldedh               PF00171.20   462  1.3e-115  372.5   0.1   2   2    0.0071    0.0071    0.9   0.1   144   163  1113  1132  1110  1141 0.83 -
+putA|SMC02181        -           1233 CoA_trans            PF01144.21   217   2.2e-06   13.3   0.0   1   2   2.7e-05   2.7e-05    9.8   0.1    44   117   742   808   724   819 0.82 -
+putA|SMC02181        -           1233 CoA_trans            PF01144.21   217   2.2e-06   13.3   0.0   2   2     0.017     0.017    0.6   0.0    99   129   897   927   892   965 0.86 -
+putA|SMC02181        -           1233 Pro_dh               PF01619.16   292     3e-99  318.3   0.0   1   1   4.7e-99   4.7e-99  317.7   0.0     2   292   205   502   204   502 0.98 -
+putA|SMC02181        -           1233 Pro_dh-DNA_bdg       PF14850.4    112   3.5e-51  158.7   0.0   1   1     1e-50     1e-50  157.3   0.0     2   112    84   195    83   195 0.98 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC02181.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC02181.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC02181.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:12:12 2018
+# [ok]

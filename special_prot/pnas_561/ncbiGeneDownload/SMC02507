@@ -1,0 +1,35 @@
+
+1. sitC
+iron transport system membrane ABC transporter protein [Sinorhizobium meliloti 1021]
+Other Aliases: SMc02507
+Annotation:  NC_003047.1 (3285763..3286620)
+ID: 1234712
+
+2. Smed_2916
+ABC-3 protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_2916
+Annotation:  NC_009636.1 (3060884..3061741)
+ID: 5323793
+
+3. sitC
+Manganese ABC transporter permease [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_c02507
+Annotation:  NC_020528.1 (3285339..3286196)
+This record was discontinued.
+ID: 14808081
+
+4. Xaut_1205
+ABC-3 protein [Xanthobacter autotrophicus Py2]
+Other Aliases: Xaut_1205
+Annotation:  NC_009720.1 (1385885..1386769, complement)
+This record was discontinued.
+ID: 5422010
+
+5. Pden_1257
+ABC-3 protein [Paracoccus denitrificans PD1222]
+Other Aliases: Pden_1257
+Chromosome: 1
+Annotation: Chromosome 1 NC_008686.1 (1219899..1220759, complement)
+This record was discontinued.
+ID: 4580023
+

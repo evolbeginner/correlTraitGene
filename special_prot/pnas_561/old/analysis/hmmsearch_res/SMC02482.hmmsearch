@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+sucA|SMC02482        -            998 2-oxogl_dehyd_N      PF16078.3     41     2e-21   61.7   0.2   1   1   4.3e-21   4.3e-21   60.6   0.2     1    39    13    51    13    53 0.96 -
+sucA|SMC02482        -            998 E1_dh                PF00676.18   300   1.3e-65  207.3   0.0   1   1     2e-65     2e-65  206.7   0.0     8   297   249   574   242   577 0.91 -
+sucA|SMC02482        -            998 OxoGdeHyase_C        PF16870.3    151   1.1e-59  186.6   0.0   1   1   2.3e-59   2.3e-59  185.6   0.0     1   151   841   996   841   996 0.96 -
+sucA|SMC02482        -            998 Transket_pyr         PF02779.22   178   1.7e-71  225.7   0.0   1   1   2.9e-71   2.9e-71  224.9   0.0     2   178   643   838   642   838 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC02482.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC02482.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC02482.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:19:39 2018
+# [ok]

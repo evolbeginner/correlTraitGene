@@ -1,0 +1,7 @@
+Steppingstone sampler:
+        No Stones:                  100
+        Start It:                   1010001
+        It Per Stone:               10000
+        Sample Freq:                1
+        Dist:                       Beta(0.400000,1.000000)
+Stone No	Power	N	Stone MLh	Running MLh

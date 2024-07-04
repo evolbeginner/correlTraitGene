@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+actS|SMC02585        -            433 HATPase_c            PF02518.24   111   5.8e-19   55.0   0.0   1   1     1e-18     1e-18   54.2   0.0    10   106   324   421   319   425 0.85 -
+actS|SMC02585        -            433 HATPase_c_3          PF13589.4    137   1.9e-10   26.9   0.0   1   1   3.4e-10   3.4e-10   26.1   0.0     9    82   326   395   322   407 0.88 -
+actS|SMC02585        -            433 HisKA                PF00512.23    64   1.8e-13   36.7   0.2   1   1   4.2e-13   4.2e-13   35.5   0.2     3    61   211   272   209   275 0.93 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMC02585.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMC02585.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMC02585.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 12:55:16 2019
+# [ok]

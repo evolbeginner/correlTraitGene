@@ -1,0 +1,86 @@
+
+1. lpiA
+Protein regulated by acid pH [Agrobacterium fabrum str. C58]
+Other Aliases: Atu2521, AGR_C_4580
+Chromosome: circular
+Annotation: Chromosome circular NC_003062.2 (2490048..2492648)
+ID: 1134559
+
+2. RB2269
+hypothetical protein [Rhodopirellula baltica SH 1]
+Other Aliases: RB2269
+Annotation:  NC_005027.1 (1191509..1192471, complement)
+ID: 1792031
+
+3. lpiA
+low pH-inducible protein LpiA [Rhizobium tropici CIAT 899]
+Other Aliases: RTCIAT899_CH14740
+Annotation:  NC_020059.1 (2962889..2965498, complement)
+This record was discontinued.
+ID: 14428132
+
+4. lpiA
+hypothetical protein [Stenotrophomonas maltophilia D457]
+Other Aliases: SMD_3084
+Annotation:  NC_017671.1 (3426005..3428569)
+This record was discontinued.
+ID: 12744576
+
+5. lpiA
+hypothetical protein [Agrobacterium sp. H13-3]
+Other Aliases: AGROH133_08549
+Annotation: Chromosome circular NC_015183.1 (2437671..2440271)
+This record was discontinued.
+ID: 10268217
+
+6. BC1002_1652
+hypothetical protein [Burkholderia sp. CCGE1002]
+Other Aliases: BC1002_1652
+Chromosome: 1
+Annotation: Chromosome 1 NC_014117.1 (1840493..1843198, complement)
+This record was discontinued.
+ID: 9089337
+
+7. lpiA
+Protein regulated by acid pH [Agrobacterium vitis S4]
+Other Aliases: Avi_3961
+Chromosome: 1
+Annotation: Chromosome 1 NC_011989.1 (3336147..3338759)
+This record was discontinued.
+ID: 7387306
+
+8. lpiA
+hypothetical protein [Agrobacterium radiobacter K84]
+Other Aliases: Arad_3714
+Chromosome: 1
+Annotation: Chromosome 1 NC_011985.1 (2966082..2968691, complement)
+This record was discontinued.
+ID: 7369243
+
+9. Bphyt_2233
+hypothetical protein [Burkholderia phytofirmans PsJN]
+Other Aliases: Bphyt_2233
+Chromosome: 1
+Annotation: Chromosome 1 NC_010681.1 (2516081..2518675, complement)
+This record was discontinued.
+ID: 6281632
+
+10. Bphy_4019
+hypothetical protein [Burkholderia phymatum STM815]
+Other Aliases: Bphy_4019
+Chromosome: 2
+Annotation: Chromosome 2 NC_010623.1 (994759..997353, complement)
+This record was discontinued.
+ID: 6245549
+
+11. NEWENTRY
+Record to support submission of GeneRIFs for a gene not in Gene (Ensifer medicae.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.). [Sinorhizobium medicae]
+ID: 5332665
+
+12. RHE_CH03486
+hypothetical protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH03486
+Annotation:  NC_007761.1 (3670543..3673146, complement)
+This record was discontinued.
+ID: 3893168
+

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+nodS|BLR2028         -            175 Methyltransf_11      PF08241.10    95   5.1e-17   48.7   0.0   1   1   6.8e-16   6.8e-16   45.1   0.0     1    95    15   111    15   111 0.92 -
+nodS|BLR2028         -            175 Methyltransf_12      PF08242.10    99   5.2e-17   48.8   0.0   1   1   1.1e-16   1.1e-16   47.7   0.0     1    96    15   106    15   108 0.89 -
+nodS|BLR2028         -            175 Methyltransf_23      PF13489.4    165   5.1e-15   41.9   0.0   1   1   6.5e-15   6.5e-15   41.6   0.0    15   125     3   128     1   156 0.74 -
+nodS|BLR2028         -            175 Methyltransf_25      PF13649.4     97   8.1e-17   48.1   0.2   1   1   2.3e-16   2.3e-16   46.7   0.0     2    96    15   106    14   106 0.91 -
+nodS|BLR2028         -            175 Methyltransf_31      PF13847.4    152   4.1e-13   35.6   0.0   1   1   4.7e-13   4.7e-13   35.4   0.0     4   113    11   115     8   168 0.85 -
+nodS|BLR2028         -            175 NodS                 PF05401.9    201   5.3e-93  296.3   0.4   1   1   6.2e-93   6.2e-93  296.1   0.4    34   200     1   167     1   168 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/BLR2028.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/BLR2028.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/BLR2028.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 13:29:59 2019
+# [ok]

@@ -1,0 +1,29 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+exoR|SMC02078        -            268 Sel1                 PF08238.10    38   4.3e-16   45.5   8.0   1   4     0.096     0.096   -0.1   0.1    30    38    66    74    56    74 0.79 -
+exoR|SMC02078        -            268 Sel1                 PF08238.10    38   4.3e-16   45.5   8.0   2   4   2.5e-05   2.5e-05   11.3   0.3     5    37    79   109    76   110 0.88 -
+exoR|SMC02078        -            268 Sel1                 PF08238.10    38   4.3e-16   45.5   8.0   3   4   0.00012   0.00012    9.1   0.0     5    35   125   156   121   156 0.79 -
+exoR|SMC02078        -            268 Sel1                 PF08238.10    38   4.3e-16   45.5   8.0   4   4   3.6e-10   3.6e-10   26.7   0.1     1    38   161   196   161   196 0.94 -
+exoR|SMC02078        -            268 TPR_16               PF13432.4     68   3.4e-08   20.4   4.0   1   3   2.5e-05   2.5e-05   11.2   0.7     6    45    52    86    47   106 0.87 -
+exoR|SMC02078        -            268 TPR_16               PF13432.4     68   3.4e-08   20.4   4.0   2   3     0.076     0.076    0.1   0.2    22    43   149   170   140   174 0.48 -
+exoR|SMC02078        -            268 TPR_16               PF13432.4     68   3.4e-08   20.4   4.0   3   3    0.0003    0.0003    7.8   0.0    13    65   181   229   180   231 0.90 -
+exoR|SMC02078        -            268 TPR_2                PF07719.15    34   8.2e-08   18.5   4.5   1   4   2.5e-07   2.5e-07   17.0   0.2     2    29    44    71    43    73 0.92 -
+exoR|SMC02078        -            268 TPR_2                PF07719.15    34   8.2e-08   18.5   4.5   2   4      0.55      0.55   -2.8   0.0     1    11   161   171   161   172 0.73 -
+exoR|SMC02078        -            268 TPR_2                PF07719.15    34   8.2e-08   18.5   4.5   3   4     0.059     0.059    0.2   0.0    16    28   180   192   180   194 0.83 -
+exoR|SMC02078        -            268 TPR_2                PF07719.15    34   8.2e-08   18.5   4.5   4   4      0.15      0.15   -1.1   0.0    12    27   208   223   204   224 0.61 -
+exoR|SMC02078        -            268 TPR_3                PF07720.10    36   1.8e-05   11.0   4.3   1   2   2.6e-05   2.6e-05   10.5   0.7     4    30    46    70    45    71 0.94 -
+exoR|SMC02078        -            268 TPR_3                PF07720.10    36   1.8e-05   11.0   4.3   2   2     0.036     0.036    0.5   0.2    16    29   143   154   143   156 0.77 -
+exoR|SMC02078        -            268 TPR_6                PF13174.4     33   4.8e-05   10.4   7.3   1   3   3.3e-05   3.3e-05   10.9   0.3     2    24    45    67    44    72 0.90 -
+exoR|SMC02078        -            268 TPR_6                PF13174.4     33   4.8e-05   10.4   7.3   2   3      0.15      0.15   -0.6   0.0    15    26   143   154   129   158 0.70 -
+exoR|SMC02078        -            268 TPR_6                PF13174.4     33   4.8e-05   10.4   7.3   3   3     0.062     0.062    0.6   0.9     1    14   162   178   162   225 0.66 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC02078.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC02078.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC02078.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:10:25 2018
+# [ok]

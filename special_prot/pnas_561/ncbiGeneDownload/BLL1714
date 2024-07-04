@@ -1,0 +1,30 @@
+
+1. nodW
+two component regulator [Bradyrhizobium diazoefficiens USDA 110]
+Other Aliases: bll1714
+Annotation:  NC_004463.1 (1878986..1879669, complement)
+ID: 1054835
+
+2. Plav_2380
+response regulator receiver protein [Parvibaculum lavamentivorans DS-1]
+Other Aliases: Plav_2380
+Annotation:  NC_009719.1 (2569723..2570349)
+This record was discontinued.
+ID: 5456638
+
+3. nwsB
+two-component response regulator protein (nodW mutant supressor protein) [Rhizobium etli CFN 42]
+Other Aliases: RHE_PF00223
+Genomic context: Plasmid p42f
+Annotation:  NC_007766.1 (238234..238875)
+This record was discontinued.
+ID: 3896352
+
+4. nodW
+two-component nodulation response regulator protein [Rhizobium etli CFN 42]
+Other Aliases: RHE_PC00095
+Genomic context: Plasmid p42c
+Annotation:  NC_007764.1 (102240..102866)
+This record was discontinued.
+ID: 3895316
+

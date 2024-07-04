@@ -1,0 +1,33 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+rhcN|BLR1816         -            451 AAA                  PF00004.27   132   5.7e-06   13.0   0.0   1   1   1.1e-05   1.1e-05   12.1   0.0     3    74   180   245   178   284 0.62 -
+rhcN|BLR1816         -            451 AAA_16               PF13191.4    170   3.8e-08   20.1   0.0   1   1     1e-07     1e-07   18.6   0.0    25   106   176   268   165   327 0.62 -
+rhcN|BLR1816         -            451 AAA_22               PF13401.4    137   4.1e-08   19.8   0.1   1   2   1.2e-07   1.2e-07   18.3   0.0    10   103   180   276   173   285 0.85 -
+rhcN|BLR1816         -            451 AAA_22               PF13401.4    137   4.1e-08   19.8   0.1   2   2       0.3       0.3   -2.4   0.0    39    66   369   397   352   428 0.64 -
+rhcN|BLR1816         -            451 AAA_24               PF13479.4    197   2.6e-06   13.4   0.0   1   1   4.4e-06   4.4e-06   12.7   0.0     2    22   175   195   174   222 0.88 -
+rhcN|BLR1816         -            451 AAA_30               PF13604.4    192   4.2e-06   12.7   0.3   1   1   1.1e-05   1.1e-05   11.4   0.3    21    59   178   216   168   272 0.75 -
+rhcN|BLR1816         -            451 ABC_tran             PF00005.25   137   6.7e-09   22.6   0.0   1   1   1.1e-08   1.1e-08   21.9   0.0     6    38   170   202   167   282 0.79 -
+rhcN|BLR1816         -            451 ArgK                 PF03308.14   267   1.4e-07   16.9   0.3   1   1   4.3e-07   4.3e-07   15.3   0.2    11    60   158   206   153   211 0.75 -
+rhcN|BLR1816         -            451 ATP-synt_ab          PF00006.23   213   7.2e-76  240.7   0.0   1   1   1.3e-75   1.3e-75  239.9   0.0     1   213   162   370   162   370 0.98 -
+rhcN|BLR1816         -            451 ATP-synt_ab_N        PF02874.21    69   9.1e-10   25.3   0.4   1   2   3.1e-09   3.1e-09   23.6   0.0     1    69    40   105    40   105 0.95 -
+rhcN|BLR1816         -            451 ATP-synt_ab_N        PF02874.21    69   9.1e-10   25.3   0.4   2   2      0.23      0.23   -1.6   0.1    27    42   216   229   206   235 0.82 -
+rhcN|BLR1816         -            451 ATPase               PF06745.11   231   1.3e-06   14.1   0.0   1   1   2.6e-06   2.6e-06   13.0   0.0     4   131   162   276   159   284 0.75 -
+rhcN|BLR1816         -            451 ATPase_2             PF01637.16   233   4.8e-08   19.3   0.0   1   1   7.8e-08   7.8e-08   18.6   0.0    19   128   174   274   163   283 0.66 -
+rhcN|BLR1816         -            451 DAP3                 PF10236.7    312   1.3e-07   17.1   0.1   1   1   2.3e-07   2.3e-07   16.4   0.1    22    54   174   206   163   214 0.86 -
+rhcN|BLR1816         -            451 DUF258               PF03193.14   167   1.1e-05   11.5   0.0   1   1   2.1e-05   2.1e-05   10.7   0.0    99   138   175   214   163   223 0.83 -
+rhcN|BLR1816         -            451 DUF87                PF01935.15   229   7.8e-06   12.2   0.1   1   1   1.3e-05   1.3e-05   11.4   0.1    24    49   176   201   175   209 0.84 -
+rhcN|BLR1816         -            451 MMR_HSR1             PF01926.21   114   5.6e-06   12.7   0.0   1   1   1.1e-05   1.1e-05   11.8   0.0     1    26   177   203   177   261 0.86 -
+rhcN|BLR1816         -            451 NACHT                PF05729.10   166   1.6e-07   17.6   0.1   1   1   3.6e-07   3.6e-07   16.4   0.1     4    27   179   202   176   282 0.94 -
+rhcN|BLR1816         -            451 NB-ARC               PF00931.20   288     3e-09   22.4   0.0   1   1   5.1e-09   5.1e-09   21.6   0.0     8   109   165   271   163   286 0.63 -
+rhcN|BLR1816         -            451 RNA_helicase         PF00910.20   107   3.2e-06   13.8   0.0   1   1   5.5e-06   5.5e-06   13.0   0.0     3    23   180   200   178   217 0.87 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLR1816.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLR1816.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLR1816.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:29:40 2018
+# [ok]

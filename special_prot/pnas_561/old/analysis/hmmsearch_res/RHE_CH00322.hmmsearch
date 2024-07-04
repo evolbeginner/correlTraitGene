@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+gshB|RHE_CH00322     -            315 ATP-grasp_3          PF02655.12   161   2.6e-06   13.8   0.0   1   1   5.2e-06   5.2e-06   12.8   0.0    22   155   147   284   130   287 0.76 -
+gshB|RHE_CH00322     -            315 ATPgrasp_YheCD       PF14398.4    257   3.9e-10   25.5   0.0   1   1   2.4e-09   2.4e-09   22.9   0.0    24   163   132   243   129   265 0.73 -
+gshB|RHE_CH00322     -            315 GSH-S_ATP            PF02955.14   175   1.1e-77  245.5   0.0   1   1   1.5e-77   1.5e-77  245.0   0.0     1   173   126   297   126   299 0.99 -
+gshB|RHE_CH00322     -            315 GSH-S_N              PF02951.12   119   1.4e-44  137.3   0.0   1   1   2.4e-44   2.4e-44  136.6   0.0     2   119     6   122     5   122 0.98 -
+gshB|RHE_CH00322     -            315 GSP_synth            PF03738.12   378   1.5e-05   10.4   0.0   1   2     3e-05     3e-05    9.4   0.0   284   343   151   213   131   226 0.74 -
+gshB|RHE_CH00322     -            315 GSP_synth            PF03738.12   378   1.5e-05   10.4   0.0   2   2      0.24      0.24   -3.5   0.0   102   117   280   295   277   298 0.87 -
+gshB|RHE_CH00322     -            315 RimK                 PF08443.9    188     3e-21   62.0   0.0   1   1   4.4e-21   4.4e-21   61.5   0.0    18   188   137   310   133   310 0.88 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/RHE_CH00322.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/RHE_CH00322.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/RHE_CH00322.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 13:02:33 2018
+# [ok]

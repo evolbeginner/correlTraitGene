@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+fixP3|SMA0617        -            293 Cytochrome_CBB3      PF13442.4     67   3.4e-27   80.9   0.1   1   2   1.7e-13   1.7e-13   37.1   0.0     5    67   112   193   109   193 0.83 -
+fixP3|SMA0617        -            293 Cytochrome_CBB3      PF13442.4     67   3.4e-27   80.9   0.1   2   2   5.8e-15   5.8e-15   41.7   0.0     2    67   209   285   208   285 0.86 -
+fixP3|SMA0617        -            293 Cytochrom_C          PF00034.19    92   3.9e-26   78.4   0.0   1   2     4e-14     4e-14   39.9   0.0     3    91   112   196   111   197 0.86 -
+fixP3|SMA0617        -            293 Cytochrom_C          PF00034.19    92   3.9e-26   78.4   0.0   2   2     4e-12     4e-12   33.5   0.1     2    91   211   288   210   289 0.86 -
+fixP3|SMA0617        -            293 FixP_N               PF14715.4     48     4e-21   60.9   1.0   1   1   9.3e-21   9.3e-21   59.7   1.0     2    47    12    57    11    58 0.95 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMA0617.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMA0617.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMA0617.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 16:02:46 2019
+# [ok]

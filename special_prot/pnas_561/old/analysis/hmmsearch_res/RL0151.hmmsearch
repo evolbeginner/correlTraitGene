@@ -1,0 +1,29 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+dnaJ|RL0151          -            375 Anti-TRAP            PF15777.3     59     6e-11   28.5  18.1   1   2   2.5e-06   2.5e-06   13.7   6.4    12    47   148   180   141   185 0.91 -
+dnaJ|RL0151          -            375 Anti-TRAP            PF15777.3     59     6e-11   28.5  18.1   2   2   1.4e-08   1.4e-08   20.9   3.4     9    42   184   211   181   216 0.91 -
+dnaJ|RL0151          -            375 Cytochrome_C7        PF14522.4     73   5.3e-06   12.7   5.3   1   2   0.00067   0.00067    6.0   0.3    36    71   134   169   120   171 0.79 -
+dnaJ|RL0151          -            375 Cytochrome_C7        PF14522.4     73   5.3e-06   12.7   5.3   2   2   0.00012   0.00012    8.3   0.8    46    72   183   206   170   212 0.82 -
+dnaJ|RL0151          -            375 DnaJ                 PF00226.29    63     1e-31   95.2   4.1   1   1   1.9e-31   1.9e-31   94.3   4.1     1    63     5    67     5    67 0.99 -
+dnaJ|RL0151          -            375 DnaJ_C               PF01556.16   146   1.3e-46  144.6   0.0   1   1   1.6e-46   1.6e-46  144.3   0.0     2   146   123   336   122   336 0.95 -
+dnaJ|RL0151          -            375 DnaJ_CXXCXGXG        PF00684.17    67   1.1e-18   53.7  15.2   1   1   2.2e-18   2.2e-18   52.8  15.2     1    67   149   209   149   209 0.88 -
+dnaJ|RL0151          -            375 DUF1356              PF07092.10   232     0.015    0.7  18.7   1   4    0.0035    0.0035    2.7   1.2    31    50   145   164   125   166 0.83 -
+dnaJ|RL0151          -            375 DUF1356              PF07092.10   232     0.015    0.7  18.7   2   4    0.0044    0.0044    2.4   1.7    34    45   165   176   160   180 0.82 -
+dnaJ|RL0151          -            375 DUF1356              PF07092.10   232     0.015    0.7  18.7   3   4    0.0011    0.0011    4.4   1.0    34    44   187   197   178   201 0.87 -
+dnaJ|RL0151          -            375 DUF1356              PF07092.10   232     0.015    0.7  18.7   4   4      0.01      0.01    1.2   0.1    35    48   202   215   201   227 0.82 -
+dnaJ|RL0151          -            375 DZR                  PF12773.5     49    0.0015    4.9  12.2   1   1     0.045     0.045    0.2  12.1    11    48   162   205   139   215 0.72 -
+dnaJ|RL0151          -            375 Efg1                 PF10153.7    114   5.3e-05    9.8   4.3   1   2   3.5e-05   3.5e-05   10.4   0.8    35    89    14    68     8    75 0.88 -
+dnaJ|RL0151          -            375 Efg1                 PF10153.7    114   5.3e-05    9.8   4.3   2   2     0.059     0.059    0.0   0.1    62    83   337   358   320   371 0.67 -
+dnaJ|RL0151          -            375 zf-TFIIB             PF13453.4     41      0.11   -1.8  15.0   1   2      0.12      0.12   -1.9   0.1    16    24   146   154   138   156 0.73 -
+dnaJ|RL0151          -            375 zf-TFIIB             PF13453.4     41      0.11   -1.8  15.0   2   2         1         1   -4.9  11.4    14    27   194   207   165   209 0.61 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/RL0151.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/RL0151.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/RL0151.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 11:57:40 2018
+# [ok]

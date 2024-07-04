@@ -1,0 +1,34 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+degP1|SMC02365       -            504 COA2                 PF17051.3     86     9e-06   12.0   0.2   1   1   3.3e-05   3.3e-05   10.2   0.2    44    82   437   475   433   479 0.85 -
+degP1|SMC02365       -            504 DUF3394              PF11874.6    181   3.2e-09   22.8   0.0   1   2     0.011     0.011    1.5   0.0   120   150   319   349   307   365 0.81 -
+degP1|SMC02365       -            504 DUF3394              PF11874.6    181   3.2e-09   22.8   0.0   2   2   5.4e-08   5.4e-08   18.8   0.0    93   154   401   464   363   473 0.74 -
+degP1|SMC02365       -            504 PDZ                  PF00595.22    82   7.2e-23   67.1   1.6   1   3      0.11      0.11   -0.7   0.0    39    55   188   204   185   206 0.81 -
+degP1|SMC02365       -            504 PDZ                  PF00595.22    82   7.2e-23   67.1   1.6   2   3   3.1e-12   3.1e-12   33.0   0.0     7    79   294   375   287   376 0.84 -
+degP1|SMC02365       -            504 PDZ                  PF00595.22    82   7.2e-23   67.1   1.6   3   3   1.4e-11   1.4e-11   30.9   0.6    11    72   419   477   413   485 0.83 -
+degP1|SMC02365       -            504 PDZ_1                PF12812.5     78   1.6e-09   24.1   0.1   1   3      0.51      0.51   -3.2   0.0    58    73   138   153   128   154 0.82 -
+degP1|SMC02365       -            504 PDZ_1                PF12812.5     78   1.6e-09   24.1   0.1   2   3   5.9e-05   5.9e-05    9.4   0.0    12    75   300   365   296   367 0.75 -
+degP1|SMC02365       -            504 PDZ_1                PF12812.5     78   1.6e-09   24.1   0.1   3   3   1.6e-05   1.6e-05   11.3   0.1    42    76   442   477   426   479 0.77 -
+degP1|SMC02365       -            504 PDZ_2                PF13180.4     82   1.6e-33  101.2   7.1   1   3      0.17      0.17   -1.4   0.1    27    42   188   203   160   204 0.73 -
+degP1|SMC02365       -            504 PDZ_2                PF13180.4     82   1.6e-33  101.2   7.1   2   3   5.8e-21   5.8e-21   61.0   0.0     1    81   297   387   297   388 0.98 -
+degP1|SMC02365       -            504 PDZ_2                PF13180.4     82   1.6e-33  101.2   7.1   3   3   4.5e-15   4.5e-15   42.1   1.6     1    62   418   479   418   485 0.94 -
+degP1|SMC02365       -            504 Peptidase_S29        PF02907.13   149   3.7e-06   12.9   0.0   1   1   9.2e-06   9.2e-06   11.7   0.0   102   143   236   278   213   283 0.81 -
+degP1|SMC02365       -            504 Peptidase_S46        PF10459.7    698   9.9e-07   13.7   0.1   1   2    0.0031    0.0031    2.2   0.0    49    68   124   143   109   147 0.90 -
+degP1|SMC02365       -            504 Peptidase_S46        PF10459.7    698   9.9e-07   13.7   0.1   2   2   2.5e-05   2.5e-05    9.1   0.2   633   650   242   259   226   262 0.90 -
+degP1|SMC02365       -            504 Tricorn_PDZ          PF14685.4     88   1.2e-09   24.4   2.7   1   3      0.44      0.44   -3.0   0.1    39    50   192   203   192   204 0.86 -
+degP1|SMC02365       -            504 Tricorn_PDZ          PF14685.4     88   1.2e-09   24.4   2.7   2   3   6.1e-07   6.1e-07   15.7   0.1    26    79   326   378   319   386 0.80 -
+degP1|SMC02365       -            504 Tricorn_PDZ          PF14685.4     88   1.2e-09   24.4   2.7   3   3   0.00018   0.00018    7.8   0.0    38    68   449   477   441   496 0.84 -
+degP1|SMC02365       -            504 Trypsin              PF00089.24   221   7.4e-19   54.5   0.1   1   1   1.5e-18   1.5e-18   53.5   0.1    28   220   125   284   114   285 0.83 -
+degP1|SMC02365       -            504 Trypsin_2            PF13365.4    150   4.6e-36  111.2   2.4   1   2   4.6e-36   4.6e-36  111.2   2.4     1   150   124   258   124   258 0.99 -
+degP1|SMC02365       -            504 Trypsin_2            PF13365.4    150   4.6e-36  111.2   2.4   2   2      0.39      0.39   -2.2   0.1    56    77   419   440   339   481 0.62 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMC02365.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMC02365.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMC02365.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:39:03 2018
+# [ok]

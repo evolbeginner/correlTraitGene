@@ -1,0 +1,22 @@
+1
+2
+
+iterations 100000
+stones 100 10000
+
+AddTag TagBrady Bradyrhizobium_oligotrophicum_S58 Bradyrhizobium_elkanii_USDA_3259
+AddMRCA Node-01 TagBrady
+
+AddTag Tag_Brady_Outgroup Tardiphaga_robiniae_Vaf-07	Bradyrhizobium_elkanii_USDA_3259
+AddMRCA Node-02 Tag_Brady_Outgroup
+
+AddTag Tag_Outgroup Tardiphaga_robiniae_Vaf-07 Rhodopseudomonas_palustris_BisB18
+AddMRCA Node-03 Tag_Outgroup
+
+AddTag Tag_Rhodo Rhodopseudomonas_palustris_BisB18 Rhodopseudomonas_palustris_HaA2
+AddMRCA Node-04 Tag_Rhodo
+
+AddTag Tag_Rhodo1 Rhodopseudomonas_palustris_HaA2 Rhodopseudomonas_sp_B29
+AddMRCA Node-05 Tag_Rhodo1
+
+run

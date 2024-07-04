@@ -1,0 +1,62 @@
+
+1. rkpK
+UDP-glucose 6-dehydrogenase [Sinorhizobium meliloti 1021]
+Other Aliases: SMc02641
+Annotation:  NC_003047.1 (1179630..1180943, complement)
+ID: 1232726
+
+2. Smed_0688
+UDP-glucose 6-dehydrogenase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_0688
+Annotation:  NC_009636.1 (741511..742824, complement)
+ID: 5321525
+
+3. udg2
+UDP-glucose 6-dehydrogenase 2 [Burkholderia pseudomallei K96243]
+Other Aliases: BPSS1833, ugd
+Chromosome: 2
+Annotation: Chromosome 2 NC_006351.1 (2492704..2494125, complement)
+ID: 3096805
+
+4. rkpK
+UDP-glucose 6-dehydrogenase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_c02641
+Annotation:  NC_020528.1 (1179386..1181077, complement)
+This record was discontinued.
+ID: 14805514
+
+5. Zymop_0445
+nucleotide sugar dehydrogenase [Zymomonas mobilis subsp. pomaceae ATCC 29192]
+Other Aliases: Zymop_0445
+Annotation:  NC_015709.1 (517568..518899, complement)
+This record was discontinued.
+ID: 10882369
+
+6. Meso_2782
+UDP-glucose/GDP-mannose dehydrogenase [Chelativorans sp. BNC1]
+Other Aliases: Meso_2782
+Annotation:  NC_008254.1 (3029884..3031257)
+This record was discontinued.
+ID: 4179192
+
+7. rkpK
+UDP-glucose 6-dehydrogenase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH03238
+Annotation:  NC_007761.1 (3404415..3405722)
+This record was discontinued.
+ID: 3891478
+
+8. rkpK
+UDP-glucose 6-dehydrogenase [Bacteroides fragilis NCTC 9343]
+Other Aliases: BF9343_2303
+Annotation:  NC_003228.3 (2784944..2786257)
+This record was discontinued.
+ID: 3289341
+
+9. wcfY
+putative LPS biosynthesis related UDP-glucose dehydrogenase [Bacteroides fragilis NCTC 9343]
+Other Aliases: BF9343_1821
+Annotation:  NC_003228.3 (2222744..2224066)
+This record was discontinued.
+ID: 3287139
+

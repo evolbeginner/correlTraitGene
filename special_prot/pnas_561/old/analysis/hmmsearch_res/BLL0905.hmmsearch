@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+regS|BLL0905         -            440 HATPase_c            PF02518.24   111   5.7e-18   51.8   0.0   1   1     1e-17     1e-17   51.0   0.0    10   109   322   426   316   428 0.81 -
+regS|BLL0905         -            440 HATPase_c_2          PF13581.4    125   2.9e-07   16.7   0.0   1   1     5e-07     5e-07   16.0   0.0    36   112   322   402   278   424 0.77 -
+regS|BLL0905         -            440 HATPase_c_3          PF13589.4    137   8.8e-08   18.3   0.0   1   1   1.5e-07   1.5e-07   17.6   0.0     9    76   324   389   319   410 0.81 -
+regS|BLL0905         -            440 HisKA                PF00512.23    64   5.3e-12   32.0   0.0   1   1   1.1e-11   1.1e-11   30.9   0.0     3    62   211   272   209   274 0.93 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLL0905.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLL0905.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLL0905.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:54:11 2018
+# [ok]

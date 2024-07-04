@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+|AZC_0607            -            113 HypA                 PF01155.17   112   1.2e-31   95.3   0.1   1   1   1.3e-31   1.3e-31   95.1   0.1     1   112     1   112     1   112 0.97 -
+|AZC_0607            -            113 Lar_restr_allev      PF14354.4     62   5.6e-06   13.0   2.6   1   2     0.024     0.024    1.4   0.0    27    35    64    77     6    83 0.75 -
+|AZC_0607            -            113 Lar_restr_allev      PF14354.4     62   5.6e-06   13.0   2.6   2   2   1.4e-05   1.4e-05   11.7   0.7     2    15    85    98    84   106 0.83 -
+|AZC_0607            -            113 Prim_Zn_Ribbon       PF08273.10    39     4e-06   13.5   5.9   1   2     0.004     0.004    3.9   0.0    23    33    68    78    57    81 0.82 -
+|AZC_0607            -            113 Prim_Zn_Ribbon       PF08273.10    39     4e-06   13.5   5.9   2   2   4.9e-05   4.9e-05   10.0   3.2     4    12    87    95    84    96 0.85 -
+|AZC_0607            -            113 zinc_ribbon_9        PF14369.4     35   8.8e-09   21.9   2.5   1   1   1.6e-08   1.6e-08   21.1   2.5     2    30    70    95    69    98 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/AZC_0607.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/AZC_0607.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/AZC_0607.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:29:20 2018
+# [ok]

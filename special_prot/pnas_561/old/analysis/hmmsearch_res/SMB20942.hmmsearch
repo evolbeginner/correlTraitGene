@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+exoB|SMB20942        -            328 3Beta_HSD            PF01073.17   282   1.6e-19   56.0   0.0   1   2   5.1e-18   5.1e-18   51.1   0.0     1   159     7   154     7   158 0.83 -
+exoB|SMB20942        -            328 3Beta_HSD            PF01073.17   282   1.6e-19   56.0   0.0   2   2    0.0027    0.0027    2.8   0.0   207   237   215   245   205   252 0.84 -
+exoB|SMB20942        -            328 adh_short            PF00106.23   195   4.5e-07   15.7   0.0   1   1     1e-06     1e-06   14.5   0.0     2    65     5    61     4    71 0.77 -
+exoB|SMB20942        -            328 Epimerase            PF01370.19   241   1.4e-55  174.5   0.0   1   1   1.8e-55   1.8e-55  174.1   0.0     1   241     6   254     6   254 0.93 -
+exoB|SMB20942        -            328 GDP_Man_Dehyd        PF16363.3    332   9.1e-60  188.8   0.0   1   1   1.3e-59   1.3e-59  188.3   0.0     1   329     7   314     7   317 0.85 -
+exoB|SMB20942        -            328 KR                   PF08659.8    180   5.8e-06   12.5   0.5   1   1   6.5e-05   6.5e-05    9.1   0.5     4    30     7    33     5   129 0.73 -
+exoB|SMB20942        -            328 NAD_binding_4        PF07993.10   257   4.3e-12   31.8   0.0   1   1   1.1e-11   1.1e-11   30.4   0.0    89   215    70   182    58   198 0.84 -
+exoB|SMB20942        -            328 NmrA                 PF05368.11   233   2.6e-08   19.8   0.0   1   1   5.4e-08   5.4e-08   18.8   0.0     1   103     6   120     6   161 0.84 -
+exoB|SMB20942        -            328 Polysacc_synt_2      PF02719.13   294   1.2e-18   53.4   0.0   1   1   1.9e-17   1.9e-17   49.4   0.0     1   170     6   172     6   177 0.77 -
+exoB|SMB20942        -            328 RmlD_sub_bind        PF04321.15   287   6.1e-19   54.2   0.0   1   1   8.6e-19   8.6e-19   53.7   0.0     2   147     5   169     4   186 0.92 -
+exoB|SMB20942        -            328 UDPG_MGDP_dh_N       PF03721.12   187   3.1e-06   13.0   0.1   1   2   1.1e-05   1.1e-05   11.3   0.1     4    31     7    35     4    45 0.83 -
+exoB|SMB20942        -            328 UDPG_MGDP_dh_N       PF03721.12   187   3.1e-06   13.0   0.1   2   2     0.082     0.082   -1.4   0.0   128   179   258   308   231   315 0.71 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMB20942.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMB20942.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMB20942.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:40:24 2018
+# [ok]

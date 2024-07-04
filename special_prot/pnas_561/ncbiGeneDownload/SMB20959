@@ -1,0 +1,44 @@
+
+1. exoO
+glucosyltransferase [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b20959, SMb20959
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (1186387..1187433)
+ID: 1237415
+
+2. Smed_4959
+glycosyl transferase family protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4959
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (1471511..1472533)
+ID: 5318474
+
+3. exoO
+putative exopolysaccharide biosynthesis protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b20959
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1186393..1187439)
+This record was discontinued.
+ID: 14756680
+
+4. Caul_4812
+glycosyl transferase family protein [Caulobacter sp. K31]
+Other Aliases: Caul_4812
+Annotation:  NC_010338.1 (5206901..5207908)
+This record was discontinued.
+ID: 5902274
+
+5. RHE_CH01521
+glucosyltransferase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH01521
+Annotation:  NC_007761.1 (1601297..1602193, complement)
+This record was discontinued.
+ID: 3890956
+
+6. RHE_CH01520
+beta-D-1,6 glucosyltransferase [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH01520
+Annotation:  NC_007761.1 (1598817..1601189, complement)
+This record was discontinued.
+ID: 3890955
+

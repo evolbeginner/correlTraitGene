@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+noeJ|RHE_CH03244     -            486 Cupin_2              PF07883.9     71   5.5e-15   41.2   0.2   1   1     1e-14     1e-14   40.3   0.2     6    69   401   464   397   466 0.85 -
+noeJ|RHE_CH03244     -            486 MannoseP_isomer      PF01050.16   151   3.3e-68  214.5   0.1   1   1   5.2e-68   5.2e-68  213.9   0.1     2   151   330   481   329   481 0.97 -
+noeJ|RHE_CH03244     -            486 NTP_transferase      PF00483.21   248   1.2e-63  201.0   0.0   1   1   1.8e-63   1.8e-63  200.5   0.0     2   242    18   296    17   302 0.94 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/RHE_CH03244.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/RHE_CH03244.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/RHE_CH03244.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 12:10:16 2019
+# [ok]

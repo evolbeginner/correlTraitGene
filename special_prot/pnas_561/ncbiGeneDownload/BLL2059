@@ -1,0 +1,23 @@
+
+1. groEL
+molecular chaperone GroEL [Bradyrhizobium diazoefficiens USDA 110]
+Other Aliases: bll2059
+Annotation:  NC_004463.1 (2220960..2222600, complement)
+ID: 1055489
+
+2. SinmeB_5085
+chaperonin GroEL [Sinorhizobium meliloti BL225C]
+Other Aliases: SinmeB_5085
+Genomic context: Plasmid pSINMEB01
+Annotation:  NC_017324.1 (35273..36913, complement)
+This record was discontinued.
+ID: 12307713
+
+3. Sinme_6248
+chaperonin GroEL [Sinorhizobium meliloti AK83]
+Other Aliases: Sinme_6248
+Chromosome: 3
+Annotation: Chromosome 3 NC_015591.1 (970729..972369, complement)
+This record was discontinued.
+ID: 10729291
+

@@ -1,0 +1,42 @@
+
+1. pit
+phosphate transporter [Sinorhizobium meliloti 1021]
+Other Aliases: SMc02861
+Annotation:  NC_003047.1 (214914..215918, complement)
+ID: 1231817
+
+2. Smed_3393
+phosphate transporter [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_3393
+Annotation:  NC_009636.1 (3598801..3599805, complement)
+ID: 5324277
+
+3. BPSL1464
+integral membrane transport protein [Burkholderia pseudomallei K96243]
+Other Aliases: BPSL1464
+Chromosome: 1
+Annotation: Chromosome 1 NC_006350.1 (1698513..1699523)
+ID: 3094584
+
+4. pit1
+Phosphate transport transmembrane protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_c02861
+Annotation:  NC_020528.1 (214915..215919, complement)
+This record was discontinued.
+ID: 14804337
+
+5. Rleg2_5472
+phosphate transporter [Rhizobium leguminosarum bv. trifolii WSM2304]
+Other Aliases: Rleg2_5472
+Genomic context: Plasmid pRLG201
+Annotation:  NC_011368.1 (1119620..1120621, complement)
+This record was discontinued.
+ID: 6978566
+
+6. pit
+phosphate transporter [Rhizobium etli CFN 42]
+Other Aliases: RHE_CH00946
+Annotation:  NC_007761.1 (994752..995765, complement)
+This record was discontinued.
+ID: 3891768
+

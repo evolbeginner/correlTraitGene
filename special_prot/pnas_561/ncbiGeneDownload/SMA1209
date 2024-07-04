@@ -1,0 +1,38 @@
+
+1. fixI1
+FixI1 ATPase [Sinorhizobium meliloti 1021]
+Other Aliases: SMa1209
+Genomic context: Plasmid pSymA
+Annotation:  NC_003037.1 (662787..665060, complement)
+ID: 1235695
+
+2. Smed_6264
+heavy metal transport/detoxification protein [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_6264
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (1184358..1185302, complement)
+ID: 5320566
+
+3. Smed_5929
+copper-translocating P-type ATPase [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_5929
+Genomic context: Plasmid pSMED02
+Annotation:  NC_009621.1 (891378..893651, complement)
+ID: 5320231
+
+4. fixI1
+FixI1 ATPase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_a1209
+Genomic context: Plasmid pSymA
+Annotation:  NC_020527.1 (662454..664727, complement)
+This record was discontinued.
+ID: 14746383
+
+5. RHE_PD00290
+cation transport ATPase [Rhizobium etli CFN 42]
+Other Aliases: RHE_PD00290
+Genomic context: Plasmid symbiotic plasmid p42d
+Annotation:  NC_004041.2 (304707..306977, complement)
+This record was discontinued.
+ID: 1005012
+

@@ -1,0 +1,35 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+fixP2|SMA0769        -            287 CCP_MauG             PF03150.12   150   7.8e-06   12.8   0.8   1   2     0.003     0.003    4.4   0.3    21    35   118   132   111   155 0.76 -
+fixP2|SMA0769        -            287 CCP_MauG             PF03150.12   150   7.8e-06   12.8   0.8   2   2    0.0012    0.0012    5.7   0.0    23    36   215   228   202   257 0.74 -
+fixP2|SMA0769        -            287 Cytochrome_C7        PF14522.4     73   6.4e-07   15.7   0.0   1   2   0.00025   0.00025    7.3   0.0    13    58   118   129    79   151 0.72 -
+fixP2|SMA0769        -            287 Cytochrome_C7        PF14522.4     73   6.4e-07   15.7   0.0   2   2   0.00056   0.00056    6.2   0.0    14    23   214   223   199   248 0.75 -
+fixP2|SMA0769        -            287 Cytochrome_CBB3      PF13442.4     67   1.6e-29   88.4   0.1   1   2   4.8e-17   4.8e-17   48.4   0.0     2    67   109   192   108   192 0.82 -
+fixP2|SMA0769        -            287 Cytochrome_CBB3      PF13442.4     67   1.6e-29   88.4   0.1   2   2   9.3e-14   9.3e-14   37.9   0.0     3    67   205   280   203   280 0.82 -
+fixP2|SMA0769        -            287 Cytochrom_C          PF00034.19    92     1e-22   67.4   0.1   1   2   1.2e-11   1.2e-11   31.9   0.0     4    91   113   195   110   196 0.87 -
+fixP2|SMA0769        -            287 Cytochrom_C          PF00034.19    92     1e-22   67.4   0.1   2   2   4.8e-12   4.8e-12   33.2   0.1     2    42   206   246   205   269 0.86 -
+fixP2|SMA0769        -            287 Cytochrom_c3_2       PF14537.4     80   3.4e-06   13.8   0.2   1   2    0.0011    0.0011    5.8   0.1     6    17   118   129   114   140 0.77 -
+fixP2|SMA0769        -            287 Cytochrom_c3_2       PF14537.4     80   3.4e-06   13.8   0.2   2   2    0.0011    0.0011    5.7   0.0    26    38   213   225   202   237 0.73 -
+fixP2|SMA0769        -            287 Cytochrom_C550       PF14495.4    136   8.7e-10   24.7   0.0   1   2   2.9e-05   2.9e-05   10.0   0.0    24    46   108   130    89   150 0.77 -
+fixP2|SMA0769        -            287 Cytochrom_C550       PF14495.4    136   8.7e-10   24.7   0.0   2   2   5.5e-06   5.5e-06   12.4   0.0    26    43   205   222   184   258 0.83 -
+fixP2|SMA0769        -            287 DnaJ_CXXCXGXG        PF00684.17    67   1.9e-06   14.5   0.6   1   2   0.00019   0.00019    8.1   0.2    40    52   117   129   104   137 0.64 -
+fixP2|SMA0769        -            287 DnaJ_CXXCXGXG        PF00684.17    67   1.9e-06   14.5   0.6   2   2    0.0032    0.0032    4.2   0.0    14    23   213   222   202   237 0.67 -
+fixP2|SMA0769        -            287 DUF1924              PF09086.9     96   3.3e-06   13.7   0.4   1   2    0.0027    0.0027    4.4   0.1    24    36   116   128   104   137 0.78 -
+fixP2|SMA0769        -            287 DUF1924              PF09086.9     96   3.3e-06   13.7   0.4   2   2   0.00037   0.00037    7.2   0.0    27    38   214   225   204   231 0.79 -
+fixP2|SMA0769        -            287 DUF4148              PF13663.4     54   2.2e-06   14.1   0.0   1   1   5.8e-06   5.8e-06   12.8   0.0    29    43    69    83    47    86 0.96 -
+fixP2|SMA0769        -            287 FixP_N               PF14715.4     48   4.2e-31   92.8   5.4   1   1   7.3e-31   7.3e-31   92.1   5.4     1    47    11    57    11    58 0.97 -
+fixP2|SMA0769        -            287 GSu_C4xC__C2xCH      PF09698.8     36   8.3e-07   16.1   2.1   1   2    0.0002    0.0002    8.5   0.7     6    26   123   148   120   154 0.78 -
+fixP2|SMA0769        -            287 GSu_C4xC__C2xCH      PF09698.8     36   8.3e-07   16.1   2.1   2   2    0.0011    0.0011    6.1   0.0    29    36   213   220   194   247 0.77 -
+fixP2|SMA0769        -            287 PSCyt1               PF07635.9     59   4.4e-06   13.6   0.2   1   2     0.002     0.002    5.0   0.0     1    17   121   139   121   156 0.71 -
+fixP2|SMA0769        -            287 PSCyt1               PF07635.9     59   4.4e-06   13.6   0.2   2   2    0.0012    0.0012    5.8   0.0     1    12   216   226   216   262 0.77 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMA0769.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMA0769.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMA0769.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:58:00 2018
+# [ok]

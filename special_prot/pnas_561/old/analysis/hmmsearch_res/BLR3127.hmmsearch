@@ -1,0 +1,33 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+cycK|BLR3127         -            660 CcmF_C               PF16327.3    323  1.1e-116  375.7   7.5   1   2      0.17      0.17   -2.8   0.6   132   132    66    66     9   141 0.55 -
+cycK|BLR3127         -            660 CcmF_C               PF16327.3    323  1.1e-116  375.7   7.5   2   2  1.1e-116  1.1e-116  375.7   7.5     1   323   315   640   315   640 0.96 -
+cycK|BLR3127         -            660 Cytochrom_C_asm      PF01578.18   214   5.1e-57  179.2  20.6   1   2      0.16      0.16   -2.1   0.2    42    51    47    55     6    83 0.43 -
+cycK|BLR3127         -            660 Cytochrom_C_asm      PF01578.18   214   5.1e-57  179.2  20.6   2   2   5.1e-57   5.1e-57  179.2  20.6     1   208    89   295    89   298 0.98 -
+cycK|BLR3127         -            660 DUF2207              PF09972.7    493         1  -31.4  41.6   1   2         1         1  -10.8  11.8   429   429   139   139    39   238 0.61 -
+cycK|BLR3127         -            660 DUF2207              PF09972.7    493         1  -31.4  41.6   2   2         1         1  -17.5  21.6   383   436   270   334   264   473 0.64 -
+cycK|BLR3127         -            660 DUF423               PF04241.13    88         1  -14.3  31.3   1   8      0.12      0.12   -1.1   0.2    26    68     7    52     3    64 0.60 -
+cycK|BLR3127         -            660 DUF423               PF04241.13    88         1  -14.3  31.3   2   8     0.021     0.021    1.4   0.1    20    63    65   109    58   132 0.79 -
+cycK|BLR3127         -            660 DUF423               PF04241.13    88         1  -14.3  31.3   3   8      0.31      0.31   -2.3   0.1    57    71   175   189   169   211 0.68 -
+cycK|BLR3127         -            660 DUF423               PF04241.13    88         1  -14.3  31.3   4   8      0.44      0.44   -2.9   0.7    46    64   206   224   180   231 0.57 -
+cycK|BLR3127         -            660 DUF423               PF04241.13    88         1  -14.3  31.3   5   8   0.00051   0.00051    6.6   1.3    24    77   247   295   241   306 0.77 -
+cycK|BLR3127         -            660 DUF423               PF04241.13    88         1  -14.3  31.3   6   8      0.28      0.28   -2.2   0.1    49    69   312   333   295   346 0.53 -
+cycK|BLR3127         -            660 DUF423               PF04241.13    88         1  -14.3  31.3   7   8      0.65      0.65   -3.4   0.1    53    72   360   373   349   384 0.56 -
+cycK|BLR3127         -            660 DUF423               PF04241.13    88         1  -14.3  31.3   8   8      0.39      0.39   -2.7   0.8    61    63   429   431   397   466 0.51 -
+cycK|BLR3127         -            660 ResB                 PF05140.12   495   4.1e-06   11.8   0.1   1   2     0.044     0.044   -1.5   0.1   150   176   493   519   487   546 0.80 -
+cycK|BLR3127         -            660 ResB                 PF05140.12   495   4.1e-06   11.8   0.1   2   2   2.9e-05   2.9e-05    9.0   0.0   384   464   559   644   544   654 0.79 -
+cycK|BLR3127         -            660 Tetraspannin         PF00335.18   208         1  -15.3  33.3   1   4      0.17      0.17   -2.2   0.1    48    93    46    57     6    80 0.43 -
+cycK|BLR3127         -            660 Tetraspannin         PF00335.18   208         1  -15.3  33.3   2   4      0.49      0.49   -3.7   1.2    11    23   102   114    94   144 0.39 -
+cycK|BLR3127         -            660 Tetraspannin         PF00335.18   208         1  -15.3  33.3   3   4    0.0042    0.0042    3.1   5.7     8    94   213   324   210   338 0.67 -
+cycK|BLR3127         -            660 Tetraspannin         PF00335.18   208         1  -15.3  33.3   4   4      0.11      0.11   -1.6   6.5     7    98   352   443   348   478 0.82 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/BLR3127.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/BLR3127.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/BLR3127.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:31:28 2018
+# [ok]

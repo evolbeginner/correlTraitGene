@@ -1,0 +1,37 @@
+
+1. dctQ
+C4-dicarboxylate small membrane transport protein [Sinorhizobium meliloti 1021]
+Other Aliases: SM_b21352, SMb21352
+Genomic context: Plasmid pSymB
+Annotation:  NC_003078.1 (1017835..1018332, complement)
+ID: 1237259
+
+2. Smed_4747
+tripartite ATP-independent periplasmic transporter DctQ [Sinorhizobium medicae WSM419]
+Other Aliases: Smed_4747
+Genomic context: Plasmid pSMED01
+Annotation:  NC_009620.1 (1268734..1269294, complement)
+ID: 5319146
+
+3. SM2011_b21352
+Putative pyruvic acid ABC transporter,permease [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_b21352
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1017838..1018377, complement)
+This record was discontinued.
+ID: 14756483
+
+4. YPTB1605
+TRAP dicarboxylate family transporter subunit DctQ [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: YPTB1605
+Annotation:  NC_006155.1 (1952482..1952988, complement)
+This record was discontinued.
+ID: 2953748
+
+5. BPP2181
+hypothetical protein [Bordetella parapertussis 12822]
+Other Aliases: BPP2181
+Annotation:  NC_002928.3 (2332633..2333190)
+This record was discontinued.
+ID: 1667241
+

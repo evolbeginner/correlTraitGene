@@ -1,0 +1,37 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+guaB|RHE_CH00794     -            494 CBS                  PF00571.26    57   3.5e-27   81.0   2.0   1   3   2.3e-16   2.3e-16   46.4   0.0     5    54    98   147    88   149 0.88 -
+guaB|RHE_CH00794     -            494 CBS                  PF00571.26    57   3.5e-27   81.0   2.0   2   3   3.6e-12   3.6e-12   32.9   0.1     2    51   155   205   154   210 0.94 -
+guaB|RHE_CH00794     -            494 CBS                  PF00571.26    57   3.5e-27   81.0   2.0   3   3      0.42      0.42   -2.5   0.0    20    38   237   253   232   262 0.71 -
+guaB|RHE_CH00794     -            494 DeoC                 PF01791.7    235   1.4e-06   14.2   6.0   1   2       0.4       0.4   -3.7   0.0   214   227    62    75    46    93 0.69 -
+guaB|RHE_CH00794     -            494 DeoC                 PF01791.7    235   1.4e-06   14.2   6.0   2   2   1.4e-06   1.4e-06   14.2   4.4   152   229   283   365   259   368 0.80 -
+guaB|RHE_CH00794     -            494 DHO_dh               PF01180.19   295   3.8e-08   18.9   1.8   1   3       0.1       0.1   -2.1   0.0   180   232    83   134    76   142 0.58 -
+guaB|RHE_CH00794     -            494 DHO_dh               PF01180.19   295   3.8e-08   18.9   1.8   2   3     0.099     0.099   -2.1   0.0   113   255   263   284   238   305 0.59 -
+guaB|RHE_CH00794     -            494 DHO_dh               PF01180.19   295   3.8e-08   18.9   1.8   3   3   3.8e-08   3.8e-08   18.9   1.8   234   276   326   368   313   374 0.86 -
+guaB|RHE_CH00794     -            494 FMN_dh               PF01070.16   348     4e-11   28.5  12.7   1   2     4e-09     4e-09   22.0  13.6   217   301   275   366   233   371 0.71 -
+guaB|RHE_CH00794     -            494 FMN_dh               PF01070.16   348     4e-11   28.5  12.7   2   2    0.0096    0.0096    1.0   0.0   315   344   432   461   429   464 0.91 -
+guaB|RHE_CH00794     -            494 G3P_antiterm         PF04309.10   173   1.3e-05   10.9   2.8   1   3      0.11      0.11   -2.0   0.0   117   146    23    53    21    77 0.59 -
+guaB|RHE_CH00794     -            494 G3P_antiterm         PF04309.10   173   1.3e-05   10.9   2.8   2   3     0.027     0.027    0.0   0.1   131   166   265   300   259   302 0.82 -
+guaB|RHE_CH00794     -            494 G3P_antiterm         PF04309.10   173   1.3e-05   10.9   2.8   3   3   4.3e-05   4.3e-05    9.1   0.2   131   167   329   364   319   367 0.79 -
+guaB|RHE_CH00794     -            494 Glu_synthase         PF01645.15   368   2.7e-08   19.4   6.0   1   1   4.9e-08   4.9e-08   18.5   6.0   207   304   274   366   243   369 0.77 -
+guaB|RHE_CH00794     -            494 His_biosynth         PF00977.19   229   3.3e-09   22.6   5.3   1   1   1.2e-08   1.2e-08   20.9   5.0    78   223   228   368   196   373 0.81 -
+guaB|RHE_CH00794     -            494 IMPDH                PF00478.23   345  8.3e-161  520.7   9.0   1   1  9.5e-161  9.5e-161  520.5   9.0     1   345    13   478    13   478 0.99 -
+guaB|RHE_CH00794     -            494 NanE                 PF04131.12   192   5.4e-07   15.1   2.3   1   1   2.4e-06   2.4e-06   13.0   2.3    57   177   238   369   233   374 0.72 -
+guaB|RHE_CH00794     -            494 NMO                  PF03060.13   331   8.7e-20   57.4  10.7   1   2   9.8e-09   9.8e-09   21.0   0.0    10    59    45    93    37   104 0.91 -
+guaB|RHE_CH00794     -            494 NMO                  PF03060.13   331   8.7e-20   57.4  10.7   2   2   2.1e-13   2.1e-13   36.4   8.3    93   236   225   379   199   448 0.76 -
+guaB|RHE_CH00794     -            494 QRPTase_C            PF01729.17   169   4.3e-07   16.0   0.2   1   2   2.6e-06   2.6e-06   13.5   0.1    68   155   213   302   198   310 0.82 -
+guaB|RHE_CH00794     -            494 QRPTase_C            PF01729.17   169   4.3e-07   16.0   0.2   2   2     0.062     0.062   -0.8   0.0    69   106   325   364   288   371 0.63 -
+guaB|RHE_CH00794     -            494 ThiG                 PF05690.12   247   5.8e-07   15.1   6.4   1   1   1.1e-06   1.1e-06   14.2   5.7   152   211   310   372   282   377 0.73 -
+guaB|RHE_CH00794     -            494 TMP-TENI             PF02581.15   181   3.6e-06   12.6   3.4   1   2    0.0016    0.0016    3.9   0.1    13    58   232   277   224   304 0.76 -
+guaB|RHE_CH00794     -            494 TMP-TENI             PF02581.15   181   3.6e-06   12.6   3.4   2   2   5.1e-05   5.1e-05    8.8   2.3    90   177   269   364   264   368 0.72 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/RHE_CH00794.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/RHE_CH00794.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/RHE_CH00794.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:50:33 2018
+# [ok]

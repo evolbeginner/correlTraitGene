@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+dctA|SMB20611        -            441 MARVEL               PF01284.21   144     0.007    2.6  26.3   1   3   7.5e-05   7.5e-05    9.0   2.3     6    62    49   105    46   113 0.86 -
+dctA|SMB20611        -            441 MARVEL               PF01284.21   144     0.007    2.6  26.3   2   3    0.0074    0.0074    2.5   7.4    11    64   160   248   159   266 0.74 -
+dctA|SMB20611        -            441 MARVEL               PF01284.21   144     0.007    2.6  26.3   3   3     0.018     0.018    1.2   1.5    56   103   321   370   299   410 0.82 -
+dctA|SMB20611        -            441 Phage_holin_3_5      PF16085.3    113     0.018    1.5  13.8   1   3   3.2e-05   3.2e-05   10.3   0.7     8    75    54   121    48   139 0.78 -
+dctA|SMB20611        -            441 Phage_holin_3_5      PF16085.3    113     0.018    1.5  13.8   2   3      0.42      0.42   -2.9   0.3    60    78   201   219   189   236 0.52 -
+dctA|SMB20611        -            441 Phage_holin_3_5      PF16085.3    113     0.018    1.5  13.8   3   3      0.13      0.13   -1.3   1.2    47    94   363   409   339   416 0.52 -
+dctA|SMB20611        -            441 Phage_holin_3_6      PF07332.9    113         1  -16.0  47.7   1   5         1         1   -4.4   0.5    75    82    24    31    19    35 0.41 -
+dctA|SMB20611        -            441 Phage_holin_3_6      PF07332.9    113         1  -16.0  47.7   2   5     0.004     0.004    3.5   4.0    24    89    42   107    40   119 0.61 -
+dctA|SMB20611        -            441 Phage_holin_3_6      PF07332.9    113         1  -16.0  47.7   3   5      0.83      0.83   -4.0   4.0    54    63   168   179   141   220 0.48 -
+dctA|SMB20611        -            441 Phage_holin_3_6      PF07332.9    113         1  -16.0  47.7   4   5      0.48      0.48   -3.2  11.3    40    83   210   258   195   277 0.55 -
+dctA|SMB20611        -            441 Phage_holin_3_6      PF07332.9    113         1  -16.0  47.7   5   5   0.00074   0.00074    5.8   4.8     6    86   328   411   324   423 0.78 -
+dctA|SMB20611        -            441 SDF                  PF00375.16   390  4.6e-111  357.6  38.7   1   1  5.3e-111  5.3e-111  357.4  38.7     1   390    19   411    19   411 0.97 -
+dctA|SMB20611        -            441 Tetraspannin         PF00335.18   208         1   -9.8  24.1   1   3     0.061     0.061   -0.7   2.4    50    95    58   105    21   141 0.53 -
+dctA|SMB20611        -            441 Tetraspannin         PF00335.18   208         1   -9.8  24.1   2   3     0.033     0.033    0.1   2.9     5    90    91   177    85   182 0.56 -
+dctA|SMB20611        -            441 Tetraspannin         PF00335.18   208         1   -9.8  24.1   3   3       0.5       0.5   -3.7  13.0    10    93   165   251   160   259 0.70 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     goodProt/SMB20611.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout analysis/hmmsearch_res/SMB20611.hmmsearch --noali /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm goodProt/SMB20611.fas 
+# Current dir:     /home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Thu Jul  5 12:13:15 2018
+# [ok]

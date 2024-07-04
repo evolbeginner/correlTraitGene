@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6   1  11   0.00017   0.00017    8.7   0.4     1    18     5    22     5    22 0.93 -
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6   2  11   5.7e-05   5.7e-05   10.1   6.8     4    18    26    40    23    40 0.92 -
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6   3  11   6.5e-07   6.5e-07   16.1   8.7     1    18    41    58    41    58 0.94 -
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6   4  11   4.2e-08   4.2e-08   19.8   2.1     1    18    59    76    59    76 0.95 -
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6   5  11   1.3e-07   1.3e-07   18.3   7.3     1    18    77    94    77    94 0.95 -
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6   6  11   8.3e-07   8.3e-07   15.8   4.6     1    18    86   103    86   103 0.94 -
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6   7  11   1.8e-07   1.8e-07   17.8   2.1     2    18    96   112    95   112 0.95 -
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6   8  11   1.8e-08   1.8e-08   20.9   3.5     2    18   105   121   104   121 0.95 -
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6   9  11   4.2e-08   4.2e-08   19.8   4.5     2    18   114   130   113   130 0.94 -
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6  10  11     7e-06     7e-06   12.9   3.2     2    18   123   139   122   139 0.94 -
+expE1(wgeA)|SMB21314 -            219 HemolysinCabind      PF00353.17    18   1.5e-24   70.5  97.6  11  11   0.00057   0.00057    7.0   0.9    10    18   142   150   140   151 0.58 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm
+# Target file:     allProt/SMB21314.fas
+# Option settings: /home-user/software/hmmer-search/v3.1b2/hmmer-3.1b2-linux-intel-x86_64/binaries/hmmsearch --domtblout hmmsearch/SMB21314.hmmsearch --noali --cut_ga /home-db/db_from_SZcluster/Pfam/v30.0/Pfam-A.hmm allProt/SMB21314.fas 
+# Current dir:     /mnt/home-user/sswang/project/Rhizobiales/scripts/correlTraitGene/special_prot/pnas_561
+# Date:            Sat Mar 30 13:38:13 2019
+# [ok]

@@ -88,7 +88,8 @@ results = Parallel.map(gene_infiles, in_processes: cpu) do |gene_infile|
     next if no == 0
     if a[0].include?(taxon)
       gene2num[c][0] += 1
-    elsif a[1].include?(taxon)
+    end
+    if a[1].include?(taxon)
       gene2num[c][1] += 1
     end
   end
